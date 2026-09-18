@@ -1,0 +1,11 @@
+[
+  {
+    "category": "முதற்பகுதி",
+    "quizzes": [
+      { "file": "Tamil_Part 1.json", "title": "அலகு 1" },
+      { "file": "Tamil_Part 2.json", "title": "அலகு 2" },
+      { "file": "Tamil_Part 3.json", "title": "அலகு 3" },
+      { "file": "Tamil_Part 4.json", "title": "அலகு 4" }
+    ]
+  }
+]

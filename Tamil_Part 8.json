@@ -1,0 +1,492 @@
+[
+  {
+    "questionNumber": 1,
+    "question": "இயல் 8-இன் தலைப்பு என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "பூக்கள், பழங்கள், காய்கள், கீரைகள், சுவைகள் - இயற்கையின் கொடை", "rationale": "இயல் 8-இன் தலைப்பு இதுவே.", "isCorrect": true },
+      { "text": "விலங்குகளும் பறவைகளும்", "rationale": "இது இயல் 7.", "isCorrect": false },
+      { "text": "நல்ல பழக்கவழக்கங்கள்", "rationale": "இது இயல் 6.", "isCorrect": false },
+      { "text": "உயிர் எழுத்துகள்", "rationale": "இது இயல் 1.", "isCorrect": false }
+    ],
+    "hint": "இயற்கையின் கொடை."
+  },
+  {
+    "questionNumber": 2,
+    "question": "'செம்பருத்தி'ப் பூவின் நிறம் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "சிவப்பு", "rationale": "செம்பருத்திப் பூவின் நிறம் சிவப்பு.", "isCorrect": true },
+      { "text": "மஞ்சள்", "rationale": "இது சாமந்தி.", "isCorrect": false },
+      { "text": "வெள்ளை", "rationale": "இது மல்லிகை.", "isCorrect": false },
+      { "text": "இளஞ்சிவப்பு", "rationale": "இது அரளி.", "isCorrect": false }
+    ],
+    "hint": "சிவப்பு நிறம்."
+  },
+  {
+    "questionNumber": 3,
+    "question": "'சாமந்தி'ப் பூவின் நிறம் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "மஞ்சள்", "rationale": "சாமந்திப் பூவின் நிறம் மஞ்சள்.", "isCorrect": true },
+      { "text": "சிவப்பு", "rationale": "இது செம்பருத்தி.", "isCorrect": false },
+      { "text": "வெள்ளை", "rationale": "இது மல்லிகை.", "isCorrect": false },
+      { "text": "இளஞ்சிவப்பு", "rationale": "இது அரளி.", "isCorrect": false }
+    ],
+    "hint": "மஞ்சள் நிறம்."
+  },
+  {
+    "questionNumber": 4,
+    "question": "'மல்லிகை'ப் பூவின் நிறம் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "வெள்ளை", "rationale": "மல்லிகைப் பூவின் நிறம் வெள்ளை.", "isCorrect": true },
+      { "text": "சிவப்பு", "rationale": "இது செம்பருத்தி.", "isCorrect": false },
+      { "text": "மஞ்சள்", "rationale": "இது சாமந்தி.", "isCorrect": false },
+      { "text": "ஊதா", "rationale": "இது தாமரை இல்லை.", "isCorrect": false }
+    ],
+    "hint": "வெள்ளை நிறம், நல்ல மணம்."
+  },
+  {
+    "questionNumber": 5,
+    "question": "'அல்லி' மலர் எங்கே பூக்கும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "நீர்நிலையில்", "rationale": "அல்லி நீர்நிலையில் பூக்கும்.", "isCorrect": true },
+      { "text": "மரத்தில்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "செடியில்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "கொடியில்", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "நீரில் பூக்கும்."
+  },
+  {
+    "questionNumber": 6,
+    "question": "மல்லிகைப் பூ என்ன தரும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "நல்ல மணம்", "rationale": "மல்லிகைப் பூ நல்ல மணம் தரும்.", "isCorrect": true },
+      { "text": "கசப்பு", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "புளிப்பு", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "உவர்ப்பு", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "நறுமணம்."
+  },
+  {
+    "questionNumber": 7,
+    "question": "'தாமரை' மலர் எங்கே பூக்கும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "நீர்நிலையில்", "rationale": "தாமரை நீர்நிலையில் பூக்கும்.", "isCorrect": true },
+      { "text": "மரத்தில்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "பாறையில்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "பாலைவனத்தில்", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "நீரில் பூக்கும்."
+  },
+  {
+    "questionNumber": 8,
+    "question": "'வாடாமல்லி'ப் பூவின் நிறம் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "சிவப்பு", "rationale": "வாடாமல்லிப் பூவின் நிறம் சிவப்பு.", "isCorrect": true },
+      { "text": "வெள்ளை", "rationale": "இது மல்லிகை.", "isCorrect": false },
+      { "text": "மஞ்சள்", "rationale": "இது சாமந்தி.", "isCorrect": false },
+      { "text": "நீலம்", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "சிவப்பு நிறம், வாடாது."
+  },
+  {
+    "questionNumber": 9,
+    "question": "'கேரட்' கண்களுக்கு எவ்வாறு உதவுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "கண்களுக்கு நல்லது", "rationale": "கேரட் கண்களுக்கு நல்லது.", "isCorrect": true },
+      { "text": "கண்களுக்கு கெடுதல்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "கண்களை மூடும்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "கண்களை காயப்படுத்தும்", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "கேரட் நல்லது."
+  },
+  {
+    "questionNumber": 10,
+    "question": "தக்காளியின் நிறம் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "சிவப்பு", "rationale": "தக்காளி சிவப்பு நிறம்.", "isCorrect": true },
+      { "text": "பச்சை", "rationale": "இது வெள்ளரிக்காய்.", "isCorrect": false },
+      { "text": "ஊதா", "rationale": "இது கத்தரிக்காய்.", "isCorrect": false },
+      { "text": "மஞ்சள்", "rationale": "இது மஞ்சள்.", "isCorrect": false }
+    ],
+    "hint": "சிவப்பு நிறம்."
+  },
+  {
+    "questionNumber": 11,
+    "question": "முருங்கைக்காய் எவ்வாறு இருக்கும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "சுவையாக இருக்கும்", "rationale": "முருங்கைக்காய் சுவையாக இருக்கும்.", "isCorrect": true },
+      { "text": "கசப்பாக இருக்கும்", "rationale": "இது பாகற்காய்.", "isCorrect": false },
+      { "text": "புளிப்பாக இருக்கும்", "rationale": "இது எலுமிச்சை.", "isCorrect": false },
+      { "text": "உவர்ப்பாக இருக்கும்", "rationale": "இது உப்பு.", "isCorrect": false }
+    ],
+    "hint": "சுவையான காய்."
+  },
+  {
+    "questionNumber": 12,
+    "question": "மிளகாய் எவ்வாறு இருக்கும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "காரமாக இருக்கும்", "rationale": "மிளகாய் காரமாக இருக்கும்.", "isCorrect": true },
+      { "text": "இனிப்பாக இருக்கும்", "rationale": "இது மாம்பழம்.", "isCorrect": false },
+      { "text": "புளிப்பாக இருக்கும்", "rationale": "இது எலுமிச்சை.", "isCorrect": false },
+      { "text": "கசப்பாக இருக்கும்", "rationale": "இது பாகற்காய்.", "isCorrect": false }
+    ],
+    "hint": "காரம்."
+  },
+  {
+    "questionNumber": 13,
+    "question": "வெள்ளரிக்காய் எதில் மிகுந்தது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "நீர்ச்சத்து", "rationale": "வெள்ளரிக்காய் நீர்ச்சத்து மிகுந்தது.", "isCorrect": true },
+      { "text": "காரம்", "rationale": "இது மிளகாய்.", "isCorrect": false },
+      { "text": "புளிப்பு", "rationale": "இது எலுமிச்சை.", "isCorrect": false },
+      { "text": "கசப்பு", "rationale": "இது பாகற்காய்.", "isCorrect": false }
+    ],
+    "hint": "நீர்."
+  },
+  {
+    "questionNumber": 14,
+    "question": "'மாம்பழம்' எவ்வாறு இருக்கும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "இனிப்பாக இருக்கும்", "rationale": "மாம்பழம் இனிப்பாக இருக்கும்.", "isCorrect": true },
+      { "text": "புளிப்பாக இருக்கும்", "rationale": "இது நெல்லிக்காய்.", "isCorrect": false },
+      { "text": "கசப்பாக இருக்கும்", "rationale": "இது பாகற்காய்.", "isCorrect": false },
+      { "text": "காரமாக இருக்கும்", "rationale": "இது மிளகாய்.", "isCorrect": false }
+    ],
+    "hint": "இனிப்பு."
+  },
+  {
+    "questionNumber": 15,
+    "question": "'நெல்லிக்காய்' எவ்வாறு இருக்கும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "புளிப்பாக இருக்கும்", "rationale": "நெல்லிக்காய் புளிப்பாக இருக்கும்.", "isCorrect": true },
+      { "text": "இனிப்பாக இருக்கும்", "rationale": "இது மாம்பழம்.", "isCorrect": false },
+      { "text": "கசப்பாக இருக்கும்", "rationale": "இது பாகற்காய்.", "isCorrect": false },
+      { "text": "காரமாக இருக்கும்", "rationale": "இது மிளகாய்.", "isCorrect": false }
+    ],
+    "hint": "புளிப்பு."
+  },
+  {
+    "questionNumber": 16,
+    "question": "'திராட்சை' எவ்வாறு காய்க்கும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "கொத்தாகக் காய்க்கும்", "rationale": "திராட்சை கொத்தாகக் காய்க்கும்.", "isCorrect": true },
+      { "text": "தனித்தனியாகக் காய்க்கும்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "வேரில் காய்க்கும்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "இலையில் காய்க்கும்", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "கொத்து."
+  },
+  {
+    "questionNumber": 17,
+    "question": "'தர்ப்பூசணி' எதில் மிகுந்தது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "நீர்ச்சத்து", "rationale": "தர்ப்பூசணி நீர்ச்சத்து மிகுந்தது.", "isCorrect": true },
+      { "text": "காரம்", "rationale": "இது மிளகாய்.", "isCorrect": false },
+      { "text": "கசப்பு", "rationale": "இது பாகற்காய்.", "isCorrect": false },
+      { "text": "புளிப்பு", "rationale": "இது எலுமிச்சை.", "isCorrect": false }
+    ],
+    "hint": "நீர்."
+  },
+  {
+    "questionNumber": 18,
+    "question": "கீரைகள் உடல்நலத்திற்கு எவ்வாறு உதவுகின்றன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "மிகவும் நல்லது", "rationale": "கீரைகள் உடல்நலத்திற்கு மிகவும் நல்லது.", "isCorrect": true },
+      { "text": "கெடுதல்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "எந்த பயனும் இல்லை", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "நோய் தரும்", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "கீரை நல்லது."
+  },
+  {
+    "questionNumber": 19,
+    "question": "முருங்கைக்கீரை உடலுக்கு என்ன தரும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "பலம்", "rationale": "முருங்கைக்கீரை உடலுக்குப் பலம் தரும்.", "isCorrect": true },
+      { "text": "சோர்வு", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "நோய்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "காயம்", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "பலம்."
+  },
+  {
+    "questionNumber": 20,
+    "question": "'புதினா' என்ன தரும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "நல்ல மணம்", "rationale": "புதினா நல்ல மணம் தரும்.", "isCorrect": true },
+      { "text": "பலம்", "rationale": "இது முருங்கைக்கீரை.", "isCorrect": false },
+      { "text": "ஞாபக சக்தி", "rationale": "இது வல்லாரை.", "isCorrect": false },
+      { "text": "சுவை", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "நல்ல மணம்."
+  },
+  {
+    "questionNumber": 21,
+    "question": "'வல்லாரை' எதை அதிகப்படுத்தும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஞாபக சக்தி", "rationale": "வல்லாரை ஞாபக சக்தியை அதிகப்படுத்தும்.", "isCorrect": true },
+      { "text": "பலம்", "rationale": "இது முருங்கைக்கீரை.", "isCorrect": false },
+      { "text": "மணம்", "rationale": "இது புதினா.", "isCorrect": false },
+      { "text": "சுவை", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "ஞாபக சக்தி."
+  },
+  {
+    "questionNumber": 22,
+    "question": "'இனிப்பு' சுவைக்கு உதாரணம் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "மாம்பழம்", "rationale": "மாம்பழம் இனிப்புச் சுவை.", "isCorrect": true },
+      { "text": "பாகற்காய்", "rationale": "இது கசப்பு.", "isCorrect": false },
+      { "text": "மிளகாய்", "rationale": "இது காரம்.", "isCorrect": false },
+      { "text": "எலுமிச்சை", "rationale": "இது புளிப்பு.", "isCorrect": false }
+    ],
+    "hint": "இனிப்பு."
+  },
+  {
+    "questionNumber": 23,
+    "question": "'கசப்பு' சுவைக்கு உதாரணம் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "பாகற்காய்", "rationale": "பாகற்காய் கசப்புச் சுவை.", "isCorrect": true },
+      { "text": "மாம்பழம்", "rationale": "இது இனிப்பு.", "isCorrect": false },
+      { "text": "மிளகாய்", "rationale": "இது காரம்.", "isCorrect": false },
+      { "text": "எலுமிச்சை", "rationale": "இது புளிப்பு.", "isCorrect": false }
+    ],
+    "hint": "கசப்பு."
+  },
+  {
+    "questionNumber": 24,
+    "question": "'கார்ப்பு' சுவைக்கு உதாரணம் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "மிளகாய்", "rationale": "மிளகாய் கார்ப்புச் சுவை.", "isCorrect": true },
+      { "text": "மாம்பழம்", "rationale": "இது இனிப்பு.", "isCorrect": false },
+      { "text": "பாகற்காய்", "rationale": "இது கசப்பு.", "isCorrect": false },
+      { "text": "எலுமிச்சை", "rationale": "இது புளிப்பு.", "isCorrect": false }
+    ],
+    "hint": "காரம்."
+  },
+  {
+    "questionNumber": 25,
+    "question": "'புளிப்பு' சுவைக்கு உதாரணம் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "எலுமிச்சை", "rationale": "எலுமிச்சை புளிப்புச் சுவை.", "isCorrect": true },
+      { "text": "மாம்பழம்", "rationale": "இது இனிப்பு.", "isCorrect": false },
+      { "text": "பாகற்காய்", "rationale": "இது கசப்பு.", "isCorrect": false },
+      { "text": "மிளகாய்", "rationale": "இது காரம்.", "isCorrect": false }
+    ],
+    "hint": "புளிப்பு."
+  },
+  {
+    "questionNumber": 26,
+    "question": "'உவர்ப்பு' சுவைக்கு உதாரணம் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "உப்பு", "rationale": "உப்பு உவர்ப்புச் சுவை.", "isCorrect": true },
+      { "text": "மாம்பழம்", "rationale": "இது இனிப்பு.", "isCorrect": false },
+      { "text": "பாகற்காய்", "rationale": "இது கசப்பு.", "isCorrect": false },
+      { "text": "எலுமிச்சை", "rationale": "இது புளிப்பு.", "isCorrect": false }
+    ],
+    "hint": "உப்பு."
+  },
+  {
+    "questionNumber": 27,
+    "question": "'துவர்ப்பு' சுவைக்கு உதாரணம் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "பாக்கு", "rationale": "பாக்கு துவர்ப்புச் சுவை.", "isCorrect": true },
+      { "text": "மாம்பழம்", "rationale": "இது இனிப்பு.", "isCorrect": false },
+      { "text": "மிளகாய்", "rationale": "இது காரம்.", "isCorrect": false },
+      { "text": "எலுமிச்சை", "rationale": "இது புளிப்பு.", "isCorrect": false }
+    ],
+    "hint": "துவர்ப்பு."
+  },
+  {
+    "questionNumber": 28,
+    "question": "சுவைகள் எத்தனை வகைப்படும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "6", "rationale": "இனிப்பு, கசப்பு, கார்ப்பு, புளிப்பு, உவர்ப்பு, துவர்ப்பு - ஆறு வகை.", "isCorrect": true },
+      { "text": "4", "rationale": "ஆறு வகை.", "isCorrect": false },
+      { "text": "5", "rationale": "ஆறு வகை.", "isCorrect": false },
+      { "text": "3", "rationale": "ஆறு வகை.", "isCorrect": false }
+    ],
+    "hint": "ஆறு வகை."
+  },
+  {
+    "questionNumber": 29,
+    "question": "எண் 26-இன் தமிழ்ப் பெயர் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "இருபத்து ஆறு", "rationale": "26 = இருபத்து ஆறு.", "isCorrect": true },
+      { "text": "இருபத்து ஏழு", "rationale": "இது 27.", "isCorrect": false },
+      { "text": "இருபத்து எட்டு", "rationale": "இது 28.", "isCorrect": false },
+      { "text": "முப்பது", "rationale": "இது 30.", "isCorrect": false }
+    ],
+    "hint": "இருபத்து + ஆறு."
+  },
+  {
+    "questionNumber": 30,
+    "question": "எண் 30-இன் தமிழ்ப் பெயர் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "முப்பது", "rationale": "30 = முப்பது.", "isCorrect": true },
+      { "text": "நாற்பது", "rationale": "இது 40.", "isCorrect": false },
+      { "text": "ஐம்பது", "rationale": "இது 50.", "isCorrect": false },
+      { "text": "இருபது", "rationale": "இது 20.", "isCorrect": false }
+    ],
+    "hint": "மூன்று பத்து."
+  },
+  {
+    "questionNumber": 31,
+    "question": "எண் 50-இன் தமிழ்ப் பெயர் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஐம்பது", "rationale": "50 = ஐம்பது.", "isCorrect": true },
+      { "text": "நாற்பது", "rationale": "இது 40.", "isCorrect": false },
+      { "text": "அறுபது", "rationale": "இது 60.", "isCorrect": false },
+      { "text": "எழுபது", "rationale": "இது 70.", "isCorrect": false }
+    ],
+    "hint": "ஐந்து பத்து."
+  },
+  {
+    "questionNumber": 32,
+    "question": "எண் 100-இன் தமிழ்ப் பெயர் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "நூறு", "rationale": "100 = நூறு.", "isCorrect": true },
+      { "text": "ஆயிரம்", "rationale": "இது 1000.", "isCorrect": false },
+      { "text": "தொள்ளாயிரம்", "rationale": "இது 900.", "isCorrect": false },
+      { "text": "எண்ணூறு", "rationale": "இது 800.", "isCorrect": false }
+    ],
+    "hint": "பத்து பத்து."
+  },
+  {
+    "questionNumber": 33,
+    "question": "எண் 1000-இன் தமிழ்ப் பெயர் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஆயிரம்", "rationale": "1000 = ஆயிரம்.", "isCorrect": true },
+      { "text": "நூறு", "rationale": "இது 100.", "isCorrect": false },
+      { "text": "ஐநூறு", "rationale": "இது 500.", "isCorrect": false },
+      { "text": "தொள்ளாயிரம்", "rationale": "இது 900.", "isCorrect": false }
+    ],
+    "hint": "பத்து நூறு."
+  },
+  {
+    "questionNumber": 34,
+    "question": "எண் 500-இன் தமிழ்ப் பெயர் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஐநூறு", "rationale": "500 = ஐநூறு.", "isCorrect": true },
+      { "text": "நானூறு", "rationale": "இது 400.", "isCorrect": false },
+      { "text": "அறுநூறு", "rationale": "இது 600.", "isCorrect": false },
+      { "text": "எழுநூறு", "rationale": "இது 700.", "isCorrect": false }
+    ],
+    "hint": "ஐந்து நூறு."
+  },
+  {
+    "questionNumber": 35,
+    "question": "'ரோஜா' என்பது என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "பூ", "rationale": "ரோஜா ஒரு பூ.", "isCorrect": true },
+      { "text": "காய்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "பழம்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "கீரை", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "அழகான பூ."
+  },
+  {
+    "questionNumber": 36,
+    "question": "'மாம்பழம்' என்பது என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "பழம்", "rationale": "மாம்பழம் ஒரு பழம்.", "isCorrect": true },
+      { "text": "காய்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "பூ", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "கீரை", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "இனிப்பான பழம்."
+  },
+  {
+    "questionNumber": 37,
+    "question": "'கேரட்' என்பது என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "காய்", "rationale": "கேரட் ஒரு காய்.", "isCorrect": true },
+      { "text": "பழம்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "பூ", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "கீரை", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "ஆரஞ்சு நிறக் காய்."
+  },
+  {
+    "questionNumber": 38,
+    "question": "'பசலைக்கீரை' என்பது என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "கீரை", "rationale": "பசலைக்கீரை ஒரு கீரை.", "isCorrect": true },
+      { "text": "பழம்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "பூ", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "காய்", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "பச்சை இலை."
+  },
+  {
+    "questionNumber": 39,
+    "question": "திருக்குறளில் இடம்பெறும் இரு மலர்கள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "அனிச்சம், குவளை", "rationale": "திருக்குறளில் இடம்பெறும் இரு மலர்கள் அனிச்சம், குவளை.", "isCorrect": true },
+      { "text": "ரோஜா, மல்லிகை", "rationale": "இவை குறளில் இடம்பெறவில்லை.", "isCorrect": false },
+      { "text": "தாமரை, அல்லி", "rationale": "இவை குறளில் இடம்பெறவில்லை.", "isCorrect": false },
+      { "text": "சாமந்தி, செம்பருத்தி", "rationale": "இவை குறளில் இடம்பெறவில்லை.", "isCorrect": false }
+    ],
+    "hint": "அனிச்சம், குவளை."
+  },
+  {
+    "questionNumber": 40,
+    "question": "'பயன்மரம் உள்ளூர்ப் பழுத்தற்றால்' என்ற குறளின் குறள் எண் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "216", "rationale": "இக்குறளின் குறள் எண் 216.", "isCorrect": true },
+      { "text": "392", "rationale": "இது 'எண்ணென்ப' குறள்.", "isCorrect": false },
+      { "text": "527", "rationale": "இது 'காக்கை' குறள்.", "isCorrect": false },
+      { "text": "948", "rationale": "இது 'நோய்நாடி' குறள்.", "isCorrect": false }
+    ],
+    "hint": "குறள் 216 — செல்வம்."
+  },
+  {
+    "questionNumber": 41,
+    "question": "ஒளவையார் அருளிய ஆத்திசூடியில் 'நூ' வரிசைக்கான வாக்கியம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "நூல் பல கல்", "rationale": "ஆத்திசூடியில் 'நூ' வரிசைக்கான வாக்கியம் இதுவே.", "isCorrect": true },
+      { "text": "தொன்மை மறவேல்", "rationale": "இது 'தொ' வரிசைக்கானது.", "isCorrect": false },
+      { "text": "கேள்வி முயல்", "rationale": "இது 'கே' வரிசைக்கானது.", "isCorrect": false },
+      { "text": "பருவத்தே பயிர் செய்", "rationale": "இது 'ப' வரிசைக்கானது.", "isCorrect": false }
+    ],
+    "hint": "பல

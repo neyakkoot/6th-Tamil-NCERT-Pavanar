@@ -1,0 +1,602 @@
+[
+  {
+    "questionNumber": 1,
+    "question": "தமிழில் உள்ள மெய் எழுத்துகள் மொத்தம் எத்தனை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "12", "rationale": "இது உயிர் எழுத்துகளின் எண்ணிக்கை.", "isCorrect": false },
+      { "text": "16", "rationale": "மெய் எழுத்துகள் 18 ஆகும்.", "isCorrect": false },
+      { "text": "18", "rationale": "க், ங், ச், ஞ், ட், ண், த், ந், ப், ம், ய், ர், ல், வ், ழ், ள், ற், ன் — மொத்தம் 18 மெய் எழுத்துகள்.", "isCorrect": true },
+      { "text": "20", "rationale": "மெய் எழுத்துகள் 18 ஆகும்.", "isCorrect": false }
+    ],
+    "hint": "க் முதல் ன் வரை எண்ணிப் பார்."
+  },
+  {
+    "questionNumber": 2,
+    "question": "மெய் எழுத்துகள் எத்தனை வகையாகப் பிரிக்கப்படுகின்றன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "2", "rationale": "வல்லினம், மெல்லினம், இடையினம் என மூன்று வகை.", "isCorrect": false },
+      { "text": "3", "rationale": "வல்லினம், மெல்லினம், இடையினம் — மூன்று வகை.", "isCorrect": true },
+      { "text": "4", "rationale": "மூன்று வகை மட்டுமே.", "isCorrect": false },
+      { "text": "5", "rationale": "மூன்று வகை மட்டுமே.", "isCorrect": false }
+    ],
+    "hint": "வல்லினம், மெல்லினம், இடையினம்."
+  },
+  {
+    "questionNumber": 3,
+    "question": "வல்லின மெய் எழுத்துகள் எத்தனை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "5", "rationale": "வல்லினம் 6 ஆகும்.", "isCorrect": false },
+      { "text": "6", "rationale": "க், ச், ட், த், ப், ற் — ஆறு வல்லின மெய் எழுத்துகள்.", "isCorrect": true },
+      { "text": "7", "rationale": "வல்லினம் 6 ஆகும்.", "isCorrect": false },
+      { "text": "18", "rationale": "இது மொத்த மெய் எழுத்துகள்.", "isCorrect": false }
+    ],
+    "hint": "க், ச், ட், த், ப், ற் — வல்லினம்."
+  },
+  {
+    "questionNumber": 4,
+    "question": "மெல்லின மெய் எழுத்துகள் எத்தனை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "5", "rationale": "மெல்லினம் 6 ஆகும்.", "isCorrect": false },
+      { "text": "6", "rationale": "ங், ஞ், ண், ந், ம், ன் — ஆறு மெல்லின மெய் எழுத்துகள்.", "isCorrect": true },
+      { "text": "7", "rationale": "மெல்லினம் 6 ஆகும்.", "isCorrect": false },
+      { "text": "18", "rationale": "இது மொத்த மெய் எழுத்துகள்.", "isCorrect": false }
+    ],
+    "hint": "ங், ஞ், ண், ந், ம், ன் — மெல்லினம்."
+  },
+  {
+    "questionNumber": 5,
+    "question": "இடையின மெய் எழுத்துகள் எத்தனை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "5", "rationale": "இடையினம் 6 ஆகும்.", "isCorrect": false },
+      { "text": "6", "rationale": "ய், ர், ல், வ், ழ், ள் — ஆறு இடையின மெய் எழுத்துகள்.", "isCorrect": true },
+      { "text": "7", "rationale": "இடையினம் 6 ஆகும்.", "isCorrect": false },
+      { "text": "18", "rationale": "இது மொத்த மெய் எழுத்துகள்.", "isCorrect": false }
+    ],
+    "hint": "ய், ர், ல், வ், ழ், ள் — இடையினம்."
+  },
+  {
+    "questionNumber": 6,
+    "question": "கீழ்க்கண்டவற்றுள் வல்லின மெய் எழுத்து எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "க்", "rationale": "க் ஒரு வல்லின மெய் எழுத்து.", "isCorrect": true },
+      { "text": "ங்", "rationale": "இது மெல்லின எழுத்து.", "isCorrect": false },
+      { "text": "ய்", "rationale": "இது இடையின எழுத்து.", "isCorrect": false },
+      { "text": "ர்", "rationale": "இது இடையின எழுத்து.", "isCorrect": false }
+    ],
+    "hint": "வல்லினம்: க், ச், ட், த், ப், ற்."
+  },
+  {
+    "questionNumber": 7,
+    "question": "கீழ்க்கண்டவற்றுள் மெல்லின மெய் எழுத்து எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "க்", "rationale": "இது வல்லின எழுத்து.", "isCorrect": false },
+      { "text": "ங்", "rationale": "ங் ஒரு மெல்லின மெய் எழுத்து.", "isCorrect": true },
+      { "text": "ய்", "rationale": "இது இடையின எழுத்து.", "isCorrect": false },
+      { "text": "ல்", "rationale": "இது இடையின எழுத்து.", "isCorrect": false }
+    ],
+    "hint": "மெல்லினம்: ங், ஞ், ண், ந், ம், ன்."
+  },
+  {
+    "questionNumber": 8,
+    "question": "கீழ்க்கண்டவற்றுள் இடையின மெய் எழுத்து எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "க்", "rationale": "இது வல்லின எழுத்து.", "isCorrect": false },
+      { "text": "ங்", "rationale": "இது மெல்லின எழுத்து.", "isCorrect": false },
+      { "text": "ய்", "rationale": "ய் ஒரு இடையின மெய் எழுத்து.", "isCorrect": true },
+      { "text": "ண்", "rationale": "இது மெல்லின எழுத்து.", "isCorrect": false }
+    ],
+    "hint": "இடையினம்: ய், ர், ல், வ், ழ், ள்."
+  },
+  {
+    "questionNumber": 9,
+    "question": "'சங்கு' என்ற சொல்லில் உள்ள மெய் எழுத்து எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "க்", "rationale": "இது சொல்லில் இல்லை.", "isCorrect": false },
+      { "text": "ங்", "rationale": "சங்கு — 'ங்' என்ற மெல்லின மெய் எழுத்து உள்ளது.", "isCorrect": true },
+      { "text": "ட்", "rationale": "இது சொல்லில் இல்லை.", "isCorrect": false },
+      { "text": "ன்", "rationale": "இது சொல்லில் இல்லை.", "isCorrect": false }
+    ],
+    "hint": "ச + ங் + கு."
+  },
+  {
+    "questionNumber": 10,
+    "question": "'பட்டம்' என்ற சொல்லில் உள்ள வல்லின மெய் எழுத்து எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ட்", "rationale": "பட்டம் — 'ட்' என்ற வல்லின மெய் எழுத்து உள்ளது.", "isCorrect": true },
+      { "text": "ம்", "rationale": "இது மெல்லின எழுத்து.", "isCorrect": false },
+      { "text": "ப்", "rationale": "இது சொல்லில் இல்லை.", "isCorrect": false },
+      { "text": "க்", "rationale": "இது சொல்லில் இல்லை.", "isCorrect": false }
+    ],
+    "hint": "ப + ட் + ட + ம்."
+  },
+  {
+    "questionNumber": 11,
+    "question": "'நத்தை' என்ற சொல்லில் உள்ள மெய் எழுத்து எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ந்", "rationale": "நத்தை — 'ந்' என்ற மெல்லின மெய் எழுத்து உள்ளது.", "isCorrect": true },
+      { "text": "த்", "rationale": "இது வல்லின எழுத்து; சொல்லில் உள்ளது.", "isCorrect": false },
+      { "text": "ம்", "rationale": "இது சொல்லில் இல்லை.", "isCorrect": false },
+      { "text": "ல்", "rationale": "இது சொல்லில் இல்லை.", "isCorrect": false }
+    ],
+    "hint": "ந + த் + தை."
+  },
+  {
+    "questionNumber": 12,
+    "question": "'சக்கரம்' என்ற சொல்லில் உள்ள மெய் எழுத்துகள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "க், ம்", "rationale": "சக்கரம் — 'க்' (வல்லினம்), 'ம்' (மெல்லினம்) ஆகியவை உள்ளன.", "isCorrect": true },
+      { "text": "ச், ர்", "rationale": "இவை சொல்லில் இல்லை.", "isCorrect": false },
+      { "text": "ட், ண்", "rationale": "இவை சொல்லில் இல்லை.", "isCorrect": false },
+      { "text": "ய், ர்", "rationale": "இவை சொல்லில் இல்லை.", "isCorrect": false }
+    ],
+    "hint": "ச + க் + க + ர + ம்."
+  },
+  {
+    "questionNumber": 13,
+    "question": "'பந்து' என்ற சொல்லில் உள்ள மெய் எழுத்து எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ந்", "rationale": "பந்து — 'ந்' என்ற மெல்லின மெய் எழுத்து உள்ளது.", "isCorrect": true },
+      { "text": "த்", "rationale": "இது சொல்லில் இல்லை.", "isCorrect": false },
+      { "text": "ப்", "rationale": "இது வல்லின எழுத்து; சொல்லில் உள்ளது.", "isCorrect": false },
+      { "text": "ம்", "rationale": "இது சொல்லில் இல்லை.", "isCorrect": false }
+    ],
+    "hint": "ப + ந் + து."
+  },
+  {
+    "questionNumber": 14,
+    "question": "'கப்பல்' என்ற சொல்லில் உள்ள வல்லின மெய் எழுத்துகள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ப், ல்", "rationale": "இவற்றில் ல் இடையினம்.", "isCorrect": false },
+      { "text": "ப், ப்", "rationale": "கப்பல் — இரண்டு 'ப்' வல்லின மெய் எழுத்துகள் உள்ளன.", "isCorrect": true },
+      { "text": "க், ல்", "rationale": "இவற்றில் ல் இடையினம்.", "isCorrect": false },
+      { "text": "க், ம்", "rationale": "இவை சொல்லில் இல்லை.", "isCorrect": false }
+    ],
+    "hint": "க + ப் + ப + ல்."
+  },
+  {
+    "questionNumber": 15,
+    "question": "'கடல்' என்ற சொல்லில் உள்ள மெய் எழுத்துகள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ட், ல்", "rationale": "கடல் — 'ட்' (வல்லினம்), 'ல்' (இடையினம்) ஆகியவை உள்ளன.", "isCorrect": true },
+      { "text": "க், ட்", "rationale": "இவை சொல்லில் இல்லை.", "isCorrect": false },
+      { "text": "ண், ல்", "rationale": "இவை சொல்லில் இல்லை.", "isCorrect": false },
+      { "text": "ல், ம்", "rationale": "இவை சொல்லில் இல்லை.", "isCorrect": false }
+    ],
+    "hint": "க + ட + ல்."
+  },
+  {
+    "questionNumber": 16,
+    "question": "'மீன்' என்ற சொல்லில் உள்ள மெய் எழுத்து எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ன்", "rationale": "மீன் — 'ன்' என்ற மெல்லின மெய் எழுத்து உள்ளது.", "isCorrect": true },
+      { "text": "ம்", "rationale": "இது சொல்லில் இல்லை.", "isCorrect": false },
+      { "text": "ண்", "rationale": "இது சொல்லில் இல்லை.", "isCorrect": false },
+      { "text": "ய்", "rationale": "இது சொல்லில் இல்லை.", "isCorrect": false }
+    ],
+    "hint": "மீ + ன்."
+  },
+  {
+    "questionNumber": 17,
+    "question": "'மரம்' என்ற சொல்லில் உள்ள மெய் எழுத்து எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ம்", "rationale": "மரம் — 'ம்' என்ற மெல்லின மெய் எழுத்து உள்ளது.", "isCorrect": true },
+      { "text": "ர்", "rationale": "இது இடையின எழுத்து; சொல்லில் உள்ளது.", "isCorrect": false },
+      { "text": "ம், ர்", "rationale": "இரண்டும் உள்ளன, ஆனால் இறுதி மெய் 'ம்'.", "isCorrect": false },
+      { "text": "ய்", "rationale": "இது சொல்லில் இல்லை.", "isCorrect": false }
+    ],
+    "hint": "ம + ர + ம்."
+  },
+  {
+    "questionNumber": 18,
+    "question": "'தச்சர்' என்ற சொல்லில் உள்ள வல்லின மெய் எழுத்து எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ச்", "rationale": "தச்சர் — 'ச்' என்ற வல்லின மெய் எழுத்து உள்ளது.", "isCorrect": true },
+      { "text": "த்", "rationale": "இது வல்லின எழுத்து; சொல்லின் முதலில் உள்ளது.", "isCorrect": false },
+      { "text": "ர்", "rationale": "இது இடையின எழுத்து.", "isCorrect": false },
+      { "text": "ம்", "rationale": "இது சொல்லில் இல்லை.", "isCorrect": false }
+    ],
+    "hint": "த + ச் + ச + ர்."
+  },
+  {
+    "questionNumber": 19,
+    "question": "'பெட்டி' என்ற சொல்லில் உள்ள மெய் எழுத்துகள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ட், ட்", "rationale": "பெட்டி — இரண்டு 'ட்' வல்லின மெய் எழுத்துகள் உள்ளன.", "isCorrect": true },
+      { "text": "ப், ட்", "rationale": "இவற்றில் ஒன்று சொல்லில் இல்லை.", "isCorrect": false },
+      { "text": "ட், ய்", "rationale": "இவற்றில் ஒன்று சொல்லில் இல்லை.", "isCorrect": false },
+      { "text": "ப், ம்", "rationale": "இவை சொல்லில் இல்லை.", "isCorrect": false }
+    ],
+    "hint": "பெ + ட் + டி."
+  },
+  {
+    "questionNumber": 20,
+    "question": "'முத்து' என்ற சொல்லில் உள்ள மெய் எழுத்துகள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "த், த்", "rationale": "முத்து — இரண்டு 'த்' வல்லின மெய் எழுத்துகள் உள்ளன.", "isCorrect": true },
+      { "text": "ம், த்", "rationale": "இவற்றில் ஒன்று சொல்லில் இல்லை.", "isCorrect": false },
+      { "text": "த், ம்", "rationale": "இவற்றில் ஒன்று சொல்லில் இல்லை.", "isCorrect": false },
+      { "text": "ம், ம்", "rationale": "இவை சொல்லில் இல்லை.", "isCorrect": false }
+    ],
+    "hint": "மு + த் + து."
+  },
+  {
+    "questionNumber": 21,
+    "question": "'அப்பளம்' என்ற சொல்லில் உள்ள மெய் எழுத்துகள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ப், ம்", "rationale": "அப்பளம் — 'ப்' (வல்லினம்), 'ம்' (மெல்லினம்) ஆகியவை உள்ளன.", "isCorrect": true },
+      { "text": "ப், ள்", "rationale": "இவற்றில் ஒன்று சொல்லில் இல்லை.", "isCorrect": false },
+      { "text": "ம், ள்", "rationale": "இவற்றில் ஒன்று சொல்லில் இல்லை.", "isCorrect": false },
+      { "text": "க், ம்", "rationale": "இவை சொல்லில் இல்லை.", "isCorrect": false }
+    ],
+    "hint": "அ + ப் + ப + ள + ம்."
+  },
+  {
+    "questionNumber": 22,
+    "question": "'நாற்று' என்ற சொல்லில் உள்ள மெய் எழுத்து எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ற்", "rationale": "நாற்று — 'ற்' என்ற வல்லின மெய் எழுத்து உள்ளது.", "isCorrect": true },
+      { "text": "ர்", "rationale": "இது சொல்லில் இல்லை.", "isCorrect": false },
+      { "text": "ன்", "rationale": "இது சொல்லில் இல்லை.", "isCorrect": false },
+      { "text": "த்", "rationale": "இது சொல்லில் இல்லை.", "isCorrect": false }
+    ],
+    "hint": "நா + ற் + று."
+  },
+  {
+    "questionNumber": 23,
+    "question": "'செங்கல்' என்ற சொல்லில் உள்ள மெல்லின மெய் எழுத்து எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ங்", "rationale": "செங்கல் — 'ங்' என்ற மெல்லின மெய் எழுத்து உள்ளது.", "isCorrect": true },
+      { "text": "க்", "rationale": "இது வல்லின எழுத்து.", "isCorrect": false },
+      { "text": "ல்", "rationale": "இது இடையின எழுத்து.", "isCorrect": false },
+      { "text": "ச்", "rationale": "இது வல்லின எழுத்து.", "isCorrect": false }
+    ],
+    "hint": "செ + ங் + க + ல்."
+  },
+  {
+    "questionNumber": 24,
+    "question": "'குழந்தை' என்ற சொல்லில் உள்ள மெல்லின மெய் எழுத்துகள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ந்", "rationale": "குழந்தை — 'ந்' என்ற மெல்லின மெய் எழுத்து உள்ளது.", "isCorrect": true },
+      { "text": "ழ்", "rationale": "இது இடையின எழுத்து.", "isCorrect": false },
+      { "text": "த்", "rationale": "இது வல்லின எழுத்து.", "isCorrect": false },
+      { "text": "ழ், த்", "rationale": "இவை மெல்லினம் அல்ல.", "isCorrect": false }
+    ],
+    "hint": "கு + ழ + ந் + தை."
+  },
+  {
+    "questionNumber": 25,
+    "question": "'பஞ்சு' என்ற சொல்லில் உள்ள மெல்லின மெய் எழுத்து எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஞ்", "rationale": "பஞ்சு — 'ஞ்' என்ற மெல்லின மெய் எழுத்து உள்ளது.", "isCorrect": true },
+      { "text": "ச்", "rationale": "இது வல்லின எழுத்து.", "isCorrect": false },
+      { "text": "ப்", "rationale": "இது வல்லின எழுத்து.", "isCorrect": false },
+      { "text": "ம்", "rationale": "இது சொல்லில் இல்லை.", "isCorrect": false }
+    ],
+    "hint": "ப + ஞ் + சு."
+  },
+  {
+    "questionNumber": 26,
+    "question": "'கோலம்' என்ற சொல்லில் உள்ள மெய் எழுத்து எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ம்", "rationale": "கோலம் — 'ம்' என்ற மெல்லின மெய் எழுத்து உள்ளது.", "isCorrect": true },
+      { "text": "ல்", "rationale": "இது இடையின எழுத்து; சொல்லில் உள்ளது.", "isCorrect": false },
+      { "text": "க்", "rationale": "இது வல்லின எழுத்து.", "isCorrect": false },
+      { "text": "ய்", "rationale": "இது சொல்லில் இல்லை.", "isCorrect": false }
+    ],
+    "hint": "கோ + ல + ம்."
+  },
+  {
+    "questionNumber": 27,
+    "question": "'வாத்து' என்ற சொல்லில் உள்ள வல்லின மெய் எழுத்து எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "த்", "rationale": "வாத்து — 'த்' என்ற வல்லின மெய் எழுத்து உள்ளது.", "isCorrect": true },
+      { "text": "வ்", "rationale": "இது இடையின எழுத்து.", "isCorrect": false },
+      { "text": "ம்", "rationale": "இது சொல்லில் இல்லை.", "isCorrect": false },
+      { "text": "ன்", "rationale": "இது சொல்லில் இல்லை.", "isCorrect": false }
+    ],
+    "hint": "வா + த் + து."
+  },
+  {
+    "questionNumber": 28,
+    "question": "'யாழ்' என்ற சொல்லில் உள்ள இடையின மெய் எழுத்து எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ழ்", "rationale": "யாழ் — 'ழ்' என்ற இடையின மெய் எழுத்து உள்ளது.", "isCorrect": true },
+      { "text": "ய்", "rationale": "இது இடையின எழுத்து; சொல்லின் முதலில் உள்ளது.", "isCorrect": false },
+      { "text": "ள்", "rationale": "இது சொல்லில் இல்லை.", "isCorrect": false },
+      { "text": "ர்", "rationale": "இது சொல்லில் இல்லை.", "isCorrect": false }
+    ],
+    "hint": "யா + ழ்."
+  },
+  {
+    "questionNumber": 29,
+    "question": "'வால்' என்ற சொல்லில் உள்ள இடையின மெய் எழுத்து எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ல்", "rationale": "வால் — 'ல்' என்ற இடையின மெய் எழுத்து உள்ளது.", "isCorrect": true },
+      { "text": "வ்", "rationale": "இது இடையின எழுத்து; சொல்லின் முதலில் உள்ளது.", "isCorrect": false },
+      { "text": "ழ்", "rationale": "இது சொல்லில் இல்லை.", "isCorrect": false },
+      { "text": "ள்", "rationale": "இது சொல்லில் இல்லை.", "isCorrect": false }
+    ],
+    "hint": "வா + ல்."
+  },
+  {
+    "questionNumber": 30,
+    "question": "'செவ்வானம்' என்ற சொல்லில் உள்ள இடையின மெய் எழுத்துகள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "வ், வ்", "rationale": "செவ்வானம் — இரண்டு 'வ்' இடையின மெய் எழுத்துகள் உள்ளன.", "isCorrect": true },
+      { "text": "ச், வ்", "rationale": "இவற்றில் ஒன்று வல்லினம்.", "isCorrect": false },
+      { "text": "வ், ம்", "rationale": "இவற்றில் ஒன்று மெல்லினம்.", "isCorrect": false },
+      { "text": "ன், ம்", "rationale": "இவை சொல்லில் இல்லை.", "isCorrect": false }
+    ],
+    "hint": "செ + வ் + வா + ன + ம்."
+  },
+  {
+    "questionNumber": 31,
+    "question": "'இதழ்' என்ற சொல்லில் உள்ள இடையின மெய் எழுத்து எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ழ்", "rationale": "இதழ் — 'ழ்' என்ற இடையின மெய் எழுத்து உள்ளது.", "isCorrect": true },
+      { "text": "த்", "rationale": "இது வல்லின எழுத்து.", "isCorrect": false },
+      { "text": "ய்", "rationale": "இது சொல்லில் இல்லை.", "isCorrect": false },
+      { "text": "ள்", "rationale": "இது சொல்லில் இல்லை.", "isCorrect": false }
+    ],
+    "hint": "இ + த + ழ்."
+  },
+  {
+    "questionNumber": 32,
+    "question": "'செய்தித்தாள்' என்ற சொல்லில் உள்ள இடையின மெய் எழுத்துகள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ய், ள்", "rationale": "செய்தித்தாள் — 'ய்' மற்றும் 'ள்' இடையின மெய் எழுத்துகள் உள்ளன.", "isCorrect": true },
+      { "text": "ச், த்", "rationale": "இவை வல்லின எழுத்துகள்.", "isCorrect": false },
+      { "text": "ய், ம்", "rationale": "இவற்றில் ஒன்று சொல்லில் இல்லை.", "isCorrect": false },
+      { "text": "த், ள்", "rationale": "இவற்றில் ஒன்று வல்லினம்.", "isCorrect": false }
+    ],
+    "hint": "செ + ய் + தி + த் + தா + ள்."
+  },
+  {
+    "questionNumber": 33,
+    "question": "'முறுக்கு' என்ற சொல்லில் உள்ள வல்லின மெய் எழுத்துகள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "க், க்", "rationale": "முறுக்கு — இரண்டு 'க்' வல்லின மெய் எழுத்துகள் உள்ளன.", "isCorrect": true },
+      { "text": "ற், க்", "rationale": "இவற்றில் ஒன்று வல்லினம்; ஆனால் சொல்லில் 'ற்' இல்லை.", "isCorrect": false },
+      { "text": "ம், க்", "rationale": "இவற்றில் ஒன்று சொல்லில் இல்லை.", "isCorrect": false },
+      { "text": "ற், ம்", "rationale": "இவை சொல்லில் இல்லை.", "isCorrect": false }
+    ],
+    "hint": "மு + று + க் + கு."
+  },
+  {
+    "questionNumber": 34,
+    "question": "வல்லின மெய் எழுத்துகள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "க், ச், ட், த், ப், ற்", "rationale": "இவையே ஆறு வல்லின மெய் எழுத்துகள்.", "isCorrect": true },
+      { "text": "ங், ஞ், ண், ந், ம், ன்", "rationale": "இவை மெல்லின எழுத்துகள்.", "isCorrect": false },
+      { "text": "ய், ர், ல், வ், ழ், ள்", "rationale": "இவை இடையின எழுத்துகள்.", "isCorrect": false },
+      { "text": "க், ங், ச், ஞ்", "rationale": "இவற்றில் சில மெல்லினம்.", "isCorrect": false }
+    ],
+    "hint": "வல்லினம் ஆறு எழுத்துகள்."
+  },
+  {
+    "questionNumber": 35,
+    "question": "மெல்லின மெய் எழுத்துகள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "க், ச், ட், த், ப், ற்", "rationale": "இவை வல்லின எழுத்துகள்.", "isCorrect": false },
+      { "text": "ங், ஞ், ண், ந், ம், ன்", "rationale": "இவையே ஆறு மெல்லின மெய் எழுத்துகள்.", "isCorrect": true },
+      { "text": "ய், ர், ல், வ், ழ், ள்", "rationale": "இவை இடையின எழுத்துகள்.", "isCorrect": false },
+      { "text": "ங், ஞ், ய், ர்", "rationale": "இவற்றில் சில இடையினம்.", "isCorrect": false }
+    ],
+    "hint": "மெல்லினம் ஆறு எழுத்துகள்."
+  },
+  {
+    "questionNumber": 36,
+    "question": "இடையின மெய் எழுத்துகள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "க், ச், ட், த், ப், ற்", "rationale": "இவை வல்லின எழுத்துகள்.", "isCorrect": false },
+      { "text": "ங், ஞ், ண், ந், ம், ன்", "rationale": "இவை மெல்லின எழுத்துகள்.", "isCorrect": false },
+      { "text": "ய், ர், ல், வ், ழ், ள்", "rationale": "இவையே ஆறு இடையின மெய் எழுத்துகள்.", "isCorrect": true },
+      { "text": "ய், ர், ம், ன்", "rationale": "இவற்றில் சில மெல்லினம்.", "isCorrect": false }
+    ],
+    "hint": "இடையினம் ஆறு எழுத்துகள்."
+  },
+  {
+    "questionNumber": 37,
+    "question": "மெய் எழுத்துகள் எப்படி ஒலிக்கின்றன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "தனித்து ஒலிக்கும்", "rationale": "உயிர் எழுத்துகள் தனித்து ஒலிக்கும்.", "isCorrect": false },
+      { "text": "உயிர் எழுத்துகளின் துணையுடன் ஒலிக்கும்", "rationale": "மெய் எழுத்துகள் உயிர் எழுத்துகளின் துணையுடன் சேர்ந்தே ஒலிக்கும்.", "isCorrect": true },
+      { "text": "ஒலிக்காது", "rationale": "உயிர்மெய் எழுத்துகளாக ஒலிக்கும்.", "isCorrect": false },
+      { "text": "எப்போதும் 'அ' ஒலியுடன்", "rationale": "எல்லா உயிர்களுடனும் சேரும்.", "isCorrect": false }
+    ],
+    "hint": "மெய் + உயிர் = உயிர்மெய்."
+  },
+  {
+    "questionNumber": 38,
+    "question": "பாரதியார் அருளிய புதிய ஆத்திசூடியில் 'அ' வரிசைக்கான வாக்கியம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "அச்சம் தவிர்", "rationale": "பாரதியின் புதிய ஆத்திசூடியில் 'அ' வரிசைக்கான வாக்கியம் இதுவே.", "isCorrect": true },
+      { "text": "ஆண்மை தவேல்", "rationale": "இது 'ஆ' வரிசைக்கானது.", "isCorrect": false },
+      { "text": "இளைத்தல் இகழ்ச்சி", "rationale": "இது 'இ' வரிசைக்கானது.", "isCorrect": false },
+      { "text": "ஈகை திறன்", "rationale": "இது 'ஈ' வரிசைக்கானது.", "isCorrect": false }
+    ],
+    "hint": "பயத்தை விடு."
+  },
+  {
+    "questionNumber": 39,
+    "question": "பாரதியார் அருளிய புதிய ஆத்திசூடியில் 'ஆ' வரிசைக்கான வாக்கியம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "அச்சம் தவிர்", "rationale": "இது 'அ' வரிசைக்கானது.", "isCorrect": false },
+      { "text": "ஆண்மை தவேல்", "rationale": "பாரதியின் புதிய ஆத்திசூடியில் 'ஆ' வரிசைக்கான வாக்கியம் இதுவே.", "isCorrect": true },
+      { "text": "இளைத்தல் இகழ்ச்சி", "rationale": "இது 'இ' வரிசைக்கானது.", "isCorrect": false },
+      { "text": "ஈகை திறன்", "rationale": "இது 'ஈ' வரிசைக்கானது.", "isCorrect": false }
+    ],
+    "hint": "ஆண்மையை விடாதே."
+  },
+  {
+    "questionNumber": 40,
+    "question": "பாரதியார் அருளிய புதிய ஆத்திசூடியில் 'ஒ' வரிசைக்கான வாக்கியம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஒற்றுமை வலிமையாம்", "rationale": "பாரதியின் புதிய ஆத்திசூடியில் 'ஒ' வரிசைக்கான வாக்கியம் இதுவே.", "isCorrect": true },
+      { "text": "ஓய்தல் ஒழி", "rationale": "இது 'ஓ' வரிசைக்கானது.", "isCorrect": false },
+      { "text": "ஔடதம் குறை", "rationale": "இது 'ஔ' வரிசைக்கானது.", "isCorrect": false },
+      { "text": "ஊண் மிக விரும்பு", "rationale": "இது 'ஊ' வரிசைக்கானது.", "isCorrect": false }
+    ],
+    "hint": "ஒற்றுமையே வலிமை."
+  },
+  {
+    "questionNumber": 41,
+    "question": "பாரதியார் அருளிய புதிய ஆத்திசூடியில் 'ஔ' வரிசைக்கான வாக்கியம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஒற்றுமை வலிமையாம்", "rationale": "இது 'ஒ' வரிசைக்கானது.", "isCorrect": false },
+      { "text": "ஓய்தல் ஒழி", "rationale": "இது 'ஓ' வரிசைக்கானது.", "isCorrect": false },
+      { "text": "ஔடதம் குறை", "rationale": "பாரதியின் புதிய ஆத்திசூடியில் 'ஔ' வரிசைக்கான வாக்கியம் இதுவே.", "isCorrect": true },
+      { "text": "ஊண் மிக விரும்பு", "rationale": "இது 'ஊ' வரிசைக்கானது.", "isCorrect": false }
+    ],
+    "hint": "மருந்தைக் குறைத்துக்கொள்."
+  },
+  {
+    "questionNumber": 42,
+    "question": "பாரதியாரின் புதிய ஆத்திசூடி எந்த எழுத்தில் தொடங்குகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "அ", "rationale": "'அச்சம் தவிர்' — 'அ' என்ற எழுத்தில் தொடங்குகிறது.", "isCorrect": true },
+      { "text": "ஆ", "rationale": "இது இரண்டாவது எழுத்து.", "isCorrect": false },
+      { "text": "இ", "rationale": "இது மூன்றாவது எழுத்து.", "isCorrect": false },
+      { "text": "உ", "rationale": "இது வேறு எழுத்து.", "isCorrect": false }
+    ],
+    "hint": "முதல் வாக்கியம் 'அச்சம் தவிர்'."
+  },
+  {
+    "questionNumber": 43,
+    "question": "'காற்றாடி' என்ற சொல்லில் உள்ள மெய் எழுத்துகள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ற், ற், ட்", "rationale": "காற்றாடி — 'ற்', 'ற்' (வல்லினம்), 'ட்' (வல்லினம்) ஆகியவை உள்ளன.", "isCorrect": true },
+      { "text": "க், ற், ட்", "rationale": "இவற்றில் சில சொல்லில் இல்லை.", "isCorrect": false },
+      { "text": "ற், ட், ய்", "rationale": "இவற்றில் ஒன்று சொல்லில் இல்லை.", "isCorrect": false },
+      { "text": "க், ம், ட்", "rationale": "இவை சொல்லில் இல்லை.", "isCorrect": false }
+    ],
+    "hint": "கா + ற் + றா + டி."
+  },
+  {
+    "questionNumber": 44,
+    "question": "'மத்தளம்' என்ற சொல்லில் உள்ள மெல்லின மெய் எழுத்து எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ம்", "rationale": "மத்தளம் — 'ம்' என்ற மெல்லின மெய் எழுத்து உள்ளது.", "isCorrect": true },
+      { "text": "த்", "rationale": "இது வல்லின எழுத்து.", "isCorrect": false },
+      { "text": "ள்", "rationale": "இது சொல்லில் இல்லை.", "isCorrect": false },
+      { "text": "ல்", "rationale": "இது சொல்லில் இல்லை.", "isCorrect": false }
+    ],
+    "hint": "ம + த் + த + ள + ம்."
+  },
+  {
+    "questionNumber": 45,
+    "question": "'கடற்கரை' என்ற சொல்லில் உள்ள வல்லின மெய் எழுத்துகள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ட், ற், க்", "rationale": "கடற்கரை — 'ட்', 'ற்', 'க்' ஆகிய மூன்று வல்லின மெய் எழுத்துகள் உள்ளன.", "isCorrect": true },
+      { "text": "க், ர், ட்", "rationale": "இவற்றில் ர் இடையினம்.", "isCorrect": false },
+      { "text": "ட், ர், ய்", "rationale": "இவற்றில் சில இடையினம்.", "isCorrect": false },
+      { "text": "ற், க், ம்", "rationale": "இவற்றில் ம் சொல்லில் இல்லை.", "isCorrect": false }
+    ],
+    "hint": "க + ட + ற் + க + ரை."
+  },
+  {
+    "questionNumber": 46,
+    "question": "'தேங்காய்' என்ற சொல்லில் உள்ள மெல்லின மெய் எழுத்து எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ங்", "rationale": "தேங்காய் — 'ங்' என்ற மெல்லின மெய் எழுத்து உள்ளது.", "isCorrect": true },
+      { "text": "க்", "rationale": "இது வல்லின எழுத்து.", "isCorrect": false },
+      { "text": "ய்", "rationale": "இது இடையின எழுத்து.", "isCorrect": false },
+      { "text": "த்", "rationale": "இது வல்லின எழுத்து.", "isCorrect": false }
+    ],
+    "hint": "தே + ங் + கா + ய்."
+  },
+  {
+    "questionNumber": 47,
+    "question": "'வங்கி' என்ற சொல்லில் உள்ள மெல்லின மெய் எழுத்து எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ங்", "rationale": "வங்கி — 'ங்' என்ற மெல்லின மெய் எழுத்து உள்ளது.", "isCorrect": true },
+      { "text": "வ்", "rationale": "இது இடையின எழுத்து.", "isCorrect": false },
+      { "text": "க்", "rationale": "இது வல்லின எழுத்து.", "isCorrect": false },
+      { "text": "ய்", "rationale": "இது சொல்லில் இல்லை.", "isCorrect": false }
+    ],
+    "hint": "வ + ங் + கி."
+  },
+  {
+    "questionNumber": 48,
+    "question": "'கண்' என்ற சொல்லில் உள்ள மெல்லின மெய் எழுத்து எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ண்", "rationale": "கண் — 'ண்' என்ற மெல்லின மெய் எழுத்து உள்ளது.", "isCorrect": true },
+      { "text": "க்", "rationale": "இது வல்லின எழுத்து.", "isCorrect": false },
+      { "text": "ன்", "rationale": "இது சொல்லில் இல்லை.", "isCorrect": false },
+      { "text": "ம்", "rationale": "இது சொல்லில் இல்லை.", "isCorrect": false }
+    ],
+    "hint": "க + ண்."
+  },
+  {
+    "questionNumber": 49,
+    "question": "'நண்டு' என்ற சொல்லில் உள்ள மெல்லின மெய் எழுத்து எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ண்", "rationale": "நண்டு — 'ண்' என்ற மெல்லின மெய் எழுத்து உள்ளது.", "isCorrect": true },
+      { "text": "ந்", "rationale": "இது மெல்லின எழுத்து; சொல்லின் முதலில் உள்ளது.", "isCorrect": false },
+      { "text": "ட்", "rationale": "இது வல்லின எழுத்து.", "isCorrect": false },
+      { "text": "ண், ட்", "rationale": "இரண்டும் உள்ளன; ஆனால் ட் வல்லினம்.", "isCorrect": false }
+    ],
+    "hint": "ந + ண் + டு."
+  },
+  {
+    "questionNumber": 50,
+    "question": "திருக்குறளில் அதிகமாகப் பயன்படுத்தப்பட்ட மெய் எழுத்து எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ன்", "rationale": "திருக்குறளில் அதிகமாகப் பயன்படுத்தப்பட்ட மெய் எழுத்து 'ன்' ஆகும்.", "isCorrect": true },
+      { "text": "ம்", "rationale": "இது அதிகம் பயன்படுத்தப்பட்டது அல்ல.", "isCorrect": false },
+      { "text": "க்", "rationale": "இது அதிகம் பயன்படுத்தப்பட்டது அல்ல.", "isCorrect": false },
+      { "text": "ல்", "rationale": "இது அதிகம் பயன்படுத்தப்பட்டது அல்ல.", "isCorrect": false }
+    ],
+    "hint": "திருக்குறளில் 'ன்' அதிகம்."
+  }
+]

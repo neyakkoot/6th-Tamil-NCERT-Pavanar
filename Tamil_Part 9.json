@@ -1,0 +1,602 @@
+[
+  {
+    "questionNumber": 1,
+    "question": "இயல் 9-இன் தலைப்பு என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "உறவை வளர்ப்போம்! அன்பான உறவுகள்", "rationale": "இயல் 9-இன் தலைப்பு இதுவே.", "isCorrect": true },
+      { "text": "பூக்கள், பழங்கள், காய்கள்", "rationale": "இது இயல் 8.", "isCorrect": false },
+      { "text": "விலங்குகளும் பறவைகளும்", "rationale": "இது இயல் 7.", "isCorrect": false },
+      { "text": "நல்ல பழக்கவழக்கங்கள்", "rationale": "இது இயல் 6.", "isCorrect": false }
+    ],
+    "hint": "உறவை வளர்ப்போம்."
+  },
+  {
+    "questionNumber": 2,
+    "question": "அம்மாவின் தங்கையை என்ன என்று அழைப்போம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "சித்தி", "rationale": "அம்மாவின் தங்கை சித்தி ஆவார்.", "isCorrect": true },
+      { "text": "அத்தை", "rationale": "இது அப்பாவின் அக்கா/தங்கை.", "isCorrect": false },
+      { "text": "பெரியம்மா", "rationale": "இது அம்மாவின் அக்கா.", "isCorrect": false },
+      { "text": "மாமா", "rationale": "இது அம்மாவின் அண்ணன்/தம்பி.", "isCorrect": false }
+    ],
+    "hint": "அம்மாவின் தங்கை."
+  },
+  {
+    "questionNumber": 3,
+    "question": "அம்மாவின் அக்காவை என்ன என்று அழைப்போம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "பெரியம்மா", "rationale": "அம்மாவின் அக்கா பெரியம்மா ஆவார்.", "isCorrect": true },
+      { "text": "சித்தி", "rationale": "இது அம்மாவின் தங்கை.", "isCorrect": false },
+      { "text": "அத்தை", "rationale": "இது அப்பாவின் அக்கா/தங்கை.", "isCorrect": false },
+      { "text": "மாமா", "rationale": "இது அம்மாவின் அண்ணன்/தம்பி.", "isCorrect": false }
+    ],
+    "hint": "அம்மாவின் அக்கா."
+  },
+  {
+    "questionNumber": 4,
+    "question": "அப்பாவின் அண்ணாவை என்ன என்று அழைப்போம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "பெரியப்பா", "rationale": "அப்பாவின் அண்ணா பெரியப்பா ஆவார்.", "isCorrect": true },
+      { "text": "சித்தப்பா", "rationale": "இது அப்பாவின் தம்பி.", "isCorrect": false },
+      { "text": "மாமா", "rationale": "இது அம்மாவின் அண்ணன்/தம்பி.", "isCorrect": false },
+      { "text": "அத்தை", "rationale": "இது அப்பாவின் அக்கா/தங்கை.", "isCorrect": false }
+    ],
+    "hint": "அப்பாவின் அண்ணா."
+  },
+  {
+    "questionNumber": 5,
+    "question": "அப்பாவின் தம்பியை என்ன என்று அழைப்போம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "சித்தப்பா", "rationale": "அப்பாவின் தம்பி சித்தப்பா ஆவார்.", "isCorrect": true },
+      { "text": "பெரியப்பா", "rationale": "இது அப்பாவின் அண்ணா.", "isCorrect": false },
+      { "text": "மாமா", "rationale": "இது அம்மாவின் அண்ணன்/தம்பி.", "isCorrect": false },
+      { "text": "அத்தை", "rationale": "இது அப்பாவின் அக்கா/தங்கை.", "isCorrect": false }
+    ],
+    "hint": "அப்பாவின் தம்பி."
+  },
+  {
+    "questionNumber": 6,
+    "question": "அப்பாவின் அக்காவை என்ன என்று அழைப்போம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "அத்தை", "rationale": "அப்பாவின் அக்கா அத்தை ஆவார்.", "isCorrect": true },
+      { "text": "சித்தி", "rationale": "இது அம்மாவின் தங்கை.", "isCorrect": false },
+      { "text": "பெரியம்மா", "rationale": "இது அம்மாவின் அக்கா.", "isCorrect": false },
+      { "text": "மாமா", "rationale": "இது அம்மாவின் அண்ணன்/தம்பி.", "isCorrect": false }
+    ],
+    "hint": "அப்பாவின் அக்கா."
+  },
+  {
+    "questionNumber": 7,
+    "question": "அம்மாவின் அண்ணாவை என்ன என்று அழைப்போம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "மாமா", "rationale": "அம்மாவின் அண்ணா மாமா ஆவார்.", "isCorrect": true },
+      { "text": "சித்தப்பா", "rationale": "இது அப்பாவின் தம்பி.", "isCorrect": false },
+      { "text": "பெரியப்பா", "rationale": "இது அப்பாவின் அண்ணா.", "isCorrect": false },
+      { "text": "அத்தை", "rationale": "இது அப்பாவின் அக்கா/தங்கை.", "isCorrect": false }
+    ],
+    "hint": "அம்மாவின் அண்ணா."
+  },
+  {
+    "questionNumber": 8,
+    "question": "தந்தையை வேறு எந்தப் பெயரால் அழைப்போம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "அப்பா", "rationale": "தந்தையை அப்பா என்று அழைப்போம்.", "isCorrect": true },
+      { "text": "அம்மா", "rationale": "இது தாய்.", "isCorrect": false },
+      { "text": "அண்ணன்", "rationale": "இது சகோதரன்.", "isCorrect": false },
+      { "text": "தாத்தா", "rationale": "இது பாட்டனார்.", "isCorrect": false }
+    ],
+    "hint": "அப்பா."
+  },
+  {
+    "questionNumber": 9,
+    "question": "தாயை வேறு எந்தப் பெயரால் அழைப்போம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "அம்மா", "rationale": "தாயை அம்மா என்று அழைப்போம்.", "isCorrect": true },
+      { "text": "அப்பா", "rationale": "இது தந்தை.", "isCorrect": false },
+      { "text": "அக்கா", "rationale": "இது சகோதரி.", "isCorrect": false },
+      { "text": "பாட்டி", "rationale": "இது பாட்டியார்.", "isCorrect": false }
+    ],
+    "hint": "அம்மா."
+  },
+  {
+    "questionNumber": 10,
+    "question": "'தன்மை' என்பது என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "தன்னைக் குறிப்பது", "rationale": "தன்னைக் குறிப்பது தன்மை.", "isCorrect": true },
+      { "text": "முன்னால் இருப்பவரைக் குறிப்பது", "rationale": "இது முன்னிலை.", "isCorrect": false },
+      { "text": "தொலைவில் இருப்பவரைக் குறிப்பது", "rationale": "இது படர்க்கை.", "isCorrect": false },
+      { "text": "எதையும் குறிப்பதில்லை", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "நான், நாம்."
+  },
+  {
+    "questionNumber": 11,
+    "question": "'முன்னிலை' என்பது என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "நமக்கு முன்னால் இருப்பவரைக் குறிப்பது", "rationale": "முன்னால் இருப்பவரைக் குறிப்பது முன்னிலை.", "isCorrect": true },
+      { "text": "தன்னைக் குறிப்பது", "rationale": "இது தன்மை.", "isCorrect": false },
+      { "text": "தொலைவில் இருப்பவரைக் குறிப்பது", "rationale": "இது படர்க்கை.", "isCorrect": false },
+      { "text": "எதையும் குறிப்பதில்லை", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "நீ, நீங்கள்."
+  },
+  {
+    "questionNumber": 12,
+    "question": "'படர்க்கை' என்பது என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "தொலைவில் இருப்பவரைக் குறிப்பது", "rationale": "தொலைவில் இருப்பவரைக் குறிப்பது படர்க்கை.", "isCorrect": true },
+      { "text": "தன்னைக் குறிப்பது", "rationale": "இது தன்மை.", "isCorrect": false },
+      { "text": "முன்னால் இருப்பவரைக் குறிப்பது", "rationale": "இது முன்னிலை.", "isCorrect": false },
+      { "text": "எதையும் குறிப்பதில்லை", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "அவன், அவள்."
+  },
+  {
+    "questionNumber": 13,
+    "question": "இடங்கள் எத்தனை வகைப்படும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "3", "rationale": "தன்மை, முன்னிலை, படர்க்கை - மூன்று வகை.", "isCorrect": true },
+      { "text": "2", "rationale": "மூன்று வகை.", "isCorrect": false },
+      { "text": "4", "rationale": "மூன்று வகை.", "isCorrect": false },
+      { "text": "5", "rationale": "மூன்று வகை.", "isCorrect": false }
+    ],
+    "hint": "தன்மை, முன்னிலை, படர்க்கை."
+  },
+  {
+    "questionNumber": 14,
+    "question": "'நான்' என்பது எந்த இடம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "தன்மை", "rationale": "'நான்' தன்மை இடம்.", "isCorrect": true },
+      { "text": "முன்னிலை", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "படர்க்கை", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "எதுவும் இல்லை", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "தன்னைக் குறிக்கும்."
+  },
+  {
+    "questionNumber": 15,
+    "question": "'நாம்' என்பது எந்த இடம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "தன்மை", "rationale": "'நாம்' தன்மை இடம்.", "isCorrect": true },
+      { "text": "முன்னிலை", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "படர்க்கை", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "எதுவும் இல்லை", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "தன்மை."
+  },
+  {
+    "questionNumber": 16,
+    "question": "'நாங்கள்' என்பது எந்த இடம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "தன்மை", "rationale": "'நாங்கள்' தன்மை இடம்.", "isCorrect": true },
+      { "text": "முன்னிலை", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "படர்க்கை", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "எதுவும் இல்லை", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "தன்மை."
+  },
+  {
+    "questionNumber": 17,
+    "question": "'என்' என்பது எந்த இடம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "தன்மை", "rationale": "'என்' தன்மை இடம்.", "isCorrect": true },
+      { "text": "முன்னிலை", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "படர்க்கை", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "எதுவும் இல்லை", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "தன்மை."
+  },
+  {
+    "questionNumber": 18,
+    "question": "'நீ' என்பது எந்த இடம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "தன்மை", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "முன்னிலை", "rationale": "'நீ' முன்னிலை இடம்.", "isCorrect": true },
+      { "text": "படர்க்கை", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "எதுவும் இல்லை", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "நமக்கு முன்னால் இருப்பவர்."
+  },
+  {
+    "questionNumber": 19,
+    "question": "'நீங்கள்' என்பது எந்த இடம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "தன்மை", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "முன்னிலை", "rationale": "'நீங்கள்' முன்னிலை இடம்.", "isCorrect": true },
+      { "text": "படர்க்கை", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "எதுவும் இல்லை", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "முன்னிலை."
+  },
+  {
+    "questionNumber": 20,
+    "question": "'உன்' என்பது எந்த இடம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "தன்மை", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "முன்னிலை", "rationale": "'உன்' முன்னிலை இடம்.", "isCorrect": true },
+      { "text": "படர்க்கை", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "எதுவும் இல்லை", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "முன்னிலை."
+  },
+  {
+    "questionNumber": 21,
+    "question": "'உங்கள்' என்பது எந்த இடம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "தன்மை", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "முன்னிலை", "rationale": "'உங்கள்' முன்னிலை இடம்.", "isCorrect": true },
+      { "text": "படர்க்கை", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "எதுவும் இல்லை", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "முன்னிலை."
+  },
+  {
+    "questionNumber": 22,
+    "question": "'அவன்' என்பது எந்த இடம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "தன்மை", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "முன்னிலை", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "படர்க்கை", "rationale": "'அவன்' படர்க்கை இடம்.", "isCorrect": true },
+      { "text": "எதுவும் இல்லை", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "தொலைவில் இருப்பவர்."
+  },
+  {
+    "questionNumber": 23,
+    "question": "'அவள்' என்பது எந்த இடம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "தன்மை", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "முன்னிலை", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "படர்க்கை", "rationale": "'அவள்' படர்க்கை இடம்.", "isCorrect": true },
+      { "text": "எதுவும் இல்லை", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "படர்க்கை."
+  },
+  {
+    "questionNumber": 24,
+    "question": "'அவர்கள்' என்பது எந்த இடம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "தன்மை", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "முன்னிலை", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "படர்க்கை", "rationale": "'அவர்கள்' படர்க்கை இடம்.", "isCorrect": true },
+      { "text": "எதுவும் இல்லை", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "படர்க்கை."
+  },
+  {
+    "questionNumber": 25,
+    "question": "'அது' என்பது எந்த இடம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "தன்மை", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "முன்னிலை", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "படர்க்கை", "rationale": "'அது' படர்க்கை இடம்.", "isCorrect": true },
+      { "text": "எதுவும் இல்லை", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "படர்க்கை."
+  },
+  {
+    "questionNumber": 26,
+    "question": "திருக்குறள் முதன்முதலில் எந்த ஆண்டு அச்சிடப்பட்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "கி.பி. 1812", "rationale": "திருக்குறள் முதன்முதலில் கி.பி. 1812 ஆம் ஆண்டு அச்சிடப்பட்டது.", "isCorrect": true },
+      { "text": "கி.பி. 1912", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "கி.பி. 1712", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "கி.பி. 1800", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "1812."
+  },
+  {
+    "questionNumber": 27,
+    "question": "'எப்பொருள் யார்யார்வாய்க் கேட்டினும்' என்ற குறளின் குறள் எண் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "423", "rationale": "இக்குறளின் குறள் எண் 423.", "isCorrect": true },
+      { "text": "216", "rationale": "இது 'பயன்மரம்' குறள்.", "isCorrect": false },
+      { "text": "392", "rationale": "இது 'எண்ணென்ப' குறள்.", "isCorrect": false },
+      { "text": "527", "rationale": "இது 'காக்கை' குறள்.", "isCorrect": false }
+    ],
+    "hint": "குறள் 423 — அறிவு."
+  },
+  {
+    "questionNumber": 28,
+    "question": "தாத்தா என்பவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "அப்பாவின் அப்பா", "rationale": "தாத்தா என்பவர் அப்பாவின் அப்பா.", "isCorrect": true },
+      { "text": "அம்மாவின் அம்மா", "rationale": "இது பாட்டி.", "isCorrect": false },
+      { "text": "அப்பாவின் அண்ணா", "rationale": "இது பெரியப்பா.", "isCorrect": false },
+      { "text": "அம்மாவின் அண்ணா", "rationale": "இது மாமா.", "isCorrect": false }
+    ],
+    "hint": "அப்பாவின் அப்பா."
+  },
+  {
+    "questionNumber": 29,
+    "question": "பாட்டி என்பவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "அம்மாவின் அம்மா", "rationale": "பாட்டி என்பவர் அம்மாவின் அம்மா.", "isCorrect": true },
+      { "text": "அப்பாவின் அப்பா", "rationale": "இது தாத்தா.", "isCorrect": false },
+      { "text": "அம்மாவின் அக்கா", "rationale": "இது பெரியம்மா.", "isCorrect": false },
+      { "text": "அப்பாவின் அக்கா", "rationale": "இது அத்தை.", "isCorrect": false }
+    ],
+    "hint": "அம்மாவின் அம்மா."
+  },
+  {
+    "questionNumber": 30,
+    "question": "'அண்ணன்' என்பவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "தமையன் (பெரிய சகோதரன்)", "rationale": "அண்ணன் என்பவர் பெரிய சகோதரன் (தமையன்).", "isCorrect": true },
+      { "text": "சிறிய சகோதரன்", "rationale": "இது தம்பி.", "isCorrect": false },
+      { "text": "பெரிய சகோதரி", "rationale": "இது அக்கா.", "isCorrect": false },
+      { "text": "சிறிய சகோதரி", "rationale": "இது தங்கை.", "isCorrect": false }
+    ],
+    "hint": "பெரிய சகோதரன்."
+  },
+  {
+    "questionNumber": 31,
+    "question": "'தம்பி' என்பவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "சிறிய சகோதரன்", "rationale": "தம்பி என்பவர் சிறிய சகோதரன்.", "isCorrect": true },
+      { "text": "பெரிய சகோதரன்", "rationale": "இது அண்ணன்.", "isCorrect": false },
+      { "text": "பெரிய சகோதரி", "rationale": "இது அக்கா.", "isCorrect": false },
+      { "text": "சிறிய சகோதரி", "rationale": "இது தங்கை.", "isCorrect": false }
+    ],
+    "hint": "சிறிய சகோதரன்."
+  },
+  {
+    "questionNumber": 32,
+    "question": "'அக்கா' என்பவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "பெரிய சகோதரி", "rationale": "அக்கா என்பவர் பெரிய சகோதரி.", "isCorrect": true },
+      { "text": "சிறிய சகோதரி", "rationale": "இது தங்கை.", "isCorrect": false },
+      { "text": "பெரிய சகோதரன்", "rationale": "இது அண்ணன்.", "isCorrect": false },
+      { "text": "சிறிய சகோதரன்", "rationale": "இது தம்பி.", "isCorrect": false }
+    ],
+    "hint": "பெரிய சகோதரி."
+  },
+  {
+    "questionNumber": 33,
+    "question": "'தங்கை' என்பவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "சிறிய சகோதரி", "rationale": "தங்கை என்பவர் சிறிய சகோதரி.", "isCorrect": true },
+      { "text": "பெரிய சகோதரி", "rationale": "இது அக்கா.", "isCorrect": false },
+      { "text": "பெரிய சகோதரன்", "rationale": "இது அண்ணன்.", "isCorrect": false },
+      { "text": "சிறிய சகோதரன்", "rationale": "இது தம்பி.", "isCorrect": false }
+    ],
+    "hint": "சிறிய சகோதரி."
+  },
+  {
+    "questionNumber": 34,
+    "question": "'உறவுமுறைப் பாடலில்' தாத்தா பாட்டி வந்து என்ன செய்தார்கள்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "நல்ல கதைகள் சொன்னார்கள்", "rationale": "தாத்தா பாட்டி வந்து நல்ல கதைகள் சொன்னார்கள்.", "isCorrect": true },
+      { "text": "பாடம் சொன்னார்கள்", "rationale": "இது அண்ணன் அக்கா.", "isCorrect": false },
+      { "text": "ஆடிப்பாடல் சொன்னார்கள்", "rationale": "இது அத்தை மாமா.", "isCorrect": false },
+      { "text": "அழகுப் பொம்மை தந்தார்கள்", "rationale": "இது அம்மா அப்பா.", "isCorrect": false }
+    ],
+    "hint": "கதைகள்."
+  },
+  {
+    "questionNumber": 35,
+    "question": "'உறவுமுறைப் பாடலில்' அம்மா அப்பா வந்து என்ன தந்தார்கள்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "அழகுப் பொம்மை", "rationale": "அம்மா அப்பா அழகுப் பொம்மை தந்தார்கள்.", "isCorrect": true },
+      { "text": "கதைகள்", "rationale": "இது தாத்தா பாட்டி.", "isCorrect": false },
+      { "text": "பாடம்", "rationale": "இது அண்ணன் அக்கா.", "isCorrect": false },
+      { "text": "ஆடிப்பாடல்", "rationale": "இது அத்தை மாமா.", "isCorrect": false }
+    ],
+    "hint": "பொம்மை."
+  },
+  {
+    "questionNumber": 36,
+    "question": "'உறவுமுறைப் பாடலில்' அண்ணன் அக்கா வந்து என்ன சொன்னார்கள்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "அறிவுப் பாடம்", "rationale": "அண்ணன் அக்கா அறிவுப் பாடம் சொன்னார்கள்.", "isCorrect": true },
+      { "text": "கதைகள்", "rationale": "இது தாத்தா பாட்டி.", "isCorrect": false },
+      { "text": "பொம்மை", "rationale": "இது அம்மா அப்பா.", "isCorrect": false },
+      { "text": "ஆடிப்பாடல்", "rationale": "இது அத்தை மாமா.", "isCorrect": false }
+    ],
+    "hint": "அறிவுப் பாடம்."
+  },
+  {
+    "questionNumber": 37,
+    "question": "'உறவுமுறைப் பாடலில்' அத்தை மாமா வந்து என்ன சொன்னார்கள்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஆடிப்பாடல்", "rationale": "அத்தை மாமா ஆடிப்பாடல் சொன்னார்கள்.", "isCorrect": true },
+      { "text": "கதைகள்", "rationale": "இது தாத்தா பாட்டி.", "isCorrect": false },
+      { "text": "பொம்மை", "rationale": "இது அம்மா அப்பா.", "isCorrect": false },
+      { "text": "பாடம்", "rationale": "இது அண்ணன் அக்கா.", "isCorrect": false }
+    ],
+    "hint": "ஆடிப்பாடல்."
+  },
+  {
+    "questionNumber": 38,
+    "question": "உலக நீதியில் கூறப்பட்டுள்ள வரிகள் எத்தனை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "3", "rationale": "உலக நீதியில் மூன்று வரிகள் கூறப்பட்டுள்ளன.", "isCorrect": true },
+      { "text": "2", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "4", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "5", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "மூன்று வரிகள்."
+  },
+  {
+    "questionNumber": 39,
+    "question": "உலக நீதியில் முதல் வரி என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "உற்றாரை உதாசினங்கள் சொல்ல வேண்டாம்", "rationale": "இதுவே முதல் வரி.", "isCorrect": true },
+      { "text": "வெற்றியுள்ள பெரியோரை வெறுக்க வேண்டாம்", "rationale": "இது இரண்டாவது வரி.", "isCorrect": false },
+      { "text": "மூத்தோர் சொல் வார்த்தைதரை மறக்க வேண்டாம்", "rationale": "இது மூன்றாவது வரி.", "isCorrect": false },
+      { "text": "போகவிட்டுப் புறம் சொல்லித் திரிய வேண்டாம்", "rationale": "இது இயல் 7 உலக நீதி.", "isCorrect": false }
+    ],
+    "hint": "உற்றாரை..."
+  },
+  {
+    "questionNumber": 40,
+    "question": "'உறவை வளர்ப்போம்' இயலில் அழகு என்ற மாணவன் எதில் நடித்தான்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "தாத்தாவாக", "rationale": "அழகு தாத்தாவாக நடித்தான்.", "isCorrect": true },
+      { "text": "அப்பாவாக", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "மாமாவாக", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "அண்ணனாக", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "தாத்தா."
+  },
+  {
+    "questionNumber": 41,
+    "question": "'உறவை வளர்ப்போம்' இயலில் அழகுவின் நாடகம் எந்த விழாவில் நடைபெற்றது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஆண்டு விழா", "rationale": "ஆண்டு விழாவில் நாடகம் நடைபெற்றது.", "isCorrect": true },
+      { "text": "புத்தாண்டு விழா", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "பொங்கல் விழா", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "தீபாவளி விழா", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "ஆண்டு விழா."
+  },
+  {
+    "questionNumber": 42,
+    "question": "'அழகு' என்ற மாணவன் யாருடன் வாழ்ந்து வந்தான்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "பாட்டி, தாத்தா, அப்பா, அம்மாவுடன்", "rationale": "அழகு இவர்களுடன் வாழ்ந்து வந்தான்.", "isCorrect": true },
+      { "text": "மாமா, அத்தையுடன்", "rationale": "இவர்கள் வாழ்த்த வந்தனர்.", "isCorrect": false },
+      { "text": "நண்பர்களுடன்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "ஆசிரியருடன்", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "குடும்பத்துடன்."
+  },
+  {
+    "questionNumber": 43,
+    "question": "உறவுப் பெயர் அல்லாதது எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "பள்ளி", "rationale": "பள்ளி உறவுப் பெயர் அல்ல.", "isCorrect": true },
+      { "text": "அம்மா", "rationale": "இது உறவுப் பெயர்.", "isCorrect": false },
+      { "text": "அப்பா", "rationale": "இது உறவுப் பெயர்.", "isCorrect": false },
+      { "text": "தாத்தா", "rationale": "இது உறவுப் பெயர்.", "isCorrect": false }
+    ],
+    "hint": "இடத்தின் பெயர்."
+  },
+  {
+    "questionNumber": 44,
+    "question": "'என் அண்ணன் பள்ளிக்குச் செல்கிறான்' - இதில் உள்ள உறவுப் பெயர் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "அண்ணன்", "rationale": "இதில் 'அண்ணன்' என்ற உறவுப் பெயர் உள்ளது.", "isCorrect": true },
+      { "text": "பள்ளி", "rationale": "இது இடப் பெயர்.", "isCorrect": false },
+      { "text": "செல்கிறான்", "rationale": "இது வினைச்சொல்.", "isCorrect": false },
+      { "text": "என்", "rationale": "இது பெயரடை.", "isCorrect": false }
+    ],
+    "hint": "உறவுப் பெயர்."
+  },
+  {
+    "questionNumber": 45,
+    "question": "'என் பாட்டி கதை சொல்லுகிறார்' - இதில் உள்ள உறவுப் பெயர் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "பாட்டி", "rationale": "இதில் 'பாட்டி' என்ற உறவுப் பெயர் உள்ளது.", "isCorrect": true },
+      { "text": "கதை", "rationale": "இது பொருள் பெயர்.", "isCorrect": false },
+      { "text": "சொல்லுகிறார்", "rationale": "இது வினைச்சொல்.", "isCorrect": false },
+      { "text": "என்", "rationale": "இது பெயரடை.", "isCorrect": false }
+    ],
+    "hint": "உறவுப் பெயர்."
+  },
+  {
+    "questionNumber": 46,
+    "question": "'என் தந்தை சந்தைக்குப் போகிறார்' - இதில் உள்ள உறவுப் பெயர் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "தந்தை", "rationale": "இதில் 'தந்தை' என்ற உறவுப் பெயர் உள்ளது.", "isCorrect": true },
+      { "text": "சந்தை", "rationale": "இது இடப் பெயர்.", "isCorrect": false },
+      { "text": "போகிறார்", "rationale": "இது வினைச்சொல்.", "isCorrect": false },
+      { "text": "என்", "rationale": "இது பெயரடை.", "isCorrect": false }
+    ],
+    "hint": "உறவுப் பெயர்."
+  },
+  {
+    "questionNumber": 47,
+    "question": "'தன்மை' இடத்திற்கு உதாரணம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "நான்", "rationale": "'நான்' தன்மை இடம்.", "isCorrect": true },
+      { "text": "நீ", "rationale": "இது முன்னிலை.", "isCorrect": false },
+      { "text": "அவன்", "rationale": "இது படர்க்கை.", "isCorrect": false },
+      { "text": "அவள்", "rationale": "இது படர்க்கை.", "isCorrect": false }
+    ],
+    "hint": "தன்னைக் குறிக்கும்."
+  },
+  {
+    "questionNumber": 48,
+    "question": "'முன்னிலை' இடத்திற்கு உதாரணம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "நீ", "rationale": "'நீ' முன்னிலை இடம்.", "isCorrect": true },
+      { "text": "நான்", "rationale": "இது தன்மை.", "isCorrect": false },
+      { "text": "அவன்", "rationale": "இது படர்க்கை.", "isCorrect": false },
+      { "text": "அது", "rationale": "இது படர்க்கை.", "isCorrect": false }
+    ],
+    "hint": "நமக்கு முன்னால்."
+  },
+  {
+    "questionNumber": 49,
+    "question": "'படர்க்கை' இடத்திற்கு உதாரணம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "அவன்", "rationale": "'அவன்' படர்க்கை இடம்.", "isCorrect": true },
+      { "text": "நான்", "rationale": "இது தன்மை.", "isCorrect": false },
+      { "text": "நீ", "rationale": "இது முன்னிலை.", "isCorrect": false },
+      { "text": "நாம்", "rationale": "இது தன்மை.", "isCorrect": false }
+    ],
+    "hint": "தொலைவில் இருப்பவர்."
+  },
+  {
+    "questionNumber": 50,
+    "question": "ஒளவையார் அருளிய ஆத்திசூடியில் 'கே' வரிசைக்கான வாக்கியம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "கேள்வி முயல்", "rationale": "ஆத்திசூடியில் 'கே' வரிசைக்கான வாக்கியம் இதுவே.", "isCorrect": true },
+      { "text": "நூல் பல கல்", "rationale": "இது 'நூ' வரிசைக்கானது.", "isCorrect": false },
+      { "text": "பருவத்தே பயிர் செய்", "rationale": "இது 'ப' வரிசைக்கானது.", "isCorrect": false },
+      { "text": "தொன்மை மறவேல்", "rationale": "இது 'தொ' வரிசைக்கானது.", "isCorrect": false }
+    ],
+    "hint": "கேள்வி கேள்."
+  }
+]

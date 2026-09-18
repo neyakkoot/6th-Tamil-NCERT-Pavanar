@@ -1,0 +1,602 @@
+[
+  {
+    "questionNumber": 1,
+    "question": "இயல் 11-இன் தலைப்பு என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "நம் உடல் - ஓர் அற்புத உலகம்", "rationale": "இயல் 11-இன் தலைப்பு இதுவே.", "isCorrect": true },
+      { "text": "நாள்கள் - மாதங்கள் - திசைகள்", "rationale": "இது இயல் 10.", "isCorrect": false },
+      { "text": "உறவை வளர்ப்போம்", "rationale": "இது இயல் 9.", "isCorrect": false },
+      { "text": "பூக்கள், பழங்கள், காய்கள்", "rationale": "இது இயல் 8.", "isCorrect": false }
+    ],
+    "hint": "ஓர் அற்புத உலகம்."
+  },
+  {
+    "questionNumber": 2,
+    "question": "நல்லதைப் பார்க்க உதவுவது எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "கண்கள்", "rationale": "கண்கள் நல்லதைப் பார்க்க உதவுகின்றன.", "isCorrect": true },
+      { "text": "காதுகள்", "rationale": "இவை கேட்க உதவுகின்றன.", "isCorrect": false },
+      { "text": "மூக்கு", "rationale": "இது வாசனை அறிய உதவுகிறது.", "isCorrect": false },
+      { "text": "நாக்கு", "rationale": "இது சுவை உணர உதவுகிறது.", "isCorrect": false }
+    ],
+    "hint": "பார்த்தல்."
+  },
+  {
+    "questionNumber": 3,
+    "question": "நல்லதைக் கேட்க உதவுவது எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "கண்கள்", "rationale": "இவை பார்க்க உதவுகின்றன.", "isCorrect": false },
+      { "text": "காதுகள்", "rationale": "காதுகள் நல்லதைக் கேட்க உதவுகின்றன.", "isCorrect": true },
+      { "text": "மூக்கு", "rationale": "இது வாசனை அறிய உதவுகிறது.", "isCorrect": false },
+      { "text": "நாக்கு", "rationale": "இது சுவை உணர உதவுகிறது.", "isCorrect": false }
+    ],
+    "hint": "கேட்டல்."
+  },
+  {
+    "questionNumber": 4,
+    "question": "நல்ல வாசனை அறிய உதவுவது எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "கண்கள்", "rationale": "இவை பார்க்க உதவுகின்றன.", "isCorrect": false },
+      { "text": "காதுகள்", "rationale": "இவை கேட்க உதவுகின்றன.", "isCorrect": false },
+      { "text": "மூக்கு", "rationale": "மூக்கு நல்ல வாசனை அறிய உதவுகிறது.", "isCorrect": true },
+      { "text": "நாக்கு", "rationale": "இது சுவை உணர உதவுகிறது.", "isCorrect": false }
+    ],
+    "hint": "வாசனை."
+  },
+  {
+    "questionNumber": 5,
+    "question": "சுவையை உணர உதவுவது எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "கண்கள்", "rationale": "இவை பார்க்க உதவுகின்றன.", "isCorrect": false },
+      { "text": "காதுகள்", "rationale": "இவை கேட்க உதவுகின்றன.", "isCorrect": false },
+      { "text": "மூக்கு", "rationale": "இது வாசனை அறிய உதவுகிறது.", "isCorrect": false },
+      { "text": "நாக்கு", "rationale": "நாக்கு சுவையை உணர உதவுகிறது.", "isCorrect": true }
+    ],
+    "hint": "சுவை."
+  },
+  {
+    "questionNumber": 6,
+    "question": "உதவி செய்ய உதவுவது எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "கைகள்", "rationale": "கைகள் உதவி செய்ய உதவுகின்றன.", "isCorrect": true },
+      { "text": "கால்கள்", "rationale": "இவை நடக்க உதவுகின்றன.", "isCorrect": false },
+      { "text": "கண்கள்", "rationale": "இவை பார்க்க உதவுகின்றன.", "isCorrect": false },
+      { "text": "காதுகள்", "rationale": "இவை கேட்க உதவுகின்றன.", "isCorrect": false }
+    ],
+    "hint": "கை."
+  },
+  {
+    "questionNumber": 7,
+    "question": "நல்வழி நடக்க உதவுவது எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "கைகள்", "rationale": "இவை உதவி செய்ய உதவுகின்றன.", "isCorrect": false },
+      { "text": "கால்கள்", "rationale": "கால்கள் நல்வழி நடக்க உதவுகின்றன.", "isCorrect": true },
+      { "text": "கண்கள்", "rationale": "இவை பார்க்க உதவுகின்றன.", "isCorrect": false },
+      { "text": "மூக்கு", "rationale": "இது வாசனை அறிய உதவுகிறது.", "isCorrect": false }
+    ],
+    "hint": "கால்."
+  },
+  {
+    "questionNumber": 8,
+    "question": "உடலின் முக்கியப் பகுதி எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "தலை", "rationale": "உடலின் முக்கியப் பகுதி தலை.", "isCorrect": true },
+      { "text": "கை", "rationale": "இது ஒரு உறுப்பு.", "isCorrect": false },
+      { "text": "கால்", "rationale": "இது ஒரு உறுப்பு.", "isCorrect": false },
+      { "text": "வயிறு", "rationale": "இது ஒரு உறுப்பு.", "isCorrect": false }
+    ],
+    "hint": "தலை."
+  },
+  {
+    "questionNumber": 9,
+    "question": "உணவைக் கடிக்க உதவுவது எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "பற்கள்", "rationale": "பற்கள் உணவைக் கடிக்க உதவுகின்றன.", "isCorrect": true },
+      { "text": "நாக்கு", "rationale": "இது சுவை உணர உதவுகிறது.", "isCorrect": false },
+      { "text": "மூக்கு", "rationale": "இது வாசனை அறிய உதவுகிறது.", "isCorrect": false },
+      { "text": "காது", "rationale": "இது கேட்க உதவுகிறது.", "isCorrect": false }
+    ],
+    "hint": "பல்."
+  },
+  {
+    "questionNumber": 10,
+    "question": "நல்லதை எண்ண உதவுவது எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "மனம்", "rationale": "மனம் நல்லதை எண்ண உதவுகிறது.", "isCorrect": true },
+      { "text": "கை", "rationale": "இது உதவி செய்ய உதவுகிறது.", "isCorrect": false },
+      { "text": "கால்", "rationale": "இது நடக்க உதவுகிறது.", "isCorrect": false },
+      { "text": "கண்", "rationale": "இது பார்க்க உதவுகிறது.", "isCorrect": false }
+    ],
+    "hint": "மனம்."
+  },
+  {
+    "questionNumber": 11,
+    "question": "உடலைப் பாதுகாக்கிறது எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "தோல்", "rationale": "தோல் உடலைப் பாதுகாக்கிறது.", "isCorrect": true },
+      { "text": "எலும்பு", "rationale": "இது உடலைத் தாங்குகிறது.", "isCorrect": false },
+      { "text": "இதயம்", "rationale": "இது இரத்தம் செலுத்துகிறது.", "isCorrect": false },
+      { "text": "நுரையீரல்", "rationale": "இது சுவாசிக்க உதவுகிறது.", "isCorrect": false }
+    ],
+    "hint": "தோல்."
+  },
+  {
+    "questionNumber": 12,
+    "question": "மூளையின் ஆங்கிலச் சொல் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Brain", "rationale": "மூளை = Brain.", "isCorrect": true },
+      { "text": "Lungs", "rationale": "இது நுரையீரல்.", "isCorrect": false },
+      { "text": "Heart", "rationale": "இது இதயம்.", "isCorrect": false },
+      { "text": "Liver", "rationale": "இது கல்லீரல்.", "isCorrect": false }
+    ],
+    "hint": "Brain."
+  },
+  {
+    "questionNumber": 13,
+    "question": "நுரையீரலின் ஆங்கிலச் சொல் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Brain", "rationale": "இது மூளை.", "isCorrect": false },
+      { "text": "Lungs", "rationale": "நுரையீரல் = Lungs.", "isCorrect": true },
+      { "text": "Heart", "rationale": "இது இதயம்.", "isCorrect": false },
+      { "text": "Liver", "rationale": "இது கல்லீரல்.", "isCorrect": false }
+    ],
+    "hint": "Lungs."
+  },
+  {
+    "questionNumber": 14,
+    "question": "இதயத்தின் ஆங்கிலச் சொல் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Brain", "rationale": "இது மூளை.", "isCorrect": false },
+      { "text": "Lungs", "rationale": "இது நுரையீரல்.", "isCorrect": false },
+      { "text": "Heart", "rationale": "இதயம் = Heart.", "isCorrect": true },
+      { "text": "Liver", "rationale": "இது கல்லீரல்.", "isCorrect": false }
+    ],
+    "hint": "Heart."
+  },
+  {
+    "questionNumber": 15,
+    "question": "கல்லீரலின் ஆங்கிலச் சொல் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Brain", "rationale": "இது மூளை.", "isCorrect": false },
+      { "text": "Lungs", "rationale": "இது நுரையீரல்.", "isCorrect": false },
+      { "text": "Heart", "rationale": "இது இதயம்.", "isCorrect": false },
+      { "text": "Liver", "rationale": "கல்லீரல் = Liver.", "isCorrect": true }
+    ],
+    "hint": "Liver."
+  },
+  {
+    "questionNumber": 16,
+    "question": "சிறுநீரகத்தின் ஆங்கிலச் சொல் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Kidney", "rationale": "சிறுநீரகம் = Kidney.", "isCorrect": true },
+      { "text": "Lungs", "rationale": "இது நுரையீரல்.", "isCorrect": false },
+      { "text": "Heart", "rationale": "இது இதயம்.", "isCorrect": false },
+      { "text": "Liver", "rationale": "இது கல்லீரல்.", "isCorrect": false }
+    ],
+    "hint": "Kidney."
+  },
+  {
+    "questionNumber": 17,
+    "question": "'உருவக்கேலி' என்பதன் ஆங்கிலச் சொல் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Body Shaming", "rationale": "உருவக்கேலி = Body Shaming.", "isCorrect": true },
+      { "text": "Bullying", "rationale": "இது மனதைப் பாதிக்கும் செயல்.", "isCorrect": false },
+      { "text": "Helping", "rationale": "இது உதவுதல்.", "isCorrect": false },
+      { "text": "Sharing", "rationale": "இது பகிர்தல்.", "isCorrect": false }
+    ],
+    "hint": "Body Shaming."
+  },
+  {
+    "questionNumber": 18,
+    "question": "ஒருவரின் உடல் அல்லது தோற்றத்தைக் கேலி செய்வது எப்படி அழைக்கப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "உருவக்கேலி (Body Shaming)", "rationale": "இதுவே சரியான பதில்.", "isCorrect": true },
+      { "text": "நட்பு", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "உதவி", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "பாராட்டு", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "Body Shaming."
+  },
+  {
+    "questionNumber": 19,
+    "question": "உருவக்கேலி என்பது எந்த வகைச் செயல்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "மனதைப் பாதிக்கும் செயல்", "rationale": "உருவக்கேலி மனதைப் பாதிக்கும் செயல்.", "isCorrect": true },
+      { "text": "மகிழ்ச்சி தரும் செயல்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "நட்பு வளர்க்கும் செயல்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "கல்வி தரும் செயல்", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "மனதைப் பாதிக்கும்."
+  },
+  {
+    "questionNumber": 20,
+    "question": "மனதைக் குணப்படுத்துவது எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "அன்பும் நல்ல வார்த்தைகளும்", "rationale": "அன்பும் நல்ல வார்த்தைகளும் மனதைக் குணப்படுத்தும்.", "isCorrect": true },
+      { "text": "கேலி", "rationale": "இது மனதைப் புண்படுத்தும்.", "isCorrect": false },
+      { "text": "கிண்டல்", "rationale": "இது மனதைப் புண்படுத்தும்.", "isCorrect": false },
+      { "text": "திட்டுதல்", "rationale": "இது மனதைப் புண்படுத்தும்.", "isCorrect": false }
+    ],
+    "hint": "அன்பு."
+  },
+  {
+    "questionNumber": 21,
+    "question": "'அலை' என்பதன் பொருள் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "நீரலை", "rationale": "'அலை' என்பதன் பொருள் நீரலை.", "isCorrect": true },
+      { "text": "கூப்பிடு", "rationale": "இது 'அழை'.", "isCorrect": false },
+      { "text": "துன்பம்", "rationale": "இது 'வலி'.", "isCorrect": false },
+      { "text": "பாதை", "rationale": "இது 'வழி'.", "isCorrect": false }
+    ],
+    "hint": "கடல் அலை."
+  },
+  {
+    "questionNumber": 22,
+    "question": "'அழை' என்பதன் பொருள் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "நீரலை", "rationale": "இது 'அலை'.", "isCorrect": false },
+      { "text": "கூப்பிடு", "rationale": "'அழை' என்பதன் பொருள் கூப்பிடு.", "isCorrect": true },
+      { "text": "துன்பம்", "rationale": "இது 'வலி'.", "isCorrect": false },
+      { "text": "பாதை", "rationale": "இது 'வழி'.", "isCorrect": false }
+    ],
+    "hint": "கூப்பிடு."
+  },
+  {
+    "questionNumber": 23,
+    "question": "'வலி' என்பதன் பொருள் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "நீரலை", "rationale": "இது 'அலை'.", "isCorrect": false },
+      { "text": "கூப்பிடு", "rationale": "இது 'அழை'.", "isCorrect": false },
+      { "text": "துன்பம்", "rationale": "'வலி' என்பதன் பொருள் துன்பம்.", "isCorrect": true },
+      { "text": "பாதை", "rationale": "இது 'வழி'.", "isCorrect": false }
+    ],
+    "hint": "துன்பம்."
+  },
+  {
+    "questionNumber": 24,
+    "question": "'வழி' என்பதன் பொருள் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "நீரலை", "rationale": "இது 'அலை'.", "isCorrect": false },
+      { "text": "கூப்பிடு", "rationale": "இது 'அழை'.", "isCorrect": false },
+      { "text": "துன்பம்", "rationale": "இது 'வலி'.", "isCorrect": false },
+      { "text": "பாதை", "rationale": "'வழி' என்பதன் பொருள் பாதை.", "isCorrect": true }
+    ],
+    "hint": "பாதை."
+  },
+  {
+    "questionNumber": 25,
+    "question": "'வளி' என்பதன் பொருள் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "காற்று", "rationale": "'வளி' என்பதன் பொருள் காற்று.", "isCorrect": true },
+      { "text": "நீரலை", "rationale": "இது 'அலை'.", "isCorrect": false },
+      { "text": "துன்பம்", "rationale": "இது 'வலி'.", "isCorrect": false },
+      { "text": "பாதை", "rationale": "இது 'வழி'.", "isCorrect": false }
+    ],
+    "hint": "காற்று."
+  },
+  {
+    "questionNumber": 26,
+    "question": "'ஒலி' என்பதன் பொருள் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "சத்தம்", "rationale": "'ஒலி' என்பதன் பொருள் சத்தம்.", "isCorrect": true },
+      { "text": "நீரலை", "rationale": "இது 'அலை'.", "isCorrect": false },
+      { "text": "காற்று", "rationale": "இது 'வளி'.", "isCorrect": false },
+      { "text": "பாதை", "rationale": "இது 'வழி'.", "isCorrect": false }
+    ],
+    "hint": "சத்தம்."
+  },
+  {
+    "questionNumber": 27,
+    "question": "'ஒழி' என்பதன் பொருள் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "தவிர்", "rationale": "'ஒழி' என்பதன் பொருள் தவிர்.", "isCorrect": true },
+      { "text": "கூப்பிடு", "rationale": "இது 'அழை'.", "isCorrect": false },
+      { "text": "துன்பம்", "rationale": "இது 'வலி'.", "isCorrect": false },
+      { "text": "சத்தம்", "rationale": "இது 'ஒலி'.", "isCorrect": false }
+    ],
+    "hint": "தவிர்."
+  },
+  {
+    "questionNumber": 28,
+    "question": "'பள்ளி' என்பதன் ஆங்கிலச் சொல் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "School", "rationale": "பள்ளி = School.", "isCorrect": true },
+      { "text": "Air", "rationale": "இது வளி.", "isCorrect": false },
+      { "text": "Lizard", "rationale": "இது பல்லி.", "isCorrect": false },
+      { "text": "Way", "rationale": "இது வழி.", "isCorrect": false }
+    ],
+    "hint": "School."
+  },
+  {
+    "questionNumber": 29,
+    "question": "'வளி' என்பதன் ஆங்கிலச் சொல் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "School", "rationale": "இது பள்ளி.", "isCorrect": false },
+      { "text": "Air", "rationale": "வளி = Air.", "isCorrect": true },
+      { "text": "Lizard", "rationale": "இது பல்லி.", "isCorrect": false },
+      { "text": "Way", "rationale": "இது வழி.", "isCorrect": false }
+    ],
+    "hint": "Air."
+  },
+  {
+    "questionNumber": 30,
+    "question": "'பல்லி' என்பதன் ஆங்கிலச் சொல் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "School", "rationale": "இது பள்ளி.", "isCorrect": false },
+      { "text": "Air", "rationale": "இது வளி.", "isCorrect": false },
+      { "text": "Lizard", "rationale": "பல்லி = Lizard.", "isCorrect": true },
+      { "text": "Way", "rationale": "இது வழி.", "isCorrect": false }
+    ],
+    "hint": "Lizard."
+  },
+  {
+    "questionNumber": 31,
+    "question": "'வழி' என்பதன் ஆங்கிலச் சொல் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "School", "rationale": "இது பள்ளி.", "isCorrect": false },
+      { "text": "Air", "rationale": "இது வளி.", "isCorrect": false },
+      { "text": "Lizard", "rationale": "இது பல்லி.", "isCorrect": false },
+      { "text": "Way", "rationale": "வழி = Way.", "isCorrect": true }
+    ],
+    "hint": "Way."
+  },
+  {
+    "questionNumber": 32,
+    "question": "'வலி' என்பதன் ஆங்கிலச் சொல் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Pain", "rationale": "வலி = Pain.", "isCorrect": true },
+      { "text": "Air", "rationale": "இது வளி.", "isCorrect": false },
+      { "text": "Lizard", "rationale": "இது பல்லி.", "isCorrect": false },
+      { "text": "Way", "rationale": "இது வழி.", "isCorrect": false }
+    ],
+    "hint": "Pain."
+  },
+  {
+    "questionNumber": 33,
+    "question": "'வாழ்' என்பதன் ஆங்கிலச் சொல் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Pain", "rationale": "இது வலி.", "isCorrect": false },
+      { "text": "Live", "rationale": "வாழ் = Live.", "isCorrect": true },
+      { "text": "Lizard", "rationale": "இது பல்லி.", "isCorrect": false },
+      { "text": "Way", "rationale": "இது வழி.", "isCorrect": false }
+    ],
+    "hint": "Live."
+  },
+  {
+    "questionNumber": 34,
+    "question": "திருக்குறளில் உடம்பு எந்தப் பெயரில் இடம்பெற்றுள்ளது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "யாக்கை", "rationale": "திருக்குறளில் உடம்பு 'யாக்கை' என்று இடம்பெற்றுள்ளது.", "isCorrect": true },
+      { "text": "தேகம்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "உடல்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "சரீரம்", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "யாக்கை."
+  },
+  {
+    "questionNumber": 35,
+    "question": "'தீயினாற் சுட்ட புண் உள்ளாறும்' என்ற குறளின் குறள் எண் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "129", "rationale": "இக்குறளின் குறள் எண் 129.", "isCorrect": true },
+      { "text": "102", "rationale": "இது 'காலத்தினாற்' குறள்.", "isCorrect": false },
+      { "text": "216", "rationale": "இது 'பயன்மரம்' குறள்.", "isCorrect": false },
+      { "text": "423", "rationale": "இது 'எப்பொருள்' குறள்.", "isCorrect": false }
+    ],
+    "hint": "குறள் 129."
+  },
+  {
+    "questionNumber": 36,
+    "question": "தீயினால் சுட்ட புண் ஆறுமா?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஆறும்", "rationale": "தீயினால் சுட்ட புண் ஆறும்.", "isCorrect": true },
+      { "text": "ஆறாது", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "சில நேரம்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "தெரியவில்லை", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "ஆறும்."
+  },
+  {
+    "questionNumber": 37,
+    "question": "நாவினால் சுட்ட வடு ஆறுமா?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஆறும்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "ஆறாது", "rationale": "நாவினால் சுட்ட வடு ஆறாது.", "isCorrect": true },
+      { "text": "சில நேரம்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "தெரியவில்லை", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "ஆறாது."
+  },
+  {
+    "questionNumber": 38,
+    "question": "'கல்விக்குத் தலை வணங்கு' - எதனால்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "தலை", "rationale": "தலையால் கல்விக்கு வணங்க வேண்டும்.", "isCorrect": true },
+      { "text": "கை", "rationale": "இது உதவி செய்ய.", "isCorrect": false },
+      { "text": "கால்", "rationale": "இது நடக்க.", "isCorrect": false },
+      { "text": "கண்", "rationale": "இது பார்க்க.", "isCorrect": false }
+    ],
+    "hint": "தலை."
+  },
+  {
+    "questionNumber": 39,
+    "question": "'காதுகளால் நல்லதே கேள்' - இது எதைக் குறிக்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "நல்லதைக் கேட்டல்", "rationale": "காதுகளால் நல்லதைக் கேட்க வேண்டும்.", "isCorrect": true },
+      { "text": "கேட்பதைத் தவிர்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "எதையும் கேட்காதே", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "தூங்கு", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "நல்லதைக் கேள்."
+  },
+  {
+    "questionNumber": 40,
+    "question": "'கண்களால் கருணை காட்டு' - இது எதைக் குறிக்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "கருணையுடன் பார்த்தல்", "rationale": "கண்களால் கருணை காட்ட வேண்டும்.", "isCorrect": true },
+      { "text": "கோபமாகப் பார்த்தல்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "பார்க்காமல் இருத்தல்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "கண்ணை மூடுதல்", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "கருணை."
+  },
+  {
+    "questionNumber": 41,
+    "question": "'வாயால் உண்மையைப் பேசு' - இது எதைக் குறிக்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "உண்மை பேசுதல்", "rationale": "வாயால் உண்மையைப் பேச வேண்டும்.", "isCorrect": true },
+      { "text": "பொய் பேசுதல்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "பேசாமல் இருத்தல்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "கத்துதல்", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "உண்மை."
+  },
+  {
+    "questionNumber": 42,
+    "question": "'கைகளால் கொடுத்துப் பழகு' - இது எதைக் குறிக்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "கொடுத்து உதவுதல்", "rationale": "கைகளால் கொடுத்து உதவ வேண்டும்.", "isCorrect": true },
+      { "text": "வாங்குதல்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "அடித்தல்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "எழுதுதல்", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "கொடு."
+  },
+  {
+    "questionNumber": 43,
+    "question": "'கால்களால் நல்வழி நட' - இது எதைக் குறிக்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "நல்ல வழியில் நடத்தல்", "rationale": "கால்களால் நல்வழி நடக்க வேண்டும்.", "isCorrect": true },
+      { "text": "தவறான வழியில் நடத்தல்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "ஓடுதல்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "நிற்றல்", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "நல்வழி."
+  },
+  {
+    "questionNumber": 44,
+    "question": "உடல் உறுப்புகளின் பெயர்களில் ஒன்று எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "கண்", "rationale": "கண் ஒரு உடல் உறுப்பு.", "isCorrect": true },
+      { "text": "புத்தகம்", "rationale": "இது ஒரு பொருள்.", "isCorrect": false },
+      { "text": "மரம்", "rationale": "இது ஒரு தாவரம்.", "isCorrect": false },
+      { "text": "வீடு", "rationale": "இது ஒரு கட்டிடம்.", "isCorrect": false }
+    ],
+    "hint": "உடல் உறுப்பு."
+  },
+  {
+    "questionNumber": 45,
+    "question": "உடல் உறுப்புகளின் பெயர்களில் ஒன்று எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "கை", "rationale": "கை ஒரு உடல் உறுப்பு.", "isCorrect": true },
+      { "text": "மேசை", "rationale": "இது ஒரு பொருள்.", "isCorrect": false },
+      { "text": "நாற்காலி", "rationale": "இது ஒரு பொருள்.", "isCorrect": false },
+      { "text": "பலகை", "rationale": "இது ஒரு பொருள்.", "isCorrect": false }
+    ],
+    "hint": "உடல் உறுப்பு."
+  },
+  {
+    "questionNumber": 46,
+    "question": "உடல் உறுப்புகளின் பெயர்களில் ஒன்று எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "கால்", "rationale": "கால் ஒரு உடல் உறுப்பு.", "isCorrect": true },
+      { "text": "பந்து", "rationale": "இது ஒரு பொருள்.", "isCorrect": false },
+      { "text": "கயிறு", "rationale": "இது ஒரு பொருள்.", "isCorrect": false },
+      { "text": "கல்", "rationale": "இது ஒரு பொருள்.", "isCorrect": false }
+    ],
+    "hint": "உடல் உறுப்பு."
+  },
+  {
+    "questionNumber": 47,
+    "question": "உடல் உறுப்புகளின் பெயர்களில் ஒன்று எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "வாய்", "rationale": "வாய் ஒரு உடல் உறுப்பு.", "isCorrect": true },
+      { "text": "புத்தகம்", "rationale": "இது ஒரு பொருள்.", "isCorrect": false },
+      { "text": "கண்ணாடி", "rationale": "இது ஒரு பொருள்.", "isCorrect": false },
+      { "text": "பேனா", "rationale": "இது ஒரு பொருள்.", "isCorrect": false }
+    ],
+    "hint": "உடல் உறுப்பு."
+  },
+  {
+    "questionNumber": 48,
+    "question": "'கைகளால் வேலை செய்யலாம்' - இது எதைக் குறிக்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "கைகளால் வேலை செய்தல்", "rationale": "கைகளால் வேலை செய்யலாம்.", "isCorrect": true },
+      { "text": "கைகளை மடக்குதல்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "கைகளை உயர்த்துதல்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "கைகளைக் கழுவுதல்", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "வேலை செய்."
+  },
+  {
+    "questionNumber": 49,
+    "question": "'விரல்களால் எண்களை எண்ணலாம்' - இது எதைக் குறிக்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "விரல்களால் எண்ணுதல்", "rationale": "விரல்களால் எண்களை எண்ணலாம்.", "isCorrect": true },
+      { "text": "விரல்களை மடக்குதல்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "விரல்களை நீட்டுதல்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "விரல்களை அசைத்தல்", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "எண்."
+  },
+  {
+    "questionNumber": 50,
+    "question": "'உடல் உறுப்புகளின் பயன்களை அறியலாம்' - இது எதைக் குறிக்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "உடல் உறுப்புகளின் பயன்களை அறிதல்", "rationale": "உடல் உறுப்புகளின் பயன்களை அறிய வேண்டும்.", "isCorrect": true },
+      { "text": "உடல் உறுப்புகளை மறத்தல்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "உடல் உறுப்புகளை கேலி செய்தல்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "உடல் உறுப்புகளை புறக்கணித்தல்", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "பயன்களை அறி."
+  }
+]

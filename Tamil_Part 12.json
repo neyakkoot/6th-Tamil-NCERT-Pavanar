@@ -1,0 +1,602 @@
+[
+  {
+    "questionNumber": 1,
+    "question": "இயல் 12-இன் தலைப்பு என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "தொழிலும் பயணமும் - வளர்ச்சியின் பாதைகள்", "rationale": "இயல் 12-இன் தலைப்பு இதுவே.", "isCorrect": true },
+      { "text": "நம் உடல் - ஓர் அற்புத உலகம்", "rationale": "இது இயல் 11.", "isCorrect": false },
+      { "text": "நாள்கள் - மாதங்கள் - திசைகள்", "rationale": "இது இயல் 10.", "isCorrect": false },
+      { "text": "உறவை வளர்ப்போம்", "rationale": "இது இயல் 9.", "isCorrect": false }
+    ],
+    "hint": "வளர்ச்சியின் பாதைகள்."
+  },
+  {
+    "questionNumber": 2,
+    "question": "நோயாளிகளைக் குணப்படுத்துபவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "மருத்துவர்", "rationale": "மருத்துவர் நோயாளிகளைக் குணப்படுத்துபவர்.", "isCorrect": true },
+      { "text": "காவலர்", "rationale": "இவர் சட்டத்தைக் காக்கிறார்.", "isCorrect": false },
+      { "text": "உழவர்", "rationale": "இவர் வயலில் உழுகிறார்.", "isCorrect": false },
+      { "text": "தச்சர்", "rationale": "இவர் மரவேலை செய்கிறார்.", "isCorrect": false }
+    ],
+    "hint": "மருத்துவமனையில்."
+  },
+  {
+    "questionNumber": 3,
+    "question": "தீ விபத்து நேரத்தில் உதவுபவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "தீயணைப்பு வீரர்", "rationale": "தீயணைப்பு வீரர் தீயை அணைக்கிறார்.", "isCorrect": true },
+      { "text": "மருத்துவர்", "rationale": "இவர் நோயாளிகளைக் குணப்படுத்துகிறார்.", "isCorrect": false },
+      { "text": "காவலர்", "rationale": "இவர் சட்டத்தைக் காக்கிறார்.", "isCorrect": false },
+      { "text": "ஆசிரியர்", "rationale": "இவர் கல்வி கற்பிக்கிறார்.", "isCorrect": false }
+    ],
+    "hint": "தீயணைப்பு நிலையம்."
+  },
+  {
+    "questionNumber": 4,
+    "question": "கடிதங்களை விநியோகிப்பவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "அஞ்சலகர்", "rationale": "அஞ்சலகர் கடிதங்களை விநியோகிக்கிறார்.", "isCorrect": true },
+      { "text": "காவலர்", "rationale": "இவர் சட்டத்தைக் காக்கிறார்.", "isCorrect": false },
+      { "text": "மருத்துவர்", "rationale": "இவர் நோயாளிகளைக் குணப்படுத்துகிறார்.", "isCorrect": false },
+      { "text": "தச்சர்", "rationale": "இவர் மரவேலை செய்கிறார்.", "isCorrect": false }
+    ],
+    "hint": "அஞ்சலகம்."
+  },
+  {
+    "questionNumber": 5,
+    "question": "சட்டத்தைக் காப்பவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "காவலர்", "rationale": "காவலர் சட்டத்தைக் காக்கிறார்.", "isCorrect": true },
+      { "text": "மருத்துவர்", "rationale": "இவர் நோயாளிகளைக் குணப்படுத்துகிறார்.", "isCorrect": false },
+      { "text": "உழவர்", "rationale": "இவர் வயலில் உழுகிறார்.", "isCorrect": false },
+      { "text": "தையல்காரர்", "rationale": "இவர் துணி தைக்கிறார்.", "isCorrect": false }
+    ],
+    "hint": "காவல் நிலையம்."
+  },
+  {
+    "questionNumber": 6,
+    "question": "வீடு கட்டுபவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "பொறியாளர்", "rationale": "பொறியாளர் வீடு கட்டுகிறார்.", "isCorrect": true },
+      { "text": "மருத்துவர்", "rationale": "இவர் நோயாளிகளைக் குணப்படுத்துகிறார்.", "isCorrect": false },
+      { "text": "உழவர்", "rationale": "இவர் வயலில் உழுகிறார்.", "isCorrect": false },
+      { "text": "காவலர்", "rationale": "இவர் சட்டத்தைக் காக்கிறார்.", "isCorrect": false }
+    ],
+    "hint": "கட்டுமானம்."
+  },
+  {
+    "questionNumber": 7,
+    "question": "வயலில் வேலை செய்பவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "உழவர்", "rationale": "உழவர் வயலில் வேலை செய்கிறார்.", "isCorrect": true },
+      { "text": "மருத்துவர்", "rationale": "இவர் நோயாளிகளைக் குணப்படுத்துகிறார்.", "isCorrect": false },
+      { "text": "காவலர்", "rationale": "இவர் சட்டத்தைக் காக்கிறார்.", "isCorrect": false },
+      { "text": "தச்சர்", "rationale": "இவர் மரவேலை செய்கிறார்.", "isCorrect": false }
+    ],
+    "hint": "வயல்."
+  },
+  {
+    "questionNumber": 8,
+    "question": "மரவேலை செய்பவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "தச்சர்", "rationale": "தச்சர் மரவேலை செய்கிறார்.", "isCorrect": true },
+      { "text": "மருத்துவர்", "rationale": "இவர் நோயாளிகளைக் குணப்படுத்துகிறார்.", "isCorrect": false },
+      { "text": "உழவர்", "rationale": "இவர் வயலில் உழுகிறார்.", "isCorrect": false },
+      { "text": "காவலர்", "rationale": "இவர் சட்டத்தைக் காக்கிறார்.", "isCorrect": false }
+    ],
+    "hint": "மரம்."
+  },
+  {
+    "questionNumber": 9,
+    "question": "துணி தைப்பவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "தையல்காரர்", "rationale": "தையல்காரர் துணி தைக்கிறார்.", "isCorrect": true },
+      { "text": "மருத்துவர்", "rationale": "இவர் நோயாளிகளைக் குணப்படுத்துகிறார்.", "isCorrect": false },
+      { "text": "உழவர்", "rationale": "இவர் வயலில் உழுகிறார்.", "isCorrect": false },
+      { "text": "காவலர்", "rationale": "இவர் சட்டத்தைக் காக்கிறார்.", "isCorrect": false }
+    ],
+    "hint": "தையல் இயந்திரம்."
+  },
+  {
+    "questionNumber": 10,
+    "question": "மீன் பிடிப்பவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "மீனவர்", "rationale": "மீனவர் மீன் பிடிக்கிறார்.", "isCorrect": true },
+      { "text": "உழவர்", "rationale": "இவர் வயலில் உழுகிறார்.", "isCorrect": false },
+      { "text": "மருத்துவர்", "rationale": "இவர் நோயாளிகளைக் குணப்படுத்துகிறார்.", "isCorrect": false },
+      { "text": "காவலர்", "rationale": "இவர் சட்டத்தைக் காக்கிறார்.", "isCorrect": false }
+    ],
+    "hint": "கடல்."
+  },
+  {
+    "questionNumber": 11,
+    "question": "'பேருந்து' என்பதன் ஆங்கிலச் சொல் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Bus", "rationale": "பேருந்து = Bus.", "isCorrect": true },
+      { "text": "Lorry", "rationale": "இது சரக்குந்து.", "isCorrect": false },
+      { "text": "Car", "rationale": "இது மகிழுந்து.", "isCorrect": false },
+      { "text": "Bicycle", "rationale": "இது மிதிவண்டி.", "isCorrect": false }
+    ],
+    "hint": "Bus."
+  },
+  {
+    "questionNumber": 12,
+    "question": "'சரக்குந்து' என்பதன் ஆங்கிலச் சொல் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Bus", "rationale": "இது பேருந்து.", "isCorrect": false },
+      { "text": "Lorry", "rationale": "சரக்குந்து = Lorry.", "isCorrect": true },
+      { "text": "Car", "rationale": "இது மகிழுந்து.", "isCorrect": false },
+      { "text": "Bicycle", "rationale": "இது மிதிவண்டி.", "isCorrect": false }
+    ],
+    "hint": "Lorry."
+  },
+  {
+    "questionNumber": 13,
+    "question": "'மகிழுந்து' என்பதன் ஆங்கிலச் சொல் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Bus", "rationale": "இது பேருந்து.", "isCorrect": false },
+      { "text": "Lorry", "rationale": "இது சரக்குந்து.", "isCorrect": false },
+      { "text": "Car", "rationale": "மகிழுந்து = Car.", "isCorrect": true },
+      { "text": "Bicycle", "rationale": "இது மிதிவண்டி.", "isCorrect": false }
+    ],
+    "hint": "Car."
+  },
+  {
+    "questionNumber": 14,
+    "question": "'வானூர்தி' என்பதன் ஆங்கிலச் சொல் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Bus", "rationale": "இது பேருந்து.", "isCorrect": false },
+      { "text": "Aeroplane", "rationale": "வானூர்தி = Aeroplane.", "isCorrect": true },
+      { "text": "Car", "rationale": "இது மகிழுந்து.", "isCorrect": false },
+      { "text": "Bicycle", "rationale": "இது மிதிவண்டி.", "isCorrect": false }
+    ],
+    "hint": "Aeroplane."
+  },
+  {
+    "questionNumber": 15,
+    "question": "'மிதிவண்டி' என்பதன் ஆங்கிலச் சொல் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Bus", "rationale": "இது பேருந்து.", "isCorrect": false },
+      { "text": "Lorry", "rationale": "இது சரக்குந்து.", "isCorrect": false },
+      { "text": "Car", "rationale": "இது மகிழுந்து.", "isCorrect": false },
+      { "text": "Bicycle", "rationale": "மிதிவண்டி = Bicycle.", "isCorrect": true }
+    ],
+    "hint": "Bicycle."
+  },
+  {
+    "questionNumber": 16,
+    "question": "இந்தியாவிலிருந்து அமெரிக்கா செல்ல விரும்புபவர் எந்த வாகனத்தைத் தேர்ந்தெடுப்பார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "வானூர்தி", "rationale": "வானூர்தி மூலம் நாடுகளுக்கு இடையே பயணம் செய்யலாம்.", "isCorrect": true },
+      { "text": "மிதிவண்டி", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "மாட்டு வண்டி", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "படகு", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "வான்வழி."
+  },
+  {
+    "questionNumber": 17,
+    "question": "விண்வெளி வீரர்கள் பயன்படுத்தும் வாகனத்தின் பெயர் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "விண்கலம்", "rationale": "விண்வெளி வீரர்கள் விண்கலத்தைப் பயன்படுத்துகின்றனர்.", "isCorrect": true },
+      { "text": "பேருந்து", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "கப்பல்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "மிதிவண்டி", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "விண்கலம்."
+  },
+  {
+    "questionNumber": 18,
+    "question": "சிறு ஆற்றைக் கடக்கக் கிராமப்புறங்களில் பயன்படுத்தும் வாகனம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "படகு", "rationale": "படகு சிறு ஆற்றைக் கடக்கப் பயன்படுகிறது.", "isCorrect": true },
+      { "text": "பேருந்து", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "வானூர்தி", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "தொடர்வண்டி", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "நீர்வழி."
+  },
+  {
+    "questionNumber": 19,
+    "question": "அதிகமான பொருட்களை ஓர் ஊரிலிருந்து மற்றொரு ஊருக்கு எடுத்துச் செல்லப் பயன்படுத்தும் வாகனம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "சரக்குந்து", "rationale": "சரக்குந்து அதிகப் பொருட்களை எடுத்துச் செல்லப் பயன்படுகிறது.", "isCorrect": true },
+      { "text": "மிதிவண்டி", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "மகிழுந்து", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "படகு", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "சரக்கு."
+  },
+  {
+    "questionNumber": 20,
+    "question": "'தரைவழி' வாகனம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "மிதிவண்டி", "rationale": "மிதிவண்டி தரைவழி வாகனம்.", "isCorrect": true },
+      { "text": "கப்பல்", "rationale": "இது நீர்வழி.", "isCorrect": false },
+      { "text": "வானூர்தி", "rationale": "இது வான்வழி.", "isCorrect": false },
+      { "text": "படகு", "rationale": "இது நீர்வழி.", "isCorrect": false }
+    ],
+    "hint": "தரை."
+  },
+  {
+    "questionNumber": 21,
+    "question": "'நீர்வழி' வாகனம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "கப்பல்", "rationale": "கப்பல் நீர்வழி வாகனம்.", "isCorrect": true },
+      { "text": "மிதிவண்டி", "rationale": "இது தரைவழி.", "isCorrect": false },
+      { "text": "வானூர்தி", "rationale": "இது வான்வழி.", "isCorrect": false },
+      { "text": "பேருந்து", "rationale": "இது தரைவழி.", "isCorrect": false }
+    ],
+    "hint": "நீர்."
+  },
+  {
+    "questionNumber": 22,
+    "question": "'வான்வழி' வாகனம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "வானூர்தி", "rationale": "வானூர்தி வான்வழி வாகனம்.", "isCorrect": true },
+      { "text": "மிதிவண்டி", "rationale": "இது தரைவழி.", "isCorrect": false },
+      { "text": "கப்பல்", "rationale": "இது நீர்வழி.", "isCorrect": false },
+      { "text": "படகு", "rationale": "இது நீர்வழி.", "isCorrect": false }
+    ],
+    "hint": "வான்."
+  },
+  {
+    "questionNumber": 23,
+    "question": "'மாட்டு வண்டி' எந்த வகை வாகனம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "தரைவழி", "rationale": "மாட்டு வண்டி தரைவழி வாகனம்.", "isCorrect": true },
+      { "text": "நீர்வழி", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "வான்வழி", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "விண்வழி", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "தரை."
+  },
+  {
+    "questionNumber": 24,
+    "question": "'குதிரை வண்டி' எந்த வகை வாகனம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "தரைவழி", "rationale": "குதிரை வண்டி தரைவழி வாகனம்.", "isCorrect": true },
+      { "text": "நீர்வழி", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "வான்வழி", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "விண்வழி", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "தரை."
+  },
+  {
+    "questionNumber": 25,
+    "question": "'பாய்மரக்கப்பல்' எந்த வகை வாகனம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "நீர்வழி", "rationale": "பாய்மரக்கப்பல் நீர்வழி வாகனம்.", "isCorrect": true },
+      { "text": "தரைவழி", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "வான்வழி", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "விண்வழி", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "நீர்."
+  },
+  {
+    "questionNumber": 26,
+    "question": "'நீர்மூழ்கிக் கப்பல்' எந்த வகை வாகனம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "நீர்வழி", "rationale": "நீர்மூழ்கிக் கப்பல் நீர்வழி வாகனம்.", "isCorrect": true },
+      { "text": "தரைவழி", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "வான்வழி", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "விண்வழி", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "நீர்."
+  },
+  {
+    "questionNumber": 27,
+    "question": "'உலங்கு' எந்த வகை வாகனம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "வான்வழி", "rationale": "உலங்கு வான்வழி வாகனம்.", "isCorrect": true },
+      { "text": "தரைவழி", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "நீர்வழி", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "விண்வழி", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "வான்."
+  },
+  {
+    "questionNumber": 28,
+    "question": "'ஏவுகணை' எந்த வகை வாகனம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "வான்வழி", "rationale": "ஏவுகணை வான்வழி வாகனம்.", "isCorrect": true },
+      { "text": "தரைவழி", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "நீர்வழி", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "விண்வழி", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "வான்."
+  },
+  {
+    "questionNumber": 29,
+    "question": "'கூடான காற்று பலூன்' எந்த வகை வாகனம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "வான்வழி", "rationale": "கூடான காற்று பலூன் வான்வழி வாகனம்.", "isCorrect": true },
+      { "text": "தரைவழி", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "நீர்வழி", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "விண்வழி", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "வான்."
+  },
+  {
+    "questionNumber": 30,
+    "question": "'தொடர்வண்டி' எந்த வகை வாகனம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "தரைவழி", "rationale": "தொடர்வண்டி தரைவழி வாகனம்.", "isCorrect": true },
+      { "text": "நீர்வழி", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "வான்வழி", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "விண்வழி", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "தரை."
+  },
+  {
+    "questionNumber": 31,
+    "question": "திருக்குறளில் குறிப்பிடப்பட்ட வாகனம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "தேர்", "rationale": "திருக்குறளில் குறிப்பிடப்பட்ட வாகனம் தேர்.", "isCorrect": true },
+      { "text": "பேருந்து", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "மிதிவண்டி", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "வானூர்தி", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "தேர்."
+  },
+  {
+    "questionNumber": 32,
+    "question": "'உழுதுண்டு வாழ்வாரே வாழ்வார்' என்ற குறளின் குறள் எண் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "1033", "rationale": "இக்குறளின் குறள் எண் 1033.", "isCorrect": true },
+      { "text": "102", "rationale": "இது 'காலத்தினாற்' குறள்.", "isCorrect": false },
+      { "text": "129", "rationale": "இது 'தீயினாற்' குறள்.", "isCorrect": false },
+      { "text": "1033", "rationale": "இது தான் சரியான விடை.", "isCorrect": false }
+    ],
+    "hint": "குறள் 1033."
+  },
+  {
+    "questionNumber": 33,
+    "question": "'உழவர் உழைத்து உணவு தந்தார்' - இது எதைக் குறிக்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "உணவு", "rationale": "உழவர் உணவு தருகிறார்.", "isCorrect": true },
+      { "text": "துணி", "rationale": "இது தையல்காரர்.", "isCorrect": false },
+      { "text": "மீன்", "rationale": "இது மீனவர்.", "isCorrect": false },
+      { "text": "வீடு", "rationale": "இது பொறியாளர்.", "isCorrect": false }
+    ],
+    "hint": "உணவு."
+  },
+  {
+    "questionNumber": 34,
+    "question": "'தையல்காரர் தைத்துத் துணி தந்தார்' - இது எதைக் குறிக்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "துணி", "rationale": "தையல்காரர் துணி தருகிறார்.", "isCorrect": true },
+      { "text": "உணவு", "rationale": "இது உழவர்.", "isCorrect": false },
+      { "text": "மீன்", "rationale": "இது மீனவர்.", "isCorrect": false },
+      { "text": "வீடு", "rationale": "இது பொறியாளர்.", "isCorrect": false }
+    ],
+    "hint": "துணி."
+  },
+  {
+    "questionNumber": 35,
+    "question": "'மீனவர் மீன்பிடித்து மீன் தந்தார்' - இது எதைக் குறிக்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "மீன்", "rationale": "மீனவர் மீன் தருகிறார்.", "isCorrect": true },
+      { "text": "உணவு", "rationale": "இது உழவர்.", "isCorrect": false },
+      { "text": "துணி", "rationale": "இது தையல்காரர்.", "isCorrect": false },
+      { "text": "வீடு", "rationale": "இது பொறியாளர்.", "isCorrect": false }
+    ],
+    "hint": "மீன்."
+  },
+  {
+    "questionNumber": 36,
+    "question": "'பொறியாளர் வீடு கட்டித் தந்தார்' - இது எதைக் குறிக்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "வீடு", "rationale": "பொறியாளர் வீடு தருகிறார்.", "isCorrect": true },
+      { "text": "உணவு", "rationale": "இது உழவர்.", "isCorrect": false },
+      { "text": "துணி", "rationale": "இது தையல்காரர்.", "isCorrect": false },
+      { "text": "மீன்", "rationale": "இது மீனவர்.", "isCorrect": false }
+    ],
+    "hint": "வீடு."
+  },
+  {
+    "questionNumber": 37,
+    "question": "'மருத்துவர் நோயறிந்து மருந்து தந்தார்' - இது எதைக் குறிக்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "சுகம்", "rationale": "மருத்துவர் சுகம் தருகிறார்.", "isCorrect": true },
+      { "text": "உணவு", "rationale": "இது உழவர்.", "isCorrect": false },
+      { "text": "துணி", "rationale": "இது தையல்காரர்.", "isCorrect": false },
+      { "text": "மீன்", "rationale": "இது மீனவர்.", "isCorrect": false }
+    ],
+    "hint": "சுகம்."
+  },
+  {
+    "questionNumber": 38,
+    "question": "'காவலர் நம்மைக் காத்து நின்றார்' - இது எதைக் குறிக்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "நன்றி", "rationale": "காவலர் நம்மைக் காக்கிறார், அவருக்கு நன்றி.", "isCorrect": true },
+      { "text": "உணவு", "rationale": "இது உழவர்.", "isCorrect": false },
+      { "text": "துணி", "rationale": "இது தையல்காரர்.", "isCorrect": false },
+      { "text": "மீன்", "rationale": "இது மீனவர்.", "isCorrect": false }
+    ],
+    "hint": "நன்றி."
+  },
+  {
+    "questionNumber": 39,
+    "question": "பாரதியார் அருளிய புதிய ஆத்திசூடியில் 'கை' வரிசைக்கான வாக்கியம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "கைத்தொழில் போற்று", "rationale": "புதிய ஆத்திசூடியில் 'கை' வரிசைக்கான வாக்கியம் இதுவே.", "isCorrect": true },
+      { "text": "கொடுமையை எதிர்த்து நில்", "rationale": "இது 'கொ' வரிசைக்கானது.", "isCorrect": false },
+      { "text": "கோடல் கைக் கொண்டு வாழ்", "rationale": "இது 'கோ' வரிசைக்கானது.", "isCorrect": false },
+      { "text": "கவ்வியதை விடேல்", "rationale": "இது 'க' வரிசைக்கானது.", "isCorrect": false }
+    ],
+    "hint": "கைத்தொழில்."
+  },
+  {
+    "questionNumber": 40,
+    "question": "பாரதியார் அருளிய புதிய ஆத்திசூடியில் 'கொ' வரிசைக்கான வாக்கியம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "கைத்தொழில் போற்று", "rationale": "இது 'கை' வரிசைக்கானது.", "isCorrect": false },
+      { "text": "கொடுமையை எதிர்த்து நில்", "rationale": "புதிய ஆத்திசூடியில் 'கொ' வரிசைக்கான வாக்கியம் இதுவே.", "isCorrect": true },
+      { "text": "கோடல் கைக் கொண்டு வாழ்", "rationale": "இது 'கோ' வரிசைக்கானது.", "isCorrect": false },
+      { "text": "கவ்வியதை விடேல்", "rationale": "இது 'க' வரிசைக்கானது.", "isCorrect": false }
+    ],
+    "hint": "கொடுமை."
+  },
+  {
+    "questionNumber": 41,
+    "question": "பாரதியார் அருளிய புதிய ஆத்திசூடியில் 'கோ' வரிசைக்கான வாக்கியம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "கைத்தொழில் போற்று", "rationale": "இது 'கை' வரிசைக்கானது.", "isCorrect": false },
+      { "text": "கொடுமையை எதிர்த்து நில்", "rationale": "இது 'கொ' வரிசைக்கானது.", "isCorrect": false },
+      { "text": "கோடல் கைக் கொண்டு வாழ்", "rationale": "புதிய ஆத்திசூடியில் 'கோ' வரிசைக்கான வாக்கியம் இதுவே.", "isCorrect": true },
+      { "text": "கவ்வியதை விடேல்", "rationale": "இது 'க' வரிசைக்கானது.", "isCorrect": false }
+    ],
+    "hint": "கோடல்."
+  },
+  {
+    "questionNumber": 42,
+    "question": "பாரதியார் அருளிய புதிய ஆத்திசூடியில் 'ச' வரிசைக்கான வாக்கியம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "சரித்திரத் தேர்ச்சிகொள்", "rationale": "புதிய ஆத்திசூடியில் 'ச' வரிசைக்கான வாக்கியம் இதுவே.", "isCorrect": true },
+      { "text": "கைத்தொழில் போற்று", "rationale": "இது 'கை' வரிசைக்கானது.", "isCorrect": false },
+      { "text": "கொடுமையை எதிர்த்து நில்", "rationale": "இது 'கொ' வரிசைக்கானது.", "isCorrect": false },
+      { "text": "கவ்வியதை விடேல்", "rationale": "இது 'க' வரிசைக்கானது.", "isCorrect": false }
+    ],
+    "hint": "சரித்திரம்."
+  },
+  {
+    "questionNumber": 43,
+    "question": "'பேருந்து' என்பது எந்த வகை வாகனம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "தரைவழி", "rationale": "பேருந்து தரைவழி வாகனம்.", "isCorrect": true },
+      { "text": "நீர்வழி", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "வான்வழி", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "விண்வழி", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "தரை."
+  },
+  {
+    "questionNumber": 44,
+    "question": "'சிற்றுந்து' என்பது என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஒரு வகை வாகனம்", "rationale": "சிற்றுந்து ஒரு வகை வாகனம்.", "isCorrect": true },
+      { "text": "ஒரு வகை உணவு", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "ஒரு வகை ஆடை", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "ஒரு வகை விலங்கு", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "சிறிய வாகனம்."
+  },
+  {
+    "questionNumber": 45,
+    "question": "'பெருந்து' என்பது என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஒரு வகை வாகனம்", "rationale": "பெருந்து ஒரு வகை வாகனம்.", "isCorrect": true },
+      { "text": "ஒரு வகை உணவு", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "ஒரு வகை ஆடை", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "ஒரு வகை விலங்கு", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "பெரிய வாகனம்."
+  },
+  {
+    "questionNumber": 46,
+    "question": "'தொடர்வண்டி' என்பது என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஒரு வகை வாகனம்", "rationale": "தொடர்வண்டி ஒரு வகை வாகனம்.", "isCorrect": true },
+      { "text": "ஒரு வகை உணவு", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "ஒரு வகை ஆடை", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "ஒரு வகை விலங்கு", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "இருப்புப் பாதை."
+  },
+  {
+    "questionNumber": 47,
+    "question": "'உழவர்' என்பவர் என்ன செய்கிறார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "வயலில் உழுகிறார்", "rationale": "உழவர் வயலில் உழுகிறார்.", "isCorrect": true },
+      { "text": "நோயாளிகளைக் குணப்படுத்துகிறார்", "rationale": "இது மருத்துவர்.", "isCorrect": false },
+      { "text": "சட்டத்தைக் காக்கிறார்", "rationale": "இது காவலர்.", "isCorrect": false },
+      { "text": "மரவேலை செய்கிறார்", "rationale": "இது தச்சர்.", "isCorrect": false }
+    ],
+    "hint": "வயல்."
+  },
+  {
+    "questionNumber": 48,
+    "question": "'தச்சர்' என்பவர் என்ன செய்கிறார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "மரவேலை செய்கிறார்", "rationale": "தச்சர் மரவேலை செய்கிறார்.", "isCorrect": true },
+      { "text": "வயலில் உழுகிறார்", "rationale": "இது உழவர்.", "isCorrect": false },
+      { "text": "நோயாளிகளைக் குணப்படுத்துகிறார்", "rationale": "இது மருத்துவர்.", "isCorrect": false },
+      { "text": "சட்டத்தைக் காக்கிறார்", "rationale": "இது காவலர்.", "isCorrect": false }
+    ],
+    "hint": "மரம்."
+  },
+  {
+    "questionNumber": 49,
+    "question": "'காவலர்' என்பவர் என்ன செய்கிறார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "சட்டத்தைக் காக்கிறார்", "rationale": "காவலர் சட்டத்தைக் காக்கிறார்.", "isCorrect": true },
+      { "text": "வயலில் உழுகிறார்", "rationale": "இது உழவர்.", "isCorrect": false },
+      { "text": "நோயாளிகளைக் குணப்படுத்துகிறார்", "rationale": "இது மருத்துவர்.", "isCorrect": false },
+      { "text": "மரவேலை செய்கிறார்", "rationale": "இது தச்சர்.", "isCorrect": false }
+    ],
+    "hint": "சட்டம்."
+  },
+  {
+    "questionNumber": 50,
+    "question": "'மருத்துவர்' என்பவர் என்ன செய்கிறார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "நோயாளிகளைக் குணப்படுத்துகிறார்", "rationale": "மருத்துவர் நோயாளிகளைக் குணப்படுத்துகிறார்.", "isCorrect": true },
+      { "text": "வயலில் உழுகிறார்", "rationale": "இது உழவர்.", "isCorrect": false },
+      { "text": "சட்டத்தைக் காக்கிறார்", "rationale": "இது காவலர்.", "isCorrect": false },
+      { "text": "மரவேலை செய்கிறார்", "rationale": "இது தச்சர்.", "isCorrect": false }
+    ],
+    "hint": "மருத்துவம்."
+  }
+]

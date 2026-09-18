@@ -1,0 +1,602 @@
+[
+  {
+    "questionNumber": 1,
+    "question": "இயல் 13-இன் தலைப்பு என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "வண்ணங்களும் வடிவங்களும் - கற்பனைச் சிறகுகள்", "rationale": "இயல் 13-இன் தலைப்பு இதுவே.", "isCorrect": true },
+      { "text": "தொழிலும் பயணமும்", "rationale": "இது இயல் 12.", "isCorrect": false },
+      { "text": "நம் உடல் - ஓர் அற்புத உலகம்", "rationale": "இது இயல் 11.", "isCorrect": false },
+      { "text": "நாள்கள் - மாதங்கள் - திசைகள்", "rationale": "இது இயல் 10.", "isCorrect": false }
+    ],
+    "hint": "கற்பனைச் சிறகுகள்."
+  },
+  {
+    "questionNumber": 2,
+    "question": "தக்காளியின் நிறம் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "சிவப்பு", "rationale": "தக்காளி சிவப்பு நிறம்.", "isCorrect": true },
+      { "text": "வெள்ளை", "rationale": "இது முள்ளங்கி.", "isCorrect": false },
+      { "text": "மஞ்சள்", "rationale": "இது பூசணிக்காய்.", "isCorrect": false },
+      { "text": "ஊதா", "rationale": "இது கத்தரிக்காய்.", "isCorrect": false }
+    ],
+    "hint": "சிவப்பு நிறம்."
+  },
+  {
+    "questionNumber": 3,
+    "question": "முள்ளங்கியின் நிறம் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "சிவப்பு", "rationale": "இது தக்காளி.", "isCorrect": false },
+      { "text": "வெள்ளை", "rationale": "முள்ளங்கி வெள்ளை நிறம்.", "isCorrect": true },
+      { "text": "மஞ்சள்", "rationale": "இது பூசணிக்காய்.", "isCorrect": false },
+      { "text": "பச்சை", "rationale": "இது புடலங்காய்.", "isCorrect": false }
+    ],
+    "hint": "வெள்ளை நிறம்."
+  },
+  {
+    "questionNumber": 4,
+    "question": "பூசணிக்காயின் நிறம் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "சிவப்பு", "rationale": "இது தக்காளி.", "isCorrect": false },
+      { "text": "வெள்ளை", "rationale": "இது முள்ளங்கி.", "isCorrect": false },
+      { "text": "மஞ்சள்", "rationale": "பூசணிக்காய் மஞ்சள் நிறம்.", "isCorrect": true },
+      { "text": "ஊதா", "rationale": "இது கத்தரிக்காய்.", "isCorrect": false }
+    ],
+    "hint": "மஞ்சள் நிறம்."
+  },
+  {
+    "questionNumber": 5,
+    "question": "புடலங்காயின் நிறம் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "பச்சை", "rationale": "புடலங்காய் பச்சை நிறம்.", "isCorrect": true },
+      { "text": "சிவப்பு", "rationale": "இது தக்காளி.", "isCorrect": false },
+      { "text": "மஞ்சள்", "rationale": "இது பூசணிக்காய்.", "isCorrect": false },
+      { "text": "ஊதா", "rationale": "இது கத்தரிக்காய்.", "isCorrect": false }
+    ],
+    "hint": "பச்சை நிறம்."
+  },
+  {
+    "questionNumber": 6,
+    "question": "கேரட்டின் நிறம் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "செம்மஞ்சள்", "rationale": "கேரட் செம்மஞ்சள் நிறம்.", "isCorrect": true },
+      { "text": "சிவப்பு", "rationale": "இது தக்காளி.", "isCorrect": false },
+      { "text": "வெள்ளை", "rationale": "இது முள்ளங்கி.", "isCorrect": false },
+      { "text": "பச்சை", "rationale": "இது புடலங்காய்.", "isCorrect": false }
+    ],
+    "hint": "செம்மஞ்சள்."
+  },
+  {
+    "questionNumber": 7,
+    "question": "கத்தரிக்காயின் நிறம் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஊதா", "rationale": "கத்தரிக்காய் ஊதா நிறம்.", "isCorrect": true },
+      { "text": "சிவப்பு", "rationale": "இது தக்காளி.", "isCorrect": false },
+      { "text": "மஞ்சள்", "rationale": "இது பூசணிக்காய்.", "isCorrect": false },
+      { "text": "பச்சை", "rationale": "இது புடலங்காய்.", "isCorrect": false }
+    ],
+    "hint": "ஊதா நிறம்."
+  },
+  {
+    "questionNumber": 8,
+    "question": "பீட்ரூட்டின் நிறம் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "இளஞ்சிவப்பு", "rationale": "பீட்ரூட் இளஞ்சிவப்பு நிறம்.", "isCorrect": true },
+      { "text": "வெள்ளை", "rationale": "இது முள்ளங்கி.", "isCorrect": false },
+      { "text": "மஞ்சள்", "rationale": "இது பூசணிக்காய்.", "isCorrect": false },
+      { "text": "ஊதா", "rationale": "இது கத்தரிக்காய்.", "isCorrect": false }
+    ],
+    "hint": "இளஞ்சிவப்பு."
+  },
+  {
+    "questionNumber": 9,
+    "question": "'சதுரம்' என்பது என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஒரு வடிவம்", "rationale": "சதுரம் ஒரு வடிவம்.", "isCorrect": true },
+      { "text": "ஒரு வண்ணம்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "ஒரு விலங்கு", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "ஒரு பழம்", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "நான்கு பக்கங்கள்."
+  },
+  {
+    "questionNumber": 10,
+    "question": "'வட்டம்' என்பது என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஒரு வடிவம்", "rationale": "வட்டம் ஒரு வடிவம்.", "isCorrect": true },
+      { "text": "ஒரு வண்ணம்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "ஒரு விலங்கு", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "ஒரு பழம்", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "வளைந்த வடிவம்."
+  },
+  {
+    "questionNumber": 11,
+    "question": "'செவ்வகம்' என்பது என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஒரு வடிவம்", "rationale": "செவ்வகம் ஒரு வடிவம்.", "isCorrect": true },
+      { "text": "ஒரு வண்ணம்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "ஒரு விலங்கு", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "ஒரு பழம்", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "நீளமான வடிவம்."
+  },
+  {
+    "questionNumber": 12,
+    "question": "'முக்கோணம்' என்பது என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஒரு வடிவம்", "rationale": "முக்கோணம் ஒரு வடிவம்.", "isCorrect": true },
+      { "text": "ஒரு வண்ணம்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "ஒரு விலங்கு", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "ஒரு பழம்", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "மூன்று பக்கங்கள்."
+  },
+  {
+    "questionNumber": 13,
+    "question": "'உருளை' என்பது என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஒரு வடிவம்", "rationale": "உருளை ஒரு வடிவம்.", "isCorrect": true },
+      { "text": "ஒரு வண்ணம்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "ஒரு விலங்கு", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "ஒரு பழம்", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "உருளும் வடிவம்."
+  },
+  {
+    "questionNumber": 14,
+    "question": "'கூம்பு' என்பது என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஒரு வடிவம்", "rationale": "கூம்பு ஒரு வடிவம்.", "isCorrect": true },
+      { "text": "ஒரு வண்ணம்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "ஒரு விலங்கு", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "ஒரு பழம்", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "ஐஸ்கிரீம் வடிவம்."
+  },
+  {
+    "questionNumber": 15,
+    "question": "'அரைவட்டம்' என்பது என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஒரு வடிவம்", "rationale": "அரைவட்டம் ஒரு வடிவம்.", "isCorrect": true },
+      { "text": "ஒரு வண்ணம்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "ஒரு விலங்கு", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "ஒரு பழம்", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "வட்டத்தின் பாதி."
+  },
+  {
+    "questionNumber": 16,
+    "question": "'நீள்வட்டம்' என்பது என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஒரு வடிவம்", "rationale": "நீள்வட்டம் ஒரு வடிவம்.", "isCorrect": true },
+      { "text": "ஒரு வண்ணம்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "ஒரு விலங்கு", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "ஒரு பழம்", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "முட்டை வடிவம்."
+  },
+  {
+    "questionNumber": 17,
+    "question": "சூரியனின் வடிவம் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "வட்டம்", "rationale": "சூரியன் வட்ட வடிவம்.", "isCorrect": true },
+      { "text": "சதுரம்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "முக்கோணம்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "செவ்வகம்", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "வட்ட வடிவம்."
+  },
+  {
+    "questionNumber": 18,
+    "question": "சன்னலின் வடிவம் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "வட்டம்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "சதுரம்", "rationale": "சன்னல் சதுர வடிவம்.", "isCorrect": true },
+      { "text": "முக்கோணம்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "உருளை", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "நான்கு பக்கங்கள்."
+  },
+  {
+    "questionNumber": 19,
+    "question": "மலையின் வடிவம் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "வட்டம்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "சதுரம்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "முக்கோணம்", "rationale": "மலை முக்கோண வடிவம்.", "isCorrect": true },
+      { "text": "செவ்வகம்", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "முக்கோண வடிவம்."
+  },
+  {
+    "questionNumber": 20,
+    "question": "புத்தகத்தின் வடிவம் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "வட்டம்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "சதுரம்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "முக்கோணம்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "செவ்வகம்", "rationale": "புத்தகம் செவ்வக வடிவம்.", "isCorrect": true }
+    ],
+    "hint": "செவ்வக வடிவம்."
+  },
+  {
+    "questionNumber": 21,
+    "question": "பலகையில் விளையாடும் விளையாட்டு என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "சதுரங்கம்", "rationale": "பலகையில் சதுரங்கம் விளையாடப்படுகிறது.", "isCorrect": true },
+      { "text": "கபடி", "rationale": "இது தரையில் விளையாடப்படுகிறது.", "isCorrect": false },
+      { "text": "கோ-கோ", "rationale": "இது தரையில் விளையாடப்படுகிறது.", "isCorrect": false },
+      { "text": "கிரிக்கெட்", "rationale": "இது மைதானத்தில் விளையாடப்படுகிறது.", "isCorrect": false }
+    ],
+    "hint": "சதுரங்கம்."
+  },
+  {
+    "questionNumber": 22,
+    "question": "முட்டையின் வடிவம் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "வட்டம்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "நீள்வட்டம்", "rationale": "முட்டை நீள்வட்ட வடிவம்.", "isCorrect": true },
+      { "text": "முக்கோணம்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "சதுரம்", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "நீள்வட்டம்."
+  },
+  {
+    "questionNumber": 23,
+    "question": "ஐஸ்கிரீமின் வடிவம் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "வட்டம்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "சதுரம்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "கூம்பு", "rationale": "ஐஸ்கிரீம் கூம்பு வடிவம்.", "isCorrect": true },
+      { "text": "உருளை", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "கூம்பு."
+  },
+  {
+    "questionNumber": 24,
+    "question": "சேமோசாவின் வடிவம் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "வட்டம்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "சதுரம்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "முக்கோணம்", "rationale": "சேமோசா முக்கோண வடிவம்.", "isCorrect": true },
+      { "text": "செவ்வகம்", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "முக்கோணம்."
+  },
+  {
+    "questionNumber": 25,
+    "question": "நாணயத்தின் வடிவம் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "வட்டம்", "rationale": "நாணயம் வட்ட வடிவம்.", "isCorrect": true },
+      { "text": "சதுரம்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "முக்கோணம்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "செவ்வகம்", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "வட்டம்."
+  },
+  {
+    "questionNumber": 26,
+    "question": "எரிவாயுவின் வடிவம் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "வட்டம்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "உருளை", "rationale": "எரிவாயு உருளை வடிவம்.", "isCorrect": true },
+      { "text": "முக்கோணம்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "செவ்வகம்", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "உருளை."
+  },
+  {
+    "questionNumber": 27,
+    "question": "ஒளவையார் அருளிய ஆத்திசூடியில் 'ம' வரிசைக்கான வாக்கியம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "மனம் தடுமாறேல்", "rationale": "ஆத்திசூடியில் 'ம' வரிசைக்கான வாக்கியம் இதுவே.", "isCorrect": true },
+      { "text": "மாற்றானுக்கு இடம் கொடேல்", "rationale": "இது 'மா' வரிசைக்கானது.", "isCorrect": false },
+      { "text": "மிகைபடச் சொல்லேல்", "rationale": "இது 'மி' வரிசைக்கானது.", "isCorrect": false },
+      { "text": "மீதூண் விரும்பேல்", "rationale": "இது 'மீ' வரிசைக்கானது.", "isCorrect": false }
+    ],
+    "hint": "மனம் தடுமாறேல்."
+  },
+  {
+    "questionNumber": 28,
+    "question": "ஒளவையார் அருளிய ஆத்திசூடியில் 'மா' வரிசைக்கான வாக்கியம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "மனம் தடுமாறேல்", "rationale": "இது 'ம' வரிசைக்கானது.", "isCorrect": false },
+      { "text": "மாற்றானுக்கு இடம் கொடேல்", "rationale": "ஆத்திசூடியில் 'மா' வரிசைக்கான வாக்கியம் இதுவே.", "isCorrect": true },
+      { "text": "மிகைபடச் சொல்லேல்", "rationale": "இது 'மி' வரிசைக்கானது.", "isCorrect": false },
+      { "text": "மீதூண் விரும்பேல்", "rationale": "இது 'மீ' வரிசைக்கானது.", "isCorrect": false }
+    ],
+    "hint": "மாற்றானுக்கு இடம்."
+  },
+  {
+    "questionNumber": 29,
+    "question": "ஒளவையார் அருளிய ஆத்திசூடியில் 'மி' வரிசைக்கான வாக்கியம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "மனம் தடுமாறேல்", "rationale": "இது 'ம' வரிசைக்கானது.", "isCorrect": false },
+      { "text": "மாற்றானுக்கு இடம் கொடேல்", "rationale": "இது 'மா' வரிசைக்கானது.", "isCorrect": false },
+      { "text": "மிகைபடச் சொல்லேல்", "rationale": "ஆத்திசூடியில் 'மி' வரிசைக்கான வாக்கியம் இதுவே.", "isCorrect": true },
+      { "text": "மீதூண் விரும்பேல்", "rationale": "இது 'மீ' வரிசைக்கானது.", "isCorrect": false }
+    ],
+    "hint": "மிகைபட."
+  },
+  {
+    "questionNumber": 30,
+    "question": "ஒளவையார் அருளிய ஆத்திசூடியில் 'மீ' வரிசைக்கான வாக்கியம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "மனம் தடுமாறேல்", "rationale": "இது 'ம' வரிசைக்கானது.", "isCorrect": false },
+      { "text": "மாற்றானுக்கு இடம் கொடேல்", "rationale": "இது 'மா' வரிசைக்கானது.", "isCorrect": false },
+      { "text": "மிகைபடச் சொல்லேல்", "rationale": "இது 'மி' வரிசைக்கானது.", "isCorrect": false },
+      { "text": "மீதூண் விரும்பேல்", "rationale": "ஆத்திசூடியில் 'மீ' வரிசைக்கான வாக்கியம் இதுவே.", "isCorrect": true }
+    ],
+    "hint": "மீதூண்."
+  },
+  {
+    "questionNumber": 31,
+    "question": "ஒளவையார் அருளிய ஆத்திசூடியில் 'மூ' வரிசைக்கான வாக்கியம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "மூர்க்கரோடு இணங்கேல்", "rationale": "ஆத்திசூடியில் 'மூ' வரிசைக்கான வாக்கியம் இதுவே.", "isCorrect": true },
+      { "text": "மனம் தடுமாறேல்", "rationale": "இது 'ம' வரிசைக்கானது.", "isCorrect": false },
+      { "text": "மிகைபடச் சொல்லேல்", "rationale": "இது 'மி' வரிசைக்கானது.", "isCorrect": false },
+      { "text": "மீதூண் விரும்பேல்", "rationale": "இது 'மீ' வரிசைக்கானது.", "isCorrect": false }
+    ],
+    "hint": "மூர்க்கர்."
+  },
+  {
+    "questionNumber": 32,
+    "question": "ஒளவையார் அருளிய ஆத்திசூடியில் 'வ' வரிசைக்கான வாக்கியம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "வல்லமை பேசேல்", "rationale": "ஆத்திசூடியில் 'வ' வரிசைக்கான வாக்கியம் இதுவே.", "isCorrect": true },
+      { "text": "மனம் தடுமாறேல்", "rationale": "இது 'ம' வரிசைக்கானது.", "isCorrect": false },
+      { "text": "மிகைபடச் சொல்லேல்", "rationale": "இது 'மி' வரிசைக்கானது.", "isCorrect": false },
+      { "text": "மீதூண் விரும்பேல்", "rationale": "இது 'மீ' வரிசைக்கானது.", "isCorrect": false }
+    ],
+    "hint": "வல்லமை."
+  },
+  {
+    "questionNumber": 33,
+    "question": "'ஒழுக்கம் விழுப்பம் தரலான்' என்ற குறளின் குறள் எண் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "131", "rationale": "இக்குறளின் குறள் எண் 131.", "isCorrect": true },
+      { "text": "129", "rationale": "இது 'தீயினாற்' குறள்.", "isCorrect": false },
+      { "text": "102", "rationale": "இது 'காலத்தினாற்' குறள்.", "isCorrect": false },
+      { "text": "1033", "rationale": "இது 'உழுதுண்டு' குறள்.", "isCorrect": false }
+    ],
+    "hint": "குறள் 131."
+  },
+  {
+    "questionNumber": 34,
+    "question": "ஒவ்வொரு குறளும் எத்தனை சொற்களைக் கொண்டு அமைந்திருக்கும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "7", "rationale": "ஒவ்வொரு குறளும் 7 சொற்களைக் கொண்டு 2 அடிகள் கொண்டதாக அமைந்திருக்கும்.", "isCorrect": true },
+      { "text": "5", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "10", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "6", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "ஏழு."
+  },
+  {
+    "questionNumber": 35,
+    "question": "ஒரு குறளின் முதல் அடியில் எத்தனை சீர் இருக்கும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "4", "rationale": "ஒரு குறளின் முதல் அடியில் 4 சீர் இருக்கும்.", "isCorrect": true },
+      { "text": "3", "rationale": "இது இரண்டாம் அடி.", "isCorrect": false },
+      { "text": "5", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "7", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "நான்கு."
+  },
+  {
+    "questionNumber": 36,
+    "question": "ஒரு குறளின் இரண்டாம் அடியில் எத்தனை சீர் இருக்கும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "4", "rationale": "இது முதல் அடி.", "isCorrect": false },
+      { "text": "3", "rationale": "ஒரு குறளின் இரண்டாம் அடியில் 3 சீர் இருக்கும்.", "isCorrect": true },
+      { "text": "5", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "7", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "மூன்று."
+  },
+  {
+    "questionNumber": 37,
+    "question": "'அம்மா வந்தார்' - இதில் எத்தனை சொற்கள் உள்ளன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "2", "rationale": "'அம்மா', 'வந்தார்' - 2 சொற்கள்.", "isCorrect": true },
+      { "text": "3", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "4", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "5", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "இரண்டு."
+  },
+  {
+    "questionNumber": 38,
+    "question": "'குருவி வானில் பறந்தது' - இதில் எத்தனை சொற்கள் உள்ளன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "4", "rationale": "'குருவி', 'வானில்', 'பறந்தது' - 3 சொற்கள்.", "isCorrect": false },
+      { "text": "3", "rationale": "'குருவி', 'வானில்', 'பறந்தது' - 3 சொற்கள்.", "isCorrect": true },
+      { "text": "5", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "2", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "மூன்று."
+  },
+  {
+    "questionNumber": 39,
+    "question": "'சிவப்பு' என்பது என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஒரு வண்ணம்", "rationale": "சிவப்பு ஒரு வண்ணம்.", "isCorrect": true },
+      { "text": "ஒரு வடிவம்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "ஒரு பழம்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "ஒரு விலங்கு", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "வண்ணம்."
+  },
+  {
+    "questionNumber": 40,
+    "question": "'மஞ்சள்' என்பது என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஒரு வண்ணம்", "rationale": "மஞ்சள் ஒரு வண்ணம்.", "isCorrect": true },
+      { "text": "ஒரு வடிவம்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "ஒரு பழம்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "ஒரு விலங்கு", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "வண்ணம்."
+  },
+  {
+    "questionNumber": 41,
+    "question": "'பச்சை' என்பது என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஒரு வண்ணம்", "rationale": "பச்சை ஒரு வண்ணம்.", "isCorrect": true },
+      { "text": "ஒரு வடிவம்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "ஒரு பழம்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "ஒரு விலங்கு", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "வண்ணம்."
+  },
+  {
+    "questionNumber": 42,
+    "question": "'நீலம்' என்பது என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஒரு வண்ணம்", "rationale": "நீலம் ஒரு வண்ணம்.", "isCorrect": true },
+      { "text": "ஒரு வடிவம்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "ஒரு பழம்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "ஒரு விலங்கு", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "வண்ணம்."
+  },
+  {
+    "questionNumber": 43,
+    "question": "'ஊதா' என்பது என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஒரு வண்ணம்", "rationale": "ஊதா ஒரு வண்ணம்.", "isCorrect": true },
+      { "text": "ஒரு வடிவம்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "ஒரு பழம்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "ஒரு விலங்கு", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "வண்ணம்."
+  },
+  {
+    "questionNumber": 44,
+    "question": "'கருப்பு' என்பது என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஒரு வண்ணம்", "rationale": "கருப்பு ஒரு வண்ணம்.", "isCorrect": true },
+      { "text": "ஒரு வடிவம்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "ஒரு பழம்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "ஒரு விலங்கு", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "வண்ணம்."
+  },
+  {
+    "questionNumber": 45,
+    "question": "'வெள்ளை' என்பது என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஒரு வண்ணம்", "rationale": "வெள்ளை ஒரு வண்ணம்.", "isCorrect": true },
+      { "text": "ஒரு வடிவம்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "ஒரு பழம்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "ஒரு விலங்கு", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "வண்ணம்."
+  },
+  {
+    "questionNumber": 46,
+    "question": "இயல் 13-இல் கூறப்பட்டுள்ள வண்ணங்கள் எத்தனை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "10", "rationale": "சிவப்பு, மஞ்சள், பச்சை, நீலம், ஊதா, கருப்பு, வெள்ளை, செம்மஞ்சள், இளஞ்சிவப்பு, பழுப்பு - 10 வண்ணங்கள்.", "isCorrect": true },
+      { "text": "5", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "7", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "12", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "பத்து."
+  },
+  {
+    "questionNumber": 47,
+    "question": "'வண்ணமும் வடிவமும்' கதையில் மாணவர்கள் எதை உருவாக்கினார்கள்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "அழகான வீடு", "rationale": "மாணவர்கள் தாங்கள் வரைந்த வடிவங்களை இணைத்து அழகான வீடு உருவாக்கினார்கள்.", "isCorrect": true },
+      { "text": "பள்ளி", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "மரம்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "பூங்கா", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "வீடு."
+  },
+  {
+    "questionNumber": 48,
+    "question": "'வண்ணமும் வடிவமும்' கதையில் ஒரு குழு வட்ட வடிவம் வரைந்து எந்த வண்ணம் தீட்டியது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "சிவப்பு", "rationale": "ஒரு குழு வட்ட வடிவம் வரைந்து சிவப்பு வண்ணம் தீட்டியது.", "isCorrect": true },
+      { "text": "நீலம்", "rationale": "இது சதுரம்.", "isCorrect": false },
+      { "text": "பச்சை", "rationale": "இது முக்கோணம்.", "isCorrect": false },
+      { "text": "மஞ்சள்", "rationale": "இது செவ்வகம்.", "isCorrect": false }
+    ],
+    "hint": "சிவப்பு."
+  },
+  {
+    "questionNumber": 49,
+    "question": "'வண்ணமும் வடிவமும்' கதையில் ஒரு குழு சதுர வடிவம் வரைந்து எந்த வண்ணம் தீட்டியது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "சிவப்பு", "rationale": "இது வட்டம்.", "isCorrect": false },
+      { "text": "நீலம்", "rationale": "ஒரு குழு சதுர வடிவம் வரைந்து நீல வண்ணம் தீட்டியது.", "isCorrect": true },
+      { "text": "பச்சை", "rationale": "இது முக்கோணம்.", "isCorrect": false },
+      { "text": "மஞ்சள்", "rationale": "இது செவ்வகம்.", "isCorrect": false }
+    ],
+    "hint": "நீலம்."
+  },
+  {
+    "questionNumber": 50,
+    "question": "உலகம் முழுவதும் எதனால் நிறைந்திருக்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "வடிவத்தால்", "rationale": "உலகம் முழுவதும் வடிவத்தால் நிறைந்திருக்கிறது.", "isCorrect": true },
+      { "text": "வண்ணத்தால் மட்டும்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "எழுத்தால் மட்டும்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "எண்ணால் மட்டும்", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "வடிவம்."
+  }
+]

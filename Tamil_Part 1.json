@@ -1,0 +1,602 @@
+[
+  {
+    "questionNumber": 1,
+    "question": "தமிழில் உள்ள உயிர் எழுத்துகள் மொத்தம் எத்தனை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "10", "rationale": "உயிர் எழுத்துகள் 12 ஆகும்.", "isCorrect": false },
+      { "text": "12", "rationale": "அ, ஆ, இ, ஈ, உ, ஊ, எ, ஏ, ஐ, ஒ, ஓ, ஒள — மொத்தம் 12 உயிர் எழுத்துகள்.", "isCorrect": true },
+      { "text": "18", "rationale": "இது மெய் எழுத்துகளின் எண்ணிக்கை.", "isCorrect": false },
+      { "text": "16", "rationale": "உயிர் எழுத்துகள் 12 மட்டுமே.", "isCorrect": false }
+    ],
+    "hint": "அ, ஆ, இ, ஈ, உ, ஊ, எ, ஏ, ஐ, ஒ, ஓ, ஒள."
+  },
+  {
+    "questionNumber": 2,
+    "question": "கீழ்க்கண்டவற்றுள் குறில் உயிர் எழுத்துகள் எத்தனை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "5", "rationale": "அ, இ, உ, எ, ஒ — ஐந்து குறில் உயிர் எழுத்துகள்.", "isCorrect": true },
+      { "text": "7", "rationale": "இது நெட்டெழுத்துகளின் எண்ணிக்கை.", "isCorrect": false },
+      { "text": "12", "rationale": "இது மொத்த உயிர் எழுத்துகள்.", "isCorrect": false },
+      { "text": "3", "rationale": "குறில் எழுத்துகள் ஐந்து.", "isCorrect": false }
+    ],
+    "hint": "அ, இ, உ, எ, ஒ — குறில்."
+  },
+  {
+    "questionNumber": 3,
+    "question": "கீழ்க்கண்டவற்றுள் நெட்டெழுத்துகள் எத்தனை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "5", "rationale": "இது குறில் எழுத்துகளின் எண்ணிக்கை.", "isCorrect": false },
+      { "text": "6", "rationale": "ஆ, ஈ, ஊ, ஏ, ஐ, ஓ, ஒள — ஏழு நெட்டெழுத்துகள்.", "isCorrect": false },
+      { "text": "7", "rationale": "ஆ, ஈ, ஊ, ஏ, ஐ, ஓ, ஒள — ஏழு நெட்டெழுத்துகள்.", "isCorrect": true },
+      { "text": "12", "rationale": "இது மொத்த உயிர் எழுத்துகள்.", "isCorrect": false }
+    ],
+    "hint": "ஆ, ஈ, ஊ, ஏ, ஐ, ஓ, ஒள."
+  },
+  {
+    "questionNumber": 4,
+    "question": "'அ' என்ற எழுத்துடன் தொடங்கும் சொல் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஆடு", "rationale": "இது 'ஆ' என்ற எழுத்தில் தொடங்குகிறது.", "isCorrect": false },
+      { "text": "அம்மா", "rationale": "'அ' என்ற உயிர் எழுத்தில் அம்மா தொடங்குகிறது.", "isCorrect": true },
+      { "text": "இலை", "rationale": "இது 'இ' என்ற எழுத்தில் தொடங்குகிறது.", "isCorrect": false },
+      { "text": "ஈ", "rationale": "இது 'ஈ' என்ற எழுத்து.", "isCorrect": false }
+    ],
+    "hint": "பாடத்தில் 'அம்மா' என்ற சொல் முதல் பக்கத்தில் உள்ளது."
+  },
+  {
+    "questionNumber": 5,
+    "question": "'ஆ' என்ற எழுத்தில் தொடங்கும் சொல் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஆலமரம்", "rationale": "'ஆ' என்ற உயிர் எழுத்தில் ஆலமரம் தொடங்குகிறது.", "isCorrect": true },
+      { "text": "அரசன்", "rationale": "இது 'அ' என்ற எழுத்தில் தொடங்குகிறது.", "isCorrect": false },
+      { "text": "இட்டிலி", "rationale": "இது 'இ' என்ற எழுத்தில் தொடங்குகிறது.", "isCorrect": false },
+      { "text": "உலகம்", "rationale": "இது 'உ' என்ற எழுத்தில் தொடங்குகிறது.", "isCorrect": false }
+    ],
+    "hint": "பாடத்தில் 'ஆலமரம்' படம் உள்ளது."
+  },
+  {
+    "questionNumber": 6,
+    "question": "'இ' என்ற எழுத்தில் தொடங்கும் சொல் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஈ", "rationale": "இது 'ஈ' என்ற எழுத்து.", "isCorrect": false },
+      { "text": "இஞ்சி", "rationale": "'இ' என்ற எழுத்தில் இஞ்சி தொடங்குகிறது.", "isCorrect": true },
+      { "text": "உப்பு", "rationale": "இது 'உ' என்ற எழுத்தில் தொடங்குகிறது.", "isCorrect": false },
+      { "text": "எலி", "rationale": "இது 'எ' என்ற எழுத்தில் தொடங்குகிறது.", "isCorrect": false }
+    ],
+    "hint": "பாடத்தில் 'இஞ்சி' படம் உள்ளது."
+  },
+  {
+    "questionNumber": 7,
+    "question": "'ஈ' என்ற எழுத்தில் தொடங்கும் சொல் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஈட்டி", "rationale": "'ஈ' என்ற எழுத்தில் ஈட்டி தொடங்குகிறது.", "isCorrect": true },
+      { "text": "இலை", "rationale": "இது 'இ' என்ற எழுத்தில் தொடங்குகிறது.", "isCorrect": false },
+      { "text": "உரல்", "rationale": "இது 'உ' என்ற எழுத்தில் தொடங்குகிறது.", "isCorrect": false },
+      { "text": "ஏணி", "rationale": "இது 'ஏ' என்ற எழுத்தில் தொடங்குகிறது.", "isCorrect": false }
+    ],
+    "hint": "பாடத்தில் 'ஈட்டி' படம் உள்ளது."
+  },
+  {
+    "questionNumber": 8,
+    "question": "'உ' என்ற எழுத்தில் தொடங்கும் சொல் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஊஞ்சல்", "rationale": "இது 'ஊ' என்ற எழுத்தில் தொடங்குகிறது.", "isCorrect": false },
+      { "text": "உப்பு", "rationale": "'உ' என்ற எழுத்தில் உப்பு தொடங்குகிறது.", "isCorrect": true },
+      { "text": "எலி", "rationale": "இது 'எ' என்ற எழுத்தில் தொடங்குகிறது.", "isCorrect": false },
+      { "text": "ஒட்டகம்", "rationale": "இது 'ஒ' என்ற எழுத்தில் தொடங்குகிறது.", "isCorrect": false }
+    ],
+    "hint": "பாடத்தில் 'உப்பு' படம் உள்ளது."
+  },
+  {
+    "questionNumber": 9,
+    "question": "'ஊ' என்ற எழுத்தில் தொடங்கும் சொல் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "உரல்", "rationale": "இது 'உ' என்ற எழுத்தில் தொடங்குகிறது.", "isCorrect": false },
+      { "text": "ஊஞ்சல்", "rationale": "'ஊ' என்ற எழுத்தில் ஊஞ்சல் தொடங்குகிறது.", "isCorrect": true },
+      { "text": "ஓணான்", "rationale": "இது 'ஓ' என்ற எழுத்தில் தொடங்குகிறது.", "isCorrect": false },
+      { "text": "ஒளவை", "rationale": "இது 'ஒள' என்ற எழுத்தில் தொடங்குகிறது.", "isCorrect": false }
+    ],
+    "hint": "பாடத்தில் 'ஊஞ்சல்' படம் உள்ளது."
+  },
+  {
+    "questionNumber": 10,
+    "question": "'எ' என்ற எழுத்தில் தொடங்கும் சொல் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஏணி", "rationale": "இது 'ஏ' என்ற எழுத்தில் தொடங்குகிறது.", "isCorrect": false },
+      { "text": "எலி", "rationale": "'எ' என்ற எழுத்தில் எலி தொடங்குகிறது.", "isCorrect": true },
+      { "text": "ஐந்து", "rationale": "இது 'ஐ' என்ற எழுத்தில் தொடங்குகிறது.", "isCorrect": false },
+      { "text": "ஒன்று", "rationale": "இது 'ஒ' என்ற எழுத்தில் தொடங்குகிறது.", "isCorrect": false }
+    ],
+    "hint": "பாடத்தில் 'எலி' படம் உள்ளது."
+  },
+  {
+    "questionNumber": 11,
+    "question": "'ஏ' என்ற எழுத்தில் தொடங்கும் சொல் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "எழுது", "rationale": "இது 'எ' என்ற எழுத்தில் தொடங்குகிறது.", "isCorrect": false },
+      { "text": "ஏணி", "rationale": "'ஏ' என்ற எழுத்தில் ஏணி தொடங்குகிறது.", "isCorrect": true },
+      { "text": "ஐவர்", "rationale": "இது 'ஐ' என்ற எழுத்தில் தொடங்குகிறது.", "isCorrect": false },
+      { "text": "ஒளவை", "rationale": "இது 'ஒள' என்ற எழுத்தில் தொடங்குகிறது.", "isCorrect": false }
+    ],
+    "hint": "பாடத்தில் 'ஏணி' படம் உள்ளது."
+  },
+  {
+    "questionNumber": 12,
+    "question": "'ஐ' என்ற எழுத்தில் தொடங்கும் சொல் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஐந்து", "rationale": "'ஐ' என்ற எழுத்தில் ஐந்து தொடங்குகிறது.", "isCorrect": true },
+      { "text": "எட்டு", "rationale": "இது 'எ' என்ற எழுத்தில் தொடங்குகிறது.", "isCorrect": false },
+      { "text": "ஒன்று", "rationale": "இது 'ஒ' என்ற எழுத்தில் தொடங்குகிறது.", "isCorrect": false },
+      { "text": "ஓணான்", "rationale": "இது 'ஓ' என்ற எழுத்தில் தொடங்குகிறது.", "isCorrect": false }
+    ],
+    "hint": "பாடத்தில் 'ஐந்து' என்ற எண் படம் உள்ளது."
+  },
+  {
+    "questionNumber": 13,
+    "question": "'ஒ' என்ற எழுத்தில் தொடங்கும் சொல் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஓணான்", "rationale": "இது 'ஓ' என்ற எழுத்தில் தொடங்குகிறது.", "isCorrect": false },
+      { "text": "ஒன்று", "rationale": "'ஒ' என்ற எழுத்தில் ஒன்று தொடங்குகிறது.", "isCorrect": true },
+      { "text": "ஒளவை", "rationale": "இது 'ஒள' என்ற எழுத்தில் தொடங்குகிறது.", "isCorrect": false },
+      { "text": "ஊஞ்சல்", "rationale": "இது 'ஊ' என்ற எழுத்தில் தொடங்குகிறது.", "isCorrect": false }
+    ],
+    "hint": "பாடத்தில் 'ஒன்று' என்ற எண் படம் உள்ளது."
+  },
+  {
+    "questionNumber": 14,
+    "question": "'ஓ' என்ற எழுத்தில் தொடங்கும் சொல் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஒட்டகம்", "rationale": "இது 'ஒ' என்ற எழுத்தில் தொடங்குகிறது.", "isCorrect": false },
+      { "text": "ஓணான்", "rationale": "'ஓ' என்ற எழுத்தில் ஓணான் தொடங்குகிறது.", "isCorrect": true },
+      { "text": "ஒளவை", "rationale": "இது 'ஒள' என்ற எழுத்தில் தொடங்குகிறது.", "isCorrect": false },
+      { "text": "ஏணி", "rationale": "இது 'ஏ' என்ற எழுத்தில் தொடங்குகிறது.", "isCorrect": false }
+    ],
+    "hint": "பாடத்தில் 'ஓணான்' படம் உள்ளது."
+  },
+  {
+    "questionNumber": 15,
+    "question": "'ஒள' என்ற எழுத்தில் தொடங்கும் சொல் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஒன்று", "rationale": "இது 'ஒ' என்ற எழுத்தில் தொடங்குகிறது.", "isCorrect": false },
+      { "text": "ஒளவை", "rationale": "'ஒள' என்ற எழுத்தில் ஒளவை தொடங்குகிறது.", "isCorrect": true },
+      { "text": "ஓணான்", "rationale": "இது 'ஓ' என்ற எழுத்தில் தொடங்குகிறது.", "isCorrect": false },
+      { "text": "ஐந்து", "rationale": "இது 'ஐ' என்ற எழுத்தில் தொடங்குகிறது.", "isCorrect": false }
+    ],
+    "hint": "ஒளவையார் ஒரு புகழ்பெற்ற பெண் புலவர்."
+  },
+  {
+    "questionNumber": 16,
+    "question": "'அன்னம்' என்ற சொல் எந்த எழுத்தில் தொடங்குகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "அ", "rationale": "'அ' என்ற உயிர் எழுத்தில் அன்னம் தொடங்குகிறது.", "isCorrect": true },
+      { "text": "ஆ", "rationale": "இது வேறு எழுத்து.", "isCorrect": false },
+      { "text": "இ", "rationale": "இது வேறு எழுத்து.", "isCorrect": false },
+      { "text": "உ", "rationale": "இது வேறு எழுத்து.", "isCorrect": false }
+    ],
+    "hint": "பாடத்தில் 'அன்னம்' என்ற பறவை படம் உள்ளது."
+  },
+  {
+    "questionNumber": 17,
+    "question": "'ஆந்தை' என்ற சொல் எந்த எழுத்தில் தொடங்குகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "அ", "rationale": "இது குறில் எழுத்து.", "isCorrect": false },
+      { "text": "ஆ", "rationale": "'ஆ' என்ற நெட்டெழுத்தில் ஆந்தை தொடங்குகிறது.", "isCorrect": true },
+      { "text": "இ", "rationale": "இது வேறு எழுத்து.", "isCorrect": false },
+      { "text": "ஈ", "rationale": "இது வேறு எழுத்து.", "isCorrect": false }
+    ],
+    "hint": "பாடத்தில் 'ஆந்தை' படம் உள்ளது."
+  },
+  {
+    "questionNumber": 18,
+    "question": "'இடி' என்ற சொல் எந்த எழுத்தில் தொடங்குகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "இ", "rationale": "'இ' என்ற உயிர் எழுத்தில் இடி தொடங்குகிறது.", "isCorrect": true },
+      { "text": "ஈ", "rationale": "இது வேறு எழுத்து.", "isCorrect": false },
+      { "text": "உ", "rationale": "இது வேறு எழுத்து.", "isCorrect": false },
+      { "text": "ஊ", "rationale": "இது வேறு எழுத்து.", "isCorrect": false }
+    ],
+    "hint": "பாடத்தில் 'இடி' என்ற இயற்கை நிகழ்வு படம் உள்ளது."
+  },
+  {
+    "questionNumber": 19,
+    "question": "'உழவர்' என்ற சொல் எந்த எழுத்தில் தொடங்குகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "உ", "rationale": "'உ' என்ற உயிர் எழுத்தில் உழவர் தொடங்குகிறது.", "isCorrect": true },
+      { "text": "ஊ", "rationale": "இது வேறு எழுத்து.", "isCorrect": false },
+      { "text": "எ", "rationale": "இது வேறு எழுத்து.", "isCorrect": false },
+      { "text": "ஏ", "rationale": "இது வேறு எழுத்து.", "isCorrect": false }
+    ],
+    "hint": "உழவர் உழுதுண்டு வாழ்கிறார்."
+  },
+  {
+    "questionNumber": 20,
+    "question": "'எழுது' என்ற சொல் எந்த எழுத்தில் தொடங்குகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "எ", "rationale": "'எ' என்ற உயிர் எழுத்தில் எழுது தொடங்குகிறது.", "isCorrect": true },
+      { "text": "ஏ", "rationale": "இது வேறு எழுத்து.", "isCorrect": false },
+      { "text": "ஐ", "rationale": "இது வேறு எழுத்து.", "isCorrect": false },
+      { "text": "ஒ", "rationale": "இது வேறு எழுத்து.", "isCorrect": false }
+    ],
+    "hint": "எழுதுவோம் எனும் தலைப்பின் முதல் எழுத்தை நினைவுகூர்க."
+  },
+  {
+    "questionNumber": 21,
+    "question": "'ஒளி' என்ற சொல் எந்த எழுத்தில் தொடங்குகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஒ", "rationale": "இது குறில் எழுத்து.", "isCorrect": false },
+      { "text": "ஒள", "rationale": "'ஒள' என்ற நெட்டெழுத்தில் ஒளி தொடங்குகிறது.", "isCorrect": true },
+      { "text": "ஓ", "rationale": "இது வேறு எழுத்து.", "isCorrect": false },
+      { "text": "ஐ", "rationale": "இது வேறு எழுத்து.", "isCorrect": false }
+    ],
+    "hint": "பாடத்தில் 'ஒளி' என்ற சொல் ஊஞ்சல் பக்கத்தில் உள்ளது."
+  },
+  {
+    "questionNumber": 22,
+    "question": "'ஈ' என்ற எழுத்து எவ்வகை உயிர் எழுத்து?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "குறில்", "rationale": "குறில் எழுத்துகள் ஐந்து: அ, இ, உ, எ, ஒ.", "isCorrect": false },
+      { "text": "நெட்டெழுத்து", "rationale": "'ஈ' ஒரு நெட்டெழுத்து.", "isCorrect": true },
+      { "text": "மெய்", "rationale": "இது உயிர் எழுத்து.", "isCorrect": false },
+      { "text": "உயிர்மெய்", "rationale": "இது தனி உயிர் எழுத்து.", "isCorrect": false }
+    ],
+    "hint": "ஈ, ஊ, ஏ, ஐ, ஓ, ஒள, ஆ — நெட்டெழுத்துகள்."
+  },
+  {
+    "questionNumber": 23,
+    "question": "'உ' என்ற எழுத்து எவ்வகை உயிர் எழுத்து?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "குறில்", "rationale": "'உ' ஒரு குறில் எழுத்து.", "isCorrect": true },
+      { "text": "நெட்டெழுத்து", "rationale": "இது குறில் எழுத்து.", "isCorrect": false },
+      { "text": "மெய்", "rationale": "இது உயிர் எழுத்து.", "isCorrect": false },
+      { "text": "உயிர்மெய்", "rationale": "இது தனி உயிர் எழுத்து.", "isCorrect": false }
+    ],
+    "hint": "அ, இ, உ, எ, ஒ — குறில்."
+  },
+  {
+    "questionNumber": 24,
+    "question": "'ஏ' என்ற எழுத்து எவ்வகை உயிர் எழுத்து?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "குறில்", "rationale": "இது நெட்டெழுத்து.", "isCorrect": false },
+      { "text": "நெட்டெழுத்து", "rationale": "'ஏ' ஒரு நெட்டெழுத்து.", "isCorrect": true },
+      { "text": "மெய்", "rationale": "இது உயிர் எழுத்து.", "isCorrect": false },
+      { "text": "உயிர்மெய்", "rationale": "இது தனி உயிர் எழுத்து.", "isCorrect": false }
+    ],
+    "hint": "ஆ, ஈ, ஊ, ஏ, ஐ, ஓ, ஒள — நெட்டெழுத்துகள்."
+  },
+  {
+    "questionNumber": 25,
+    "question": "'ஒ' என்ற எழுத்து எவ்வகை உயிர் எழுத்து?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "குறில்", "rationale": "'ஒ' ஒரு குறில் எழுத்து.", "isCorrect": true },
+      { "text": "நெட்டெழுத்து", "rationale": "இது குறில் எழுத்து.", "isCorrect": false },
+      { "text": "மெய்", "rationale": "இது உயிர் எழுத்து.", "isCorrect": false },
+      { "text": "உயிர்மெய்", "rationale": "இது தனி உயிர் எழுத்து.", "isCorrect": false }
+    ],
+    "hint": "அ, இ, உ, எ, ஒ — குறில்."
+  },
+  {
+    "questionNumber": 26,
+    "question": "'ஆ' என்ற எழுத்து எவ்வகை உயிர் எழுத்து?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "குறில்", "rationale": "இது நெட்டெழுத்து.", "isCorrect": false },
+      { "text": "நெட்டெழுத்து", "rationale": "'ஆ' ஒரு நெட்டெழுத்து.", "isCorrect": true },
+      { "text": "மெய்", "rationale": "இது உயிர் எழுத்து.", "isCorrect": false },
+      { "text": "உயிர்மெய்", "rationale": "இது தனி உயிர் எழுத்து.", "isCorrect": false }
+    ],
+    "hint": "ஆ, ஈ, ஊ, ஏ, ஐ, ஓ, ஒள — நெட்டெழுத்துகள்."
+  },
+  {
+    "questionNumber": 27,
+    "question": "'ஐ' என்ற எழுத்து எவ்வகை உயிர் எழுத்து?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "குறில்", "rationale": "இது நெட்டெழுத்து.", "isCorrect": false },
+      { "text": "நெட்டெழுத்து", "rationale": "'ஐ' ஒரு நெட்டெழுத்து.", "isCorrect": true },
+      { "text": "மெய்", "rationale": "இது உயிர் எழுத்து.", "isCorrect": false },
+      { "text": "உயிர்மெய்", "rationale": "இது தனி உயிர் எழுத்து.", "isCorrect": false }
+    ],
+    "hint": "ஆ, ஈ, ஊ, ஏ, ஐ, ஓ, ஒள — நெட்டெழுத்துகள்."
+  },
+  {
+    "questionNumber": 28,
+    "question": "'அ' என்ற எழுத்து எவ்வகை உயிர் எழுத்து?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "குறில்", "rationale": "'அ' ஒரு குறில் எழுத்து.", "isCorrect": true },
+      { "text": "நெட்டெழுத்து", "rationale": "இது குறில் எழுத்து.", "isCorrect": false },
+      { "text": "மெய்", "rationale": "இது உயிர் எழுத்து.", "isCorrect": false },
+      { "text": "உயிர்மெய்", "rationale": "இது தனி உயிர் எழுத்து.", "isCorrect": false }
+    ],
+    "hint": "அ, இ, உ, எ, ஒ — குறில்."
+  },
+  {
+    "questionNumber": 29,
+    "question": "'ஒள' என்ற எழுத்து எவ்வகை உயிர் எழுத்து?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "குறில்", "rationale": "இது நெட்டெழுத்து.", "isCorrect": false },
+      { "text": "நெட்டெழுத்து", "rationale": "'ஒள' ஒரு நெட்டெழுத்து.", "isCorrect": true },
+      { "text": "மெய்", "rationale": "இது உயிர் எழுத்து.", "isCorrect": false },
+      { "text": "உயிர்மெய்", "rationale": "இது தனி உயிர் எழுத்து.", "isCorrect": false }
+    ],
+    "hint": "ஆ, ஈ, ஊ, ஏ, ஐ, ஓ, ஒள — நெட்டெழுத்துகள்."
+  },
+  {
+    "questionNumber": 30,
+    "question": "'ஊ' என்ற எழுத்து எவ்வகை உயிர் எழுத்து?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "குறில்", "rationale": "இது நெட்டெழுத்து.", "isCorrect": false },
+      { "text": "நெட்டெழுத்து", "rationale": "'ஊ' ஒரு நெட்டெழுத்து.", "isCorrect": true },
+      { "text": "மெய்", "rationale": "இது உயிர் எழுத்து.", "isCorrect": false },
+      { "text": "உயிர்மெய்", "rationale": "இது தனி உயிர் எழுத்து.", "isCorrect": false }
+    ],
+    "hint": "ஆ, ஈ, ஊ, ஏ, ஐ, ஓ, ஒள — நெட்டெழுத்துகள்."
+  },
+  {
+    "questionNumber": 31,
+    "question": "'ஓ' என்ற எழுத்து எவ்வகை உயிர் எழுத்து?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "குறில்", "rationale": "இது நெட்டெழுத்து.", "isCorrect": false },
+      { "text": "நெட்டெழுத்து", "rationale": "'ஓ' ஒரு நெட்டெழுத்து.", "isCorrect": true },
+      { "text": "மெய்", "rationale": "இது உயிர் எழுத்து.", "isCorrect": false },
+      { "text": "உயிர்மெய்", "rationale": "இது தனி உயிர் எழுத்து.", "isCorrect": false }
+    ],
+    "hint": "ஆ, ஈ, ஊ, ஏ, ஐ, ஓ, ஒள — நெட்டெழுத்துகள்."
+  },
+  {
+    "questionNumber": 32,
+    "question": "'இ' என்ற எழுத்து எவ்வகை உயிர் எழுத்து?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "குறில்", "rationale": "'இ' ஒரு குறில் எழுத்து.", "isCorrect": true },
+      { "text": "நெட்டெழுத்து", "rationale": "இது குறில் எழுத்து.", "isCorrect": false },
+      { "text": "மெய்", "rationale": "இது உயிர் எழுத்து.", "isCorrect": false },
+      { "text": "உயிர்மெய்", "rationale": "இது தனி உயிர் எழுத்து.", "isCorrect": false }
+    ],
+    "hint": "அ, இ, உ, எ, ஒ — குறில்."
+  },
+  {
+    "questionNumber": 33,
+    "question": "'எ' என்ற எழுத்து எவ்வகை உயிர் எழுத்து?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "குறில்", "rationale": "'எ' ஒரு குறில் எழுத்து.", "isCorrect": true },
+      { "text": "நெட்டெழுத்து", "rationale": "இது குறில் எழுத்து.", "isCorrect": false },
+      { "text": "மெய்", "rationale": "இது உயிர் எழுத்து.", "isCorrect": false },
+      { "text": "உயிர்மெய்", "rationale": "இது தனி உயிர் எழுத்து.", "isCorrect": false }
+    ],
+    "hint": "அ, இ, உ, எ, ஒ — குறில்."
+  },
+  {
+    "questionNumber": 34,
+    "question": "உயிர் எழுத்துகளை எத்தனை வகையாகப் பிரிக்கலாம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "2", "rationale": "குறில், நெட்டெழுத்து என இரண்டு வகை.", "isCorrect": true },
+      { "text": "3", "rationale": "உயிர் எழுத்துகள் இரண்டு வகைப்படும்.", "isCorrect": false },
+      { "text": "4", "rationale": "இரண்டு வகை மட்டுமே.", "isCorrect": false },
+      { "text": "5", "rationale": "இரண்டு வகை மட்டுமே.", "isCorrect": false }
+    ],
+    "hint": "குறில் மற்றும் நெட்டெழுத்து."
+  },
+  {
+    "questionNumber": 35,
+    "question": "'அம்மா' என்ற சொல்லின் முதல் எழுத்து எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "அ", "rationale": "'அ' என்ற உயிர் எழுத்தில் அம்மா தொடங்குகிறது.", "isCorrect": true },
+      { "text": "ஆ", "rationale": "இது வேறு எழுத்து.", "isCorrect": false },
+      { "text": "ம", "rationale": "இது மெய் எழுத்து.", "isCorrect": false },
+      { "text": "ம்", "rationale": "இது மெய் எழுத்து.", "isCorrect": false }
+    ],
+    "hint": "முதல் எழுத்தைக் கவனி."
+  },
+  {
+    "questionNumber": 36,
+    "question": "'ஆடு' என்ற சொல்லின் முதல் எழுத்து எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "அ", "rationale": "இது குறில் எழுத்து.", "isCorrect": false },
+      { "text": "ஆ", "rationale": "'ஆ' என்ற எழுத்தில் ஆடு தொடங்குகிறது.", "isCorrect": true },
+      { "text": "ட", "rationale": "இது மெய் எழுத்து.", "isCorrect": false },
+      { "text": "டு", "rationale": "இது உயிர்மெய் எழுத்து.", "isCorrect": false }
+    ],
+    "hint": "'ஆ' என்ற நெட்டெழுத்தில் தொடங்குகிறது."
+  },
+  {
+    "questionNumber": 37,
+    "question": "'இலை' என்ற சொல்லின் முதல் எழுத்து எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "இ", "rationale": "'இ' என்ற எழுத்தில் இலை தொடங்குகிறது.", "isCorrect": true },
+      { "text": "ஈ", "rationale": "இது வேறு எழுத்து.", "isCorrect": false },
+      { "text": "ல", "rationale": "இது மெய் எழுத்து.", "isCorrect": false },
+      { "text": "லை", "rationale": "இது உயிர்மெய் எழுத்து.", "isCorrect": false }
+    ],
+    "hint": "'இ' என்ற குறில் எழுத்து."
+  },
+  {
+    "questionNumber": 38,
+    "question": "'உரல்' என்ற சொல்லின் முதல் எழுத்து எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "உ", "rationale": "'உ' என்ற எழுத்தில் உரல் தொடங்குகிறது.", "isCorrect": true },
+      { "text": "ஊ", "rationale": "இது வேறு எழுத்து.", "isCorrect": false },
+      { "text": "ர", "rationale": "இது மெய் எழுத்து.", "isCorrect": false },
+      { "text": "ல்", "rationale": "இது மெய் எழுத்து.", "isCorrect": false }
+    ],
+    "hint": "'உ' என்ற குறில் எழுத்து."
+  },
+  {
+    "questionNumber": 39,
+    "question": "'எலி' என்ற சொல்லின் முதல் எழுத்து எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "எ", "rationale": "'எ' என்ற எழுத்தில் எலி தொடங்குகிறது.", "isCorrect": true },
+      { "text": "ஏ", "rationale": "இது வேறு எழுத்து.", "isCorrect": false },
+      { "text": "ல", "rationale": "இது மெய் எழுத்து.", "isCorrect": false },
+      { "text": "லி", "rationale": "இது உயிர்மெய் எழுத்து.", "isCorrect": false }
+    ],
+    "hint": "'எ' என்ற குறில் எழுத்து."
+  },
+  {
+    "questionNumber": 40,
+    "question": "'ஒட்டகம்' என்ற சொல்லின் முதல் எழுத்து எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஒ", "rationale": "'ஒ' என்ற எழுத்தில் ஒட்டகம் தொடங்குகிறது.", "isCorrect": true },
+      { "text": "ஓ", "rationale": "இது வேறு எழுத்து.", "isCorrect": false },
+      { "text": "ட", "rationale": "இது மெய் எழுத்து.", "isCorrect": false },
+      { "text": "க", "rationale": "இது மெய் எழுத்து.", "isCorrect": false }
+    ],
+    "hint": "'ஒ' என்ற குறில் எழுத்து."
+  },
+  {
+    "questionNumber": 41,
+    "question": "'ஈ' என்ற எழுத்தின் பெயர் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஈ", "rationale": "இதுவே எழுத்தின் பெயர்.", "isCorrect": true },
+      { "text": "இ", "rationale": "இது வேறு எழுத்து.", "isCorrect": false },
+      { "text": "ஏ", "rationale": "இது வேறு எழுத்து.", "isCorrect": false },
+      { "text": "உ", "rationale": "இது வேறு எழுத்து.", "isCorrect": false }
+    ],
+    "hint": "எழுத்தின் வடிவம் மற்றும் பெயர் ஒன்றே."
+  },
+  {
+    "questionNumber": 42,
+    "question": "உயிர் எழுத்துகளில் முதலாவது எழுத்து எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "அ", "rationale": "உயிர் எழுத்துகளில் முதலாவது 'அ'.", "isCorrect": true },
+      { "text": "ஆ", "rationale": "இது இரண்டாவது எழுத்து.", "isCorrect": false },
+      { "text": "இ", "rationale": "இது மூன்றாவது எழுத்து.", "isCorrect": false },
+      { "text": "ஈ", "rationale": "இது நான்காவது எழுத்து.", "isCorrect": false }
+    ],
+    "hint": "திருக்குறளின் முதல் குறள் 'அகர முதல எழுத்தெல்லாம்' என்று தொடங்குகிறது."
+  },
+  {
+    "questionNumber": 43,
+    "question": "உயிர் எழுத்துகளில் கடைசி எழுத்து எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஒ", "rationale": "இது இறுதிக்கு முந்தைய எழுத்து.", "isCorrect": false },
+      { "text": "ஓ", "rationale": "இது இறுதிக்கு முந்தைய எழுத்து.", "isCorrect": false },
+      { "text": "ஒள", "rationale": "உயிர் எழுத்துகளில் கடைசி எழுத்து 'ஒள'.", "isCorrect": true },
+      { "text": "ஐ", "rationale": "இது நடுவில் உள்ள எழுத்து.", "isCorrect": false }
+    ],
+    "hint": "ஒளவை என்ற சொல்லின் முதல் எழுத்து."
+  },
+  {
+    "questionNumber": 44,
+    "question": "திருக்குறளின் முதல் குறள் எந்த எழுத்தில் தொடங்குகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "அ", "rationale": "'அகர முதல எழுத்தெல்லாம்' — 'அ' என்ற எழுத்தில் தொடங்குகிறது.", "isCorrect": true },
+      { "text": "ஆ", "rationale": "இது வேறு எழுத்து.", "isCorrect": false },
+      { "text": "இ", "rationale": "இது வேறு எழுத்து.", "isCorrect": false },
+      { "text": "உ", "rationale": "இது வேறு எழுத்து.", "isCorrect": false }
+    ],
+    "hint": "அகர முதல எழுத்தெல்லாம் ஆதி பகவன் முதற்றே உலகு."
+  },
+  {
+    "questionNumber": 45,
+    "question": "'அகர முதல எழுத்தெல்லாம்' என்ற குறளின் பொருள் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "எழுத்துகள் அனைத்தும் 'அ' என்ற எழுத்தில் தொடங்குகின்றன; உலகம் கடவுளை அடிப்படையாகக் கொண்டது", "rationale": "இதுவே குறளின் சரியான பொருள்.", "isCorrect": true },
+      { "text": "எழுத்துகள் அனைத்தும் 'ஆ' என்ற எழுத்தில் தொடங்குகின்றன", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "எழுத்துகள் அனைத்தும் மெய் எழுத்துகளில் தொடங்குகின்றன", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "எழுத்துகள் அனைத்தும் குறில் எழுத்துகளில் தொடங்குகின்றன", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "எழுத்துகள் எல்லாம் அகரத்தை அடிப்படையாகக் கொண்டிருக்கின்றன."
+  },
+  {
+    "questionNumber": 46,
+    "question": "ஒளவையார் அருளிய ஆத்திசூடியில் 'அ' வரிசைக்கான வாக்கியம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "அறம் செய விரும்பு", "rationale": "ஆத்திசூடியில் 'அ' வரிசைக்கான வாக்கியம் இதுவே.", "isCorrect": true },
+      { "text": "ஆறுவது சினம்", "rationale": "இது 'ஆ' வரிசைக்கானது.", "isCorrect": false },
+      { "text": "இயல்வது கரவேல்", "rationale": "இது 'இ' வரிசைக்கானது.", "isCorrect": false },
+      { "text": "ஈவது விலக்கேல்", "rationale": "இது 'ஈ' வரிசைக்கானது.", "isCorrect": false }
+    ],
+    "hint": "அறம் செய்ய விரும்பு."
+  },
+  {
+    "questionNumber": 47,
+    "question": "ஆத்திசூடியில் 'ஆ' வரிசைக்கான வாக்கியம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "அறம் செய விரும்பு", "rationale": "இது 'அ' வரிசைக்கானது.", "isCorrect": false },
+      { "text": "ஆறுவது சினம்", "rationale": "ஆத்திசூடியில் 'ஆ' வரிசைக்கான வாக்கியம் இதுவே.", "isCorrect": true },
+      { "text": "இயல்வது கரவேல்", "rationale": "இது 'இ' வரிசைக்கானது.", "isCorrect": false },
+      { "text": "ஈவது விலக்கேல்", "rationale": "இது 'ஈ' வரிசைக்கானது.", "isCorrect": false }
+    ],
+    "hint": "சினத்தை ஆறச் செய்."
+  },
+  {
+    "questionNumber": 48,
+    "question": "ஆத்திசூடியில் 'ஒ' வரிசைக்கான வாக்கியம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஒப்புரவு ஒழுகு", "rationale": "ஆத்திசூடியில் 'ஒ' வரிசைக்கான வாக்கியம் இதுவே.", "isCorrect": true },
+      { "text": "ஓதுவது ஒழியேல்", "rationale": "இது 'ஓ' வரிசைக்கானது.", "isCorrect": false },
+      { "text": "ஒளவியம் பேசேல்", "rationale": "இது 'ஒள' வரிசைக்கானது.", "isCorrect": false },
+      { "text": "ஊக்கமது கைவிடேல்", "rationale": "இது 'ஊ' வரிசைக்கானது.", "isCorrect": false }
+    ],
+    "hint": "ஒப்புரவு என்பது உலக நட்பு."
+  },
+  {
+    "questionNumber": 49,
+    "question": "ஆத்திசூடியில் 'ஒள' வரிசைக்கான வாக்கியம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஒப்புரவு ஒழுகு", "rationale": "இது 'ஒ' வரிசைக்கானது.", "isCorrect": false },
+      { "text": "ஓதுவது ஒழியேல்", "rationale": "இது 'ஓ' வரிசைக்கானது.", "isCorrect": false },
+      { "text": "ஒளவியம் பேசேல்", "rationale": "ஆத்திசூடியில் 'ஒள' வரிசைக்கான வாக்கியம் இதுவே.", "isCorrect": true },
+      { "text": "ஊக்கமது கைவிடேல்", "rationale": "இது 'ஊ' வரிசைக்கானது.", "isCorrect": false }
+    ],
+    "hint": "பொய்யான வஞ்சகச் சொற்களைப் பேசக்கூடாது."
+  },
+  {
+    "questionNumber": 50,
+    "question": "ஆத்திசூடியை அருளியவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஒளவையார்", "rationale": "ஆத்திசூடி நூலை அருளியவர் ஒளவையார்.", "isCorrect": true },
+      { "text": "கபிலர்", "rationale": "இவர் சங்ககாலப் புலவர்.", "isCorrect": false },
+      { "text": "திருவள்ளுவர்", "rationale": "இவர் திருக்குறளை இயற்றியவர்.", "isCorrect": false },
+      { "text": "பாரதியார்", "rationale": "இவர் நவீன காலக் கவிஞர்.", "isCorrect": false }
+    ],
+    "hint": "ஆத்திசூடியை அருளியவர் ஒரு பெண் புலவர்."
+  }
+]

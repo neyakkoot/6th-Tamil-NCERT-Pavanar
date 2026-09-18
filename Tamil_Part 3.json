@@ -1,0 +1,602 @@
+[
+  {
+    "questionNumber": 1,
+    "question": "உயிர்மெய் எழுத்து எவ்வாறு உருவாகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "உயிர் + உயிர்", "rationale": "இது உயிர்மெய் எழுத்தை உருவாக்காது.", "isCorrect": false },
+      { "text": "மெய் + உயிர்", "rationale": "மெய்யெழுத்துடன் உயிரெழுத்து சேர்வதால் உயிர்மெய் எழுத்து கிடைக்கிறது.", "isCorrect": true },
+      { "text": "மெய் + மெய்", "rationale": "இது மெய்யெழுத்தை மட்டுமே தரும்.", "isCorrect": false },
+      { "text": "உயிர்மெய் + உயிர்", "rationale": "இது வேறு வடிவம்.", "isCorrect": false }
+    ],
+    "hint": "க் + அ = க."
+  },
+  {
+    "questionNumber": 2,
+    "question": "க் + அ = ?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "க்", "rationale": "இது மெய் எழுத்து மட்டுமே.", "isCorrect": false },
+      { "text": "க", "rationale": "க் + அ = க.", "isCorrect": true },
+      { "text": "கா", "rationale": "இது க் + ஆ.", "isCorrect": false },
+      { "text": "கி", "rationale": "இது க் + இ.", "isCorrect": false }
+    ],
+    "hint": "க் உடன் அ சேர்."
+  },
+  {
+    "questionNumber": 3,
+    "question": "க் + ஆ = ?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "க", "rationale": "இது க் + அ.", "isCorrect": false },
+      { "text": "கா", "rationale": "க் + ஆ = கா.", "isCorrect": true },
+      { "text": "கி", "rationale": "இது க் + இ.", "isCorrect": false },
+      { "text": "கீ", "rationale": "இது க் + ஈ.", "isCorrect": false }
+    ],
+    "hint": "க் உடன் ஆ சேர்."
+  },
+  {
+    "questionNumber": 4,
+    "question": "க் + இ = ?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "க", "rationale": "இது க் + அ.", "isCorrect": false },
+      { "text": "கா", "rationale": "இது க் + ஆ.", "isCorrect": false },
+      { "text": "கி", "rationale": "க் + இ = கி.", "isCorrect": true },
+      { "text": "கீ", "rationale": "இது க் + ஈ.", "isCorrect": false }
+    ],
+    "hint": "க் உடன் இ சேர்."
+  },
+  {
+    "questionNumber": 5,
+    "question": "க் + ஈ = ?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "க", "rationale": "இது க் + அ.", "isCorrect": false },
+      { "text": "கி", "rationale": "இது க் + இ.", "isCorrect": false },
+      { "text": "கீ", "rationale": "க் + ஈ = கீ.", "isCorrect": true },
+      { "text": "கா", "rationale": "இது க் + ஆ.", "isCorrect": false }
+    ],
+    "hint": "க் உடன் ஈ சேர்."
+  },
+  {
+    "questionNumber": 6,
+    "question": "'கண்' என்ற சொல்லில் உள்ள உயிர்மெய் எழுத்து எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "க", "rationale": "கண் — 'க' என்ற உயிர்மெய் எழுத்து உள்ளது.", "isCorrect": true },
+      { "text": "ண்", "rationale": "இது மெய் எழுத்து.", "isCorrect": false },
+      { "text": "க்", "rationale": "இது மெய் எழுத்து.", "isCorrect": false },
+      { "text": "ண", "rationale": "இது சொல்லில் இல்லை.", "isCorrect": false }
+    ],
+    "hint": "முதல் எழுத்தைப் பார்."
+  },
+  {
+    "questionNumber": 7,
+    "question": "'சக்கரம்' என்ற சொல்லில் உள்ள உயிர்மெய் எழுத்துகள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ச, க, ர", "rationale": "சக்கரம் — 'ச', 'க', 'ர' ஆகிய உயிர்மெய் எழுத்துகள் உள்ளன.", "isCorrect": true },
+      { "text": "க், ம்", "rationale": "இவை மெய் எழுத்துகள்.", "isCorrect": false },
+      { "text": "ச, க்", "rationale": "க் மெய் எழுத்து.", "isCorrect": false },
+      { "text": "க, ம்", "rationale": "ம் மெய் எழுத்து.", "isCorrect": false }
+    ],
+    "hint": "மெய்யெழுத்துகளைத் தவிர்த்து."
+  },
+  {
+    "questionNumber": 8,
+    "question": "'படம்' என்ற சொல்லில் உள்ள உயிர்மெய் எழுத்துகள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ப, ட", "rationale": "படம் — 'ப', 'ட' ஆகிய உயிர்மெய் எழுத்துகள் உள்ளன.", "isCorrect": true },
+      { "text": "ப், ம்", "rationale": "இவை மெய் எழுத்துகள்.", "isCorrect": false },
+      { "text": "ப, ம்", "rationale": "ம் மெய் எழுத்து.", "isCorrect": false },
+      { "text": "ட, ம்", "rationale": "ம் மெய் எழுத்து.", "isCorrect": false }
+    ],
+    "hint": "'ம்' மெய் எழுத்து."
+  },
+  {
+    "questionNumber": 9,
+    "question": "'பணம்' என்ற சொல்லில் உள்ள உயிர்மெய் எழுத்துகள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ப, ண", "rationale": "பணம் — 'ப', 'ண' ஆகிய உயிர்மெய் எழுத்துகள் உள்ளன.", "isCorrect": true },
+      { "text": "ப், ம்", "rationale": "இவை மெய் எழுத்துகள்.", "isCorrect": false },
+      { "text": "ப, ம்", "rationale": "ம் மெய் எழுத்து.", "isCorrect": false },
+      { "text": "ண, ம்", "rationale": "ம் மெய் எழுத்து.", "isCorrect": false }
+    ],
+    "hint": "'ம்' மெய் எழுத்து."
+  },
+  {
+    "questionNumber": 10,
+    "question": "'நடைபாதை' என்ற சொல்லில் உள்ள உயிர்மெய் எழுத்துகள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ந, ட, பா, தை", "rationale": "நடைபாதை — 'ந', 'ட', 'பா', 'தை' ஆகிய உயிர்மெய் எழுத்துகள் உள்ளன.", "isCorrect": true },
+      { "text": "ந், ட், ப், த்", "rationale": "இவை மெய் எழுத்துகள்.", "isCorrect": false },
+      { "text": "ந, ட, ப, த", "rationale": "பா, தை நெடில் வடிவங்கள்.", "isCorrect": false },
+      { "text": "ந, ட், ப, த", "rationale": "ட் மெய் எழுத்து.", "isCorrect": false }
+    ],
+    "hint": "ஒவ்வொரு எழுத்தையும் கவனி."
+  },
+  {
+    "questionNumber": 11,
+    "question": "'பள்ளி' என்ற சொல்லில் உள்ள உயிர்மெய் எழுத்துகள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ப, ளி", "rationale": "பள்ளி — 'ப', 'ளி' ஆகிய உயிர்மெய் எழுத்துகள் உள்ளன.", "isCorrect": true },
+      { "text": "ப், ள்", "rationale": "இவை மெய் எழுத்துகள்.", "isCorrect": false },
+      { "text": "ப, ள்", "rationale": "ள் மெய் எழுத்து.", "isCorrect": false },
+      { "text": "ப், ளி", "rationale": "ப் மெய் எழுத்து.", "isCorrect": false }
+    ],
+    "hint": "'ள்' மெய் எழுத்து."
+  },
+  {
+    "questionNumber": 12,
+    "question": "'மணி' என்ற சொல்லில் உள்ள உயிர்மெய் எழுத்துகள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ம, ணி", "rationale": "மணி — 'ம', 'ணி' ஆகிய உயிர்மெய் எழுத்துகள் உள்ளன.", "isCorrect": true },
+      { "text": "ம், ண்", "rationale": "இவை மெய் எழுத்துகள்.", "isCorrect": false },
+      { "text": "ம, ண்", "rationale": "ண் மெய் எழுத்து.", "isCorrect": false },
+      { "text": "ம், ணி", "rationale": "ம் மெய் எழுத்து.", "isCorrect": false }
+    ],
+    "hint": "'ம்' மெய் எழுத்து."
+  },
+  {
+    "questionNumber": 13,
+    "question": "'யானை' என்ற சொல்லில் உள்ள உயிர்மெய் எழுத்துகள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "யா, னை", "rationale": "யானை — 'யா', 'னை' ஆகிய உயிர்மெய் எழுத்துகள் உள்ளன.", "isCorrect": true },
+      { "text": "ய், ன்", "rationale": "இவை மெய் எழுத்துகள்.", "isCorrect": false },
+      { "text": "யா, ன்", "rationale": "ன் மெய் எழுத்து.", "isCorrect": false },
+      { "text": "ய், னை", "rationale": "ய் மெய் எழுத்து.", "isCorrect": false }
+    ],
+    "hint": "இரண்டு உயிர்மெய் எழுத்துகள்."
+  },
+  {
+    "questionNumber": 14,
+    "question": "'கடை' என்ற சொல்லில் உள்ள உயிர்மெய் எழுத்துகள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "க, டை", "rationale": "கடை — 'க', 'டை' ஆகிய உயிர்மெய் எழுத்துகள் உள்ளன.", "isCorrect": true },
+      { "text": "க், ட்", "rationale": "இவை மெய் எழுத்துகள்.", "isCorrect": false },
+      { "text": "க, ட்", "rationale": "ட் மெய் எழுத்து.", "isCorrect": false },
+      { "text": "க், டை", "rationale": "க் மெய் எழுத்து.", "isCorrect": false }
+    ],
+    "hint": "இரண்டு உயிர்மெய் எழுத்துகள்."
+  },
+  {
+    "questionNumber": 15,
+    "question": "'மரம்' என்ற சொல்லில் உள்ள உயிர்மெய் எழுத்துகள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ம, ர", "rationale": "மரம் — 'ம', 'ர' ஆகிய உயிர்மெய் எழுத்துகள் உள்ளன.", "isCorrect": true },
+      { "text": "ம், ம்", "rationale": "இவை மெய் எழுத்துகள்.", "isCorrect": false },
+      { "text": "ம, ம்", "rationale": "ம் மெய் எழுத்து.", "isCorrect": false },
+      { "text": "ம், ர", "rationale": "ம் மெய் எழுத்து.", "isCorrect": false }
+    ],
+    "hint": "'ம்' மெய் எழுத்து."
+  },
+  {
+    "questionNumber": 16,
+    "question": "'வண்டி' என்ற சொல்லில் உள்ள உயிர்மெய் எழுத்துகள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "வ, டி", "rationale": "வண்டி — 'வ', 'டி' ஆகிய உயிர்மெய் எழுத்துகள் உள்ளன.", "isCorrect": true },
+      { "text": "வ், ட்", "rationale": "இவை மெய் எழுத்துகள்.", "isCorrect": false },
+      { "text": "வ, ட்", "rationale": "ட் மெய் எழுத்து.", "isCorrect": false },
+      { "text": "வ், டி", "rationale": "வ் மெய் எழுத்து.", "isCorrect": false }
+    ],
+    "hint": "இரண்டு உயிர்மெய் எழுத்துகள்."
+  },
+  {
+    "questionNumber": 17,
+    "question": "'பறவை' என்ற சொல்லில் உள்ள உயிர்மெய் எழுத்துகள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ப, ற, வை", "rationale": "பறவை — 'ப', 'ற', 'வை' ஆகிய உயிர்மெய் எழுத்துகள் உள்ளன.", "isCorrect": true },
+      { "text": "ப், ற், வ்", "rationale": "இவை மெய் எழுத்துகள்.", "isCorrect": false },
+      { "text": "ப, ற், வை", "rationale": "ற் மெய் எழுத்து.", "isCorrect": false },
+      { "text": "ப், ற, வை", "rationale": "ப் மெய் எழுத்து.", "isCorrect": false }
+    ],
+    "hint": "மூன்று உயிர்மெய் எழுத்துகள்."
+  },
+  {
+    "questionNumber": 18,
+    "question": "'கட்டடம்' என்ற சொல்லில் உள்ள உயிர்மெய் எழுத்துகள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "க, ட, ட", "rationale": "கட்டடம் — 'க', 'ட', 'ட' ஆகிய உயிர்மெய் எழுத்துகள் உள்ளன.", "isCorrect": true },
+      { "text": "க், ட், ம்", "rationale": "இவை மெய் எழுத்துகள்.", "isCorrect": false },
+      { "text": "க, ட், ட", "rationale": "ட் மெய் எழுத்து.", "isCorrect": false },
+      { "text": "க், ட, ட", "rationale": "க் மெய் எழுத்து.", "isCorrect": false }
+    ],
+    "hint": "'ம்' மெய் எழுத்து."
+  },
+  {
+    "questionNumber": 19,
+    "question": "'தட்டு' என்ற சொல்லில் உள்ள உயிர்மெய் எழுத்துகள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "த, ட்டு", "rationale": "தட்டு — 'த', 'ட்டு' ஆகிய உயிர்மெய் வடிவங்கள் உள்ளன.", "isCorrect": true },
+      { "text": "த், ட்", "rationale": "இவை மெய் எழுத்துகள்.", "isCorrect": false },
+      { "text": "த, ட்", "rationale": "ட் மெய் எழுத்து.", "isCorrect": false },
+      { "text": "த், ட்டு", "rationale": "த் மெய் எழுத்து.", "isCorrect": false }
+    ],
+    "hint": "இரண்டு உயிர்மெய் வடிவங்கள்."
+  },
+  {
+    "questionNumber": 20,
+    "question": "'நண்பன்' என்ற சொல்லில் உள்ள உயிர்மெய் எழுத்துகள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ந, ண, ப", "rationale": "நண்பன் — 'ந', 'ண', 'ப' ஆகிய உயிர்மெய் எழுத்துகள் உள்ளன.", "isCorrect": true },
+      { "text": "ந், ண், ப், ன்", "rationale": "இவை மெய் எழுத்துகள்.", "isCorrect": false },
+      { "text": "ந, ண், ப", "rationale": "ண் மெய் எழுத்து.", "isCorrect": false },
+      { "text": "ந், ண, ப", "rationale": "ந் மெய் எழுத்து.", "isCorrect": false }
+    ],
+    "hint": "'ன்' மெய் எழுத்து."
+  },
+  {
+    "questionNumber": 21,
+    "question": "'கண்ணன்' என்ற சொல்லில் உள்ள உயிர்மெய் எழுத்துகள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "க, ண, ண", "rationale": "கண்ணன் — 'க', 'ண', 'ண' ஆகிய உயிர்மெய் எழுத்துகள் உள்ளன.", "isCorrect": true },
+      { "text": "க், ண், ன்", "rationale": "இவை மெய் எழுத்துகள்.", "isCorrect": false },
+      { "text": "க, ண், ண", "rationale": "ண் மெய் எழுத்து.", "isCorrect": false },
+      { "text": "க், ண, ண", "rationale": "க் மெய் எழுத்து.", "isCorrect": false }
+    ],
+    "hint": "'ன்' மெய் எழுத்து."
+  },
+  {
+    "questionNumber": 22,
+    "question": "'கரடி' என்ற சொல்லில் உள்ள உயிர்மெய் எழுத்துகள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "க, ர, டி", "rationale": "கரடி — 'க', 'ர', 'டி' ஆகிய உயிர்மெய் எழுத்துகள் உள்ளன.", "isCorrect": true },
+      { "text": "க், ர், ட்", "rationale": "இவை மெய் எழுத்துகள்.", "isCorrect": false },
+      { "text": "க, ர், டி", "rationale": "ர் மெய் எழுத்து.", "isCorrect": false },
+      { "text": "க், ர, டி", "rationale": "க் மெய் எழுத்து.", "isCorrect": false }
+    ],
+    "hint": "மூன்று உயிர்மெய் எழுத்துகள்."
+  },
+  {
+    "questionNumber": 23,
+    "question": "'சிங்கம்' என்ற சொல்லில் உள்ள உயிர்மெய் எழுத்துகள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "சி, க", "rationale": "சிங்கம் — 'சி', 'க' ஆகிய உயிர்மெய் எழுத்துகள் உள்ளன.", "isCorrect": true },
+      { "text": "ச், ங், க், ம்", "rationale": "இவை மெய் எழுத்துகள்.", "isCorrect": false },
+      { "text": "சி, க்", "rationale": "க் மெய் எழுத்து.", "isCorrect": false },
+      { "text": "ச், க", "rationale": "ச் மெய் எழுத்து.", "isCorrect": false }
+    ],
+    "hint": "'ங்', 'ம்' மெய் எழுத்துகள்."
+  },
+  {
+    "questionNumber": 24,
+    "question": "'புலி' என்ற சொல்லில் உள்ள உயிர்மெய் எழுத்துகள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "பு, லி", "rationale": "புலி — 'பு', 'லி' ஆகிய உயிர்மெய் எழுத்துகள் உள்ளன.", "isCorrect": true },
+      { "text": "ப், ல்", "rationale": "இவை மெய் எழுத்துகள்.", "isCorrect": false },
+      { "text": "பு, ல்", "rationale": "ல் மெய் எழுத்து.", "isCorrect": false },
+      { "text": "ப், லி", "rationale": "ப் மெய் எழுத்து.", "isCorrect": false }
+    ],
+    "hint": "இரண்டு உயிர்மெய் எழுத்துகள்."
+  },
+  {
+    "questionNumber": 25,
+    "question": "'மான்' என்ற சொல்லில் உள்ள உயிர்மெய் எழுத்து எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "மா", "rationale": "மான் — 'மா' என்ற உயிர்மெய் எழுத்து உள்ளது.", "isCorrect": true },
+      { "text": "ம்", "rationale": "இது மெய் எழுத்து.", "isCorrect": false },
+      { "text": "ன்", "rationale": "இது மெய் எழுத்து.", "isCorrect": false },
+      { "text": "ம", "rationale": "இது குறில் வடிவம்.", "isCorrect": false }
+    ],
+    "hint": "இரண்டு எழுத்துகள் மட்டுமே."
+  },
+  {
+    "questionNumber": 26,
+    "question": "'மயில்' என்ற சொல்லில் உள்ள உயிர்மெய் எழுத்துகள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ம, யி", "rationale": "மயில் — 'ம', 'யி' ஆகிய உயிர்மெய் எழுத்துகள் உள்ளன.", "isCorrect": true },
+      { "text": "ம், ய், ல்", "rationale": "இவை மெய் எழுத்துகள்.", "isCorrect": false },
+      { "text": "ம, ய்", "rationale": "ய் மெய் எழுத்து.", "isCorrect": false },
+      { "text": "ம், யி", "rationale": "ம் மெய் எழுத்து.", "isCorrect": false }
+    ],
+    "hint": "'ல்' மெய் எழுத்து."
+  },
+  {
+    "questionNumber": 27,
+    "question": "'குரங்கு' என்ற சொல்லில் உள்ள உயிர்மெய் எழுத்துகள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "கு, ர, கு", "rationale": "குரங்கு — 'கு', 'ர', 'கு' ஆகிய உயிர்மெய் எழுத்துகள் உள்ளன.", "isCorrect": true },
+      { "text": "க், ர், ங், க்", "rationale": "இவை மெய் எழுத்துகள்.", "isCorrect": false },
+      { "text": "கு, ர், கு", "rationale": "ர் மெய் எழுத்து.", "isCorrect": false },
+      { "text": "க், ர, கு", "rationale": "க் மெய் எழுத்து.", "isCorrect": false }
+    ],
+    "hint": "'ங்' மெய் எழுத்து."
+  },
+  {
+    "questionNumber": 28,
+    "question": "'கிளி' என்ற சொல்லில் உள்ள உயிர்மெய் எழுத்துகள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "கி, ளி", "rationale": "கிளி — 'கி', 'ளி' ஆகிய உயிர்மெய் எழுத்துகள் உள்ளன.", "isCorrect": true },
+      { "text": "க், ள்", "rationale": "இவை மெய் எழுத்துகள்.", "isCorrect": false },
+      { "text": "கி, ள்", "rationale": "ள் மெய் எழுத்து.", "isCorrect": false },
+      { "text": "க், ளி", "rationale": "க் மெய் எழுத்து.", "isCorrect": false }
+    ],
+    "hint": "இரண்டு உயிர்மெய் எழுத்துகள்."
+  },
+  {
+    "questionNumber": 29,
+    "question": "'கீரி' என்ற சொல்லில் உள்ள உயிர்மெய் எழுத்துகள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "கீ, ரி", "rationale": "கீரி — 'கீ', 'ரி' ஆகிய உயிர்மெய் எழுத்துகள் உள்ளன.", "isCorrect": true },
+      { "text": "க், ர்", "rationale": "இவை மெய் எழுத்துகள்.", "isCorrect": false },
+      { "text": "கீ, ர்", "rationale": "ர் மெய் எழுத்து.", "isCorrect": false },
+      { "text": "க், ரி", "rationale": "க் மெய் எழுத்து.", "isCorrect": false }
+    ],
+    "hint": "இரண்டு உயிர்மெய் எழுத்துகள்."
+  },
+  {
+    "questionNumber": 30,
+    "question": "'திண்ணை' என்ற சொல்லில் உள்ள உயிர்மெய் எழுத்துகள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "தி, ண்ணை", "rationale": "திண்ணை — 'தி', 'ண்ணை' ஆகிய உயிர்மெய் வடிவங்கள் உள்ளன.", "isCorrect": true },
+      { "text": "த், ண்", "rationale": "இவை மெய் எழுத்துகள்.", "isCorrect": false },
+      { "text": "தி, ண்", "rationale": "ண் மெய் எழுத்து.", "isCorrect": false },
+      { "text": "த், ண்ணை", "rationale": "த் மெய் எழுத்து.", "isCorrect": false }
+    ],
+    "hint": "இரண்டு உயிர்மெய் வடிவங்கள்."
+  },
+  {
+    "questionNumber": 31,
+    "question": "'நிலவு' என்ற சொல்லில் உள்ள உயிர்மெய் எழுத்துகள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "நி, ல, வு", "rationale": "நிலவு — 'நி', 'ல', 'வு' ஆகிய உயிர்மெய் எழுத்துகள் உள்ளன.", "isCorrect": true },
+      { "text": "ந், ல், வ்", "rationale": "இவை மெய் எழுத்துகள்.", "isCorrect": false },
+      { "text": "நி, ல், வு", "rationale": "ல் மெய் எழுத்து.", "isCorrect": false },
+      { "text": "ந், ல, வு", "rationale": "ந் மெய் எழுத்து.", "isCorrect": false }
+    ],
+    "hint": "மூன்று உயிர்மெய் எழுத்துகள்."
+  },
+  {
+    "questionNumber": 32,
+    "question": "'பாட்டி' என்ற சொல்லில் உள்ள உயிர்மெய் எழுத்துகள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "பா, ட்டி", "rationale": "பாட்டி — 'பா', 'ட்டி' ஆகிய உயிர்மெய் வடிவங்கள் உள்ளன.", "isCorrect": true },
+      { "text": "ப், ட்", "rationale": "இவை மெய் எழுத்துகள்.", "isCorrect": false },
+      { "text": "பா, ட்", "rationale": "ட் மெய் எழுத்து.", "isCorrect": false },
+      { "text": "ப், ட்டி", "rationale": "ப் மெய் எழுத்து.", "isCorrect": false }
+    ],
+    "hint": "இரண்டு உயிர்மெய் வடிவங்கள்."
+  },
+  {
+    "questionNumber": 33,
+    "question": "'ஆணி' என்ற சொல்லில் உள்ள உயிர்மெய் எழுத்துகள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஆ, ணி", "rationale": "ஆணி — 'ஆ', 'ணி' ஆகிய எழுத்துகள் உள்ளன (ஆ உயிர், ணி உயிர்மெய்).", "isCorrect": true },
+      { "text": "ண்", "rationale": "இது மெய் எழுத்து.", "isCorrect": false },
+      { "text": "ஆ, ண்", "rationale": "ண் மெய் எழுத்து.", "isCorrect": false },
+      { "text": "ணி", "rationale": "இது மட்டும் இல்லை.", "isCorrect": false }
+    ],
+    "hint": "'ஆ' உயிர்; 'ணி' உயிர்மெய்."
+  },
+  {
+    "questionNumber": 34,
+    "question": "'தீபம்' என்ற சொல்லில் உள்ள உயிர்மெய் எழுத்துகள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "தீ, ப", "rationale": "தீபம் — 'தீ', 'ப' ஆகிய உயிர்மெய் எழுத்துகள் உள்ளன.", "isCorrect": true },
+      { "text": "த், ப், ம்", "rationale": "இவை மெய் எழுத்துகள்.", "isCorrect": false },
+      { "text": "தீ, ப்", "rationale": "ப் மெய் எழுத்து.", "isCorrect": false },
+      { "text": "த், ப", "rationale": "த் மெய் எழுத்து.", "isCorrect": false }
+    ],
+    "hint": "'ம்' மெய் எழுத்து."
+  },
+  {
+    "questionNumber": 35,
+    "question": "'நீர்' என்ற சொல்லில் உள்ள உயிர்மெய் எழுத்து எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "நீ", "rationale": "நீர் — 'நீ' என்ற உயிர்மெய் எழுத்து உள்ளது.", "isCorrect": true },
+      { "text": "ந்", "rationale": "இது மெய் எழுத்து.", "isCorrect": false },
+      { "text": "ர்", "rationale": "இது மெய் எழுத்து.", "isCorrect": false },
+      { "text": "ந", "rationale": "இது குறில் வடிவம்.", "isCorrect": false }
+    ],
+    "hint": "இரண்டு எழுத்துகள் மட்டுமே."
+  },
+  {
+    "questionNumber": 36,
+    "question": "'வீடு' என்ற சொல்லில் உள்ள உயிர்மெய் எழுத்துகள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "வீ, டு", "rationale": "வீடு — 'வீ', 'டு' ஆகிய உயிர்மெய் எழுத்துகள் உள்ளன.", "isCorrect": true },
+      { "text": "வ், ட்", "rationale": "இவை மெய் எழுத்துகள்.", "isCorrect": false },
+      { "text": "வீ, ட்", "rationale": "ட் மெய் எழுத்து.", "isCorrect": false },
+      { "text": "வ், டு", "rationale": "வ் மெய் எழுத்து.", "isCorrect": false }
+    ],
+    "hint": "இரண்டு உயிர்மெய் எழுத்துகள்."
+  },
+  {
+    "questionNumber": 37,
+    "question": "'பீரங்கி' என்ற சொல்லில் உள்ள உயிர்மெய் எழுத்துகள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "பீ, ர, கி", "rationale": "பீரங்கி — 'பீ', 'ர', 'கி' ஆகிய உயிர்மெய் எழுத்துகள் உள்ளன.", "isCorrect": true },
+      { "text": "ப், ர், ங், க்", "rationale": "இவை மெய் எழுத்துகள்.", "isCorrect": false },
+      { "text": "பீ, ர், கி", "rationale": "ர் மெய் எழுத்து.", "isCorrect": false },
+      { "text": "ப், ர, கி", "rationale": "ப் மெய் எழுத்து.", "isCorrect": false }
+    ],
+    "hint": "'ங்' மெய் எழுத்து."
+  },
+  {
+    "questionNumber": 38,
+    "question": "'கீரை' என்ற சொல்லில் உள்ள உயிர்மெய் எழுத்துகள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "கீ, ரை", "rationale": "கீரை — 'கீ', 'ரை' ஆகிய உயிர்மெய் எழுத்துகள் உள்ளன.", "isCorrect": true },
+      { "text": "க், ர்", "rationale": "இவை மெய் எழுத்துகள்.", "isCorrect": false },
+      { "text": "கீ, ர்", "rationale": "ர் மெய் எழுத்து.", "isCorrect": false },
+      { "text": "க், ரை", "rationale": "க் மெய் எழுத்து.", "isCorrect": false }
+    ],
+    "hint": "இரண்டு உயிர்மெய் எழுத்துகள்."
+  },
+  {
+    "questionNumber": 39,
+    "question": "'சீரகம்' என்ற சொல்லில் உள்ள உயிர்மெய் எழுத்துகள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "சீ, ர, க", "rationale": "சீரகம் — 'சீ', 'ர', 'க' ஆகிய உயிர்மெய் எழுத்துகள் உள்ளன.", "isCorrect": true },
+      { "text": "ச், ர், க், ம்", "rationale": "இவை மெய் எழுத்துகள்.", "isCorrect": false },
+      { "text": "சீ, ர், க", "rationale": "ர் மெய் எழுத்து.", "isCorrect": false },
+      { "text": "ச், ர, க", "rationale": "ச் மெய் எழுத்து.", "isCorrect": false }
+    ],
+    "hint": "'ம்' மெய் எழுத்து."
+  },
+  {
+    "questionNumber": 40,
+    "question": "'பன்னீர்' என்ற சொல்லில் உள்ள உயிர்மெய் எழுத்துகள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ப, ன்னீ", "rationale": "பன்னீர் — 'ப', 'ன்னீ' ஆகிய உயிர்மெய் வடிவங்கள் உள்ளன.", "isCorrect": true },
+      { "text": "ப், ன், ர்", "rationale": "இவை மெய் எழுத்துகள்.", "isCorrect": false },
+      { "text": "ப, ன், ர்", "rationale": "ன், ர் மெய் எழுத்துகள்.", "isCorrect": false },
+      { "text": "ப், ன்னீ", "rationale": "ப் மெய் எழுத்து.", "isCorrect": false }
+    ],
+    "hint": "'ர்' மெய் எழுத்து."
+  },
+  {
+    "questionNumber": 41,
+    "question": "'மீன்' என்ற சொல்லில் உள்ள உயிர்மெய் எழுத்து எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "மீ", "rationale": "மீன் — 'மீ' என்ற உயிர்மெய் எழுத்து உள்ளது.", "isCorrect": true },
+      { "text": "ம்", "rationale": "இது மெய் எழுத்து.", "isCorrect": false },
+      { "text": "ன்", "rationale": "இது மெய் எழுத்து.", "isCorrect": false },
+      { "text": "ம", "rationale": "இது குறில் வடிவம்.", "isCorrect": false }
+    ],
+    "hint": "இரண்டு எழுத்துகள் மட்டுமே."
+  },
+  {
+    "questionNumber": 42,
+    "question": "உயிர்மெய் எழுத்துகளில் குறில் வடிவம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "க", "rationale": "க் + அ = க — இது குறில் உயிர்மெய்.", "isCorrect": true },
+      { "text": "கா", "rationale": "இது நெடில் வடிவம்.", "isCorrect": false },
+      { "text": "கி", "rationale": "இது குறில் வடிவம்; ஆனால் கேள்வி பொதுவானது.", "isCorrect": false },
+      { "text": "கீ", "rationale": "இது நெடில் வடிவம்.", "isCorrect": false }
+    ],
+    "hint": "க் + அ என்பது குறில்."
+  },
+  {
+    "questionNumber": 43,
+    "question": "உயிர்மெய் எழுத்துகளில் நெடில் வடிவம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "க", "rationale": "இது குறில் வடிவம்.", "isCorrect": false },
+      { "text": "கா", "rationale": "க் + ஆ = கா — இது நெடில் உயிர்மெய்.", "isCorrect": true },
+      { "text": "கி", "rationale": "இது குறில் வடிவம்.", "isCorrect": false },
+      { "text": "கு", "rationale": "இது குறில் வடிவம்.", "isCorrect": false }
+    ],
+    "hint": "க் + ஆ என்பது நெடில்."
+  },
+  {
+    "questionNumber": 44,
+    "question": "பாரதியார் அருளிய புதிய ஆத்திசூடியில் 'க' வரிசைக்கான வாக்கியம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "கற்றது ஒழுகு", "rationale": "பாரதியின் புதிய ஆத்திசூடியில் 'க' வரிசைக்கான வாக்கியம் இதுவே.", "isCorrect": true },
+      { "text": "கூடித் தொழில் செய்", "rationale": "இது 'கூ' வரிசைக்கானது.", "isCorrect": false },
+      { "text": "காலம் அழியேல்", "rationale": "இது 'கா' வரிசைக்கானது.", "isCorrect": false },
+      { "text": "கெடுப்பது சோர்வு", "rationale": "இது 'கெ' வரிசைக்கானது.", "isCorrect": false }
+    ],
+    "hint": "கற்றதைப் பின்பற்று."
+  },
+  {
+    "questionNumber": 45,
+    "question": "பாரதியார் அருளிய புதிய ஆத்திசூடியில் 'கூ' வரிசைக்கான வாக்கியம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "கற்றது ஒழுகு", "rationale": "இது 'க' வரிசைக்கானது.", "isCorrect": false },
+      { "text": "கூடித் தொழில் செய்", "rationale": "பாரதியின் புதிய ஆத்திசூடியில் 'கூ' வரிசைக்கான வாக்கியம் இதுவே.", "isCorrect": true },
+      { "text": "காலம் அழியேல்", "rationale": "இது 'கா' வரிசைக்கானது.", "isCorrect": false },
+      { "text": "கெடுப்பது சோர்வு", "rationale": "இது 'கெ' வரிசைக்கானது.", "isCorrect": false }
+    ],
+    "hint": "ஒன்றாகச் சேர்ந்து வேலை செய்."
+  },
+  {
+    "questionNumber": 46,
+    "question": "பாரதியார் அருளிய புதிய ஆத்திசூடியில் 'கா' வரிசைக்கான வாக்கியம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "கற்றது ஒழுகு", "rationale": "இது 'க' வரிசைக்கானது.", "isCorrect": false },
+      { "text": "கூடித் தொழில் செய்", "rationale": "இது 'கூ' வரிசைக்கானது.", "isCorrect": false },
+      { "text": "காலம் அழியேல்", "rationale": "பாரதியின் புதிய ஆத்திசூடியில் 'கா' வரிசைக்கான வாக்கியம் இதுவே.", "isCorrect": true },
+      { "text": "கெடுப்பது சோர்வு", "rationale": "இது 'கெ' வரிசைக்கானது.", "isCorrect": false }
+    ],
+    "hint": "நேரத்தை வீணாக்காதே."
+  },
+  {
+    "questionNumber": 47,
+    "question": "பாரதியார் அருளிய புதிய ஆத்திசூடியில் 'கை' வரிசைக்கான வாக்கியம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "கற்றது ஒழுகு", "rationale": "இது 'க' வரிசைக்கானது.", "isCorrect": false },
+      { "text": "கைத்தொழில் போற்று", "rationale": "பாரதியின் புதிய ஆத்திசூடியில் 'கை' வரிசைக்கான வாக்கியம் இதுவே.", "isCorrect": true },
+      { "text": "காலம் அழியேல்", "rationale": "இது 'கா' வரிசைக்கானது.", "isCorrect": false },
+      { "text": "கெடுப்பது சோர்வு", "rationale": "இது 'கெ' வரிசைக்கானது.", "isCorrect": false }
+    ],
+    "hint": "கைத்தொழிலைப் பாராட்டு."
+  },
+  {
+    "questionNumber": 48,
+    "question": "பாரதியார் அருளிய புதிய ஆத்திசூடியில் 'கொ' வரிசைக்கான வாக்கியம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "கற்றது ஒழுகு", "rationale": "இது 'க' வரிசைக்கானது.", "isCorrect": false },
+      { "text": "கொடுமையை எதிர்த்து நில்", "rationale": "பாரதியின் புதிய ஆத்திசூடியில் 'கொ' வரிசைக்கான வாக்கியம் இதுவே.", "isCorrect": true },
+      { "text": "காலம் அழியேல்", "rationale": "இது 'கா' வரிசைக்கானது.", "isCorrect": false },
+      { "text": "கெடுப்பது சோர்வு", "rationale": "இது 'கெ' வரிசைக்கானது.", "isCorrect": false }
+    ],
+    "hint": "அநீதிக்கு எதிராக நில்."
+  },
+  {
+    "questionNumber": 49,
+    "question": "திருக்குறளில் ஒரு முறை மட்டும் பயன்படுத்தப்பட்ட இரு எழுத்துகள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "னீ, நு", "rationale": "திருக்குறளில் ஒரு முறை மட்டும் பயன்படுத்தப்பட்ட இரு எழுத்துகள் 'னீ', 'நு' ஆகும்.", "isCorrect": true },
+      { "text": "கீ, கு", "rationale": "இவை பலமுறை பயன்படுத்தப்பட்டுள்ளன.", "isCorrect": false },
+      { "text": "மீ, மு", "rationale": "இவை பலமுறை பயன்படுத்தப்பட்டுள்ளன.", "isCorrect": false },
+      { "text": "தீ, து", "rationale": "இவை பலமுறை பயன்படுத்தப்பட்டுள்ளன.", "isCorrect": false }
+    ],
+    "hint": "இரண்டு எழுத்துகள் மட்டுமே."
+  },
+  {
+    "questionNumber": 50,
+    "question": "'கற்க கசடற' என்ற குறளின் குறள் எண் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "391", "rationale": "'கற்க கசடற' — குறள் எண் 391.", "isCorrect": true },
+      { "text": "411", "rationale": "இது 'செல்வத்துள் செல்வம்' குறள்.", "isCorrect": false },
+      { "text": "1", "rationale": "இது 'அகர முதல' குறள்.", "isCorrect": false },
+      { "text": "10", "rationale": "இது வேறு குறள்.", "isCorrect": false }
+    ],
+    "hint": "குறள் 391 — கல்வியின் சிறப்பு."
+  }
+]

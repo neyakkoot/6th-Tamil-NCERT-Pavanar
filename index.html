@@ -1,0 +1,345 @@
+<!DOCTYPE html>
+<html lang="ta">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Tamil Quiz: Battlegrounds</title>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Tamil:wght@400;700&family=Oswald:wght@500;700&display=swap" rel="stylesheet">
+
+<style>
+  :root {
+    --pubg-orange: #ff9d00;
+    --pubg-dark: #0b0e11;
+    --pubg-panel: #1e2328;
+    --pubg-red: #e74c3c;
+    --pubg-green: #2ecc71;
+    --pubg-blue: #3498db;
+  }
+
+  body {
+    font-family: 'Noto Sans Tamil', sans-serif;
+    margin: 0;
+    background: var(--pubg-dark);
+    color: #eee;
+    background-image: linear-gradient(rgba(0,0,0,0.85), rgba(0,0,0,0.85)), url('https://images.unsplash.com/photo-1542751371-adc38448a05e?q=80&w=2070');
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    min-height: 100vh;
+  }
+
+  .hidden { display: none !important; }
+
+  #login-container, #dashboard-container, #app-container {
+    max-width: 900px;
+    margin: 30px auto;
+    padding: 25px;
+    background: var(--pubg-panel);
+    border: 1px solid #3c4856;
+    border-top: 5px solid var(--pubg-orange);
+    box-shadow: 0 15px 40px rgba(0,0,0,0.7);
+    border-radius: 5px;
+  }
+
+  h1, h2, h3 { font-family: 'Oswald', sans-serif; text-transform: uppercase; color: var(--pubg-orange); letter-spacing: 2px; }
+
+  #username-input, select {
+    width: 100%; padding: 15px; background: #2a323a; border: 1px solid #455361;
+    color: white; font-size: 1.1rem; margin-bottom: 20px; box-sizing: border-box; border-radius: 4px;
+  }
+
+  button, .option-btn {
+    background: var(--pubg-orange); color: black; border: none; padding: 15px 30px;
+    font-weight: bold; text-transform: uppercase; cursor: pointer; transition: 0.3s;
+    clip-path: polygon(10% 0, 100% 0, 90% 100%, 0 100%); font-family: 'Oswald', sans-serif;
+  }
+
+  .option-btn {
+    display: block; width: 100%; text-align: left; background: #2a323a; color: #fff;
+    margin-bottom: 10px; clip-path: none; border-left: 5px solid var(--pubg-orange);
+    font-family: 'Noto Sans Tamil', sans-serif; border-radius: 0 4px 4px 0;
+  }
+
+  .option-btn:hover:not(:disabled) { background: var(--pubg-orange); color: black; padding-left: 40px; }
+  .option-btn.correct { background: var(--pubg-green) !important; color: black; }
+  .option-btn.wrong { background: var(--pubg-red) !important; color: white; }
+
+  #tv-timer-box {
+    background: rgba(231, 76, 60, 0.1); border: 2px solid var(--pubg-red);
+    padding: 15px; color: var(--pubg-red); font-family: 'Oswald', sans-serif;
+    font-size: 1.5rem; text-align: center; margin-bottom: 20px; border-radius: 4px;
+  }
+
+  #tv-progress {
+    background: rgba(0,0,0,0.3); padding: 15px; color: var(--pubg-orange);
+    font-weight: bold; border: 2px solid var(--pubg-orange); margin-bottom: 20px; text-align: center;
+  }
+
+  #tv-question-buttons { display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-top: 15px; }
+  .nav-dot {
+    width: 40px; height: 40px; border: 2px solid var(--pubg-orange);
+    background: transparent; color: white; cursor: pointer; border-radius: 4px; font-weight: bold;
+  }
+  .nav-dot.answered { background: var(--pubg-blue); border-color: var(--pubg-blue); }
+  .nav-dot.current { background: var(--pubg-green); border-color: var(--pubg-green); }
+
+  .quiz-nav { display: flex; justify-content: space-between; margin-top: 25px; gap: 15px; }
+  #tv-feedback { margin-top: 20px; padding: 15px; background: rgba(255,255,255,0.05); border-left: 4px solid var(--pubg-blue); }
+</style>
+</head>
+<body>
+
+  <div id="login-container">
+    <h2 style="text-align: center;">🪖 BATTLEGROUNDS: TAMIL QUIZ</h2>
+    <input type="text" id="username-input" placeholder="Enter Warrior Name...">
+    <button id="login-btn" style="width: 100%;">START MISSION</button>
+  </div>
+
+  <div id="dashboard-container" class="hidden">
+    <div class="header" style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
+      <h1 id="welcome-msg"></h1>
+      <button id="logout-btn" style="background: var(--pubg-red); color: white; clip-path: none; padding: 10px 20px;">EXIT</button>
+    </div>
+    
+    <div id="quiz-selection-area">
+      <h3>SELECT MISSION (அலகு தேர்வு செய்க)</h3>
+      <select id="quizSelect"><option value="">-- Loading... --</option></select>
+    </div>
+
+    <div id="app-container" class="hidden">
+      <div id="tv-timer-box">TIME REMAINING: <span id="tv-timer-display">00:00</span></div>
+      <div id="tv-progress">MISSION PROGRESS: 0%</div>
+      
+      <div id="tv-question-list-area" style="margin-bottom: 20px; padding: 15px; background: rgba(0,0,0,0.2);">
+        <h3 style="font-size: 1rem; margin: 0;">QUESTION LIST</h3>
+        <div id="tv-question-buttons"></div>
+      </div>
+      
+      <div id="tv-quiz-wrap">
+        <div id="tv-question" style="font-size: 1.2rem; margin-bottom: 20px;"></div>
+        <div id="tv-options"></div>
+        <div id="tv-feedback" class="hidden"></div>
+        
+        <div class="quiz-nav">
+          <button id="tv-prev">PREVIOUS</button>
+          <button id="tv-next">NEXT</button>
+        </div>
+      </div>
+
+      <div id="tv-results" class="hidden">
+        <h2 id="tv-result-title" style="text-align: center;"></h2>
+        <div id="tv-result-score" style="font-size: 1.5rem; text-align:center; margin: 20px 0;"></div>
+        <button onclick="location.reload()" style="width: 100%;">REPLAY MISSION</button>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    const quizSelect = document.getElementById('quizSelect');
+    let quizData = [];
+    let currentIdx = 0;
+    let score = 0;
+    let answeredStatus = [];
+    let timerInterval;
+    let timeRemaining;
+    
+    // 5 நிமிடம் செயலற்ற நேரக் கண்காணிப்பு (Idle Timer)
+    let idleTimer;
+    const IDLE_LIMIT = 5 * 60 * 1000; // 5 நிமிடங்கள் மில்லி வினாடிகளில்
+
+    function resetIdleTimer() {
+      clearTimeout(idleTimer);
+      idleTimer = setTimeout(() => {
+        alert("5 நிமிடங்கள் எந்த செயல்பாடும் இல்லாததால் விளையாட்டு நிறுத்தப்படுகிறது!");
+        localStorage.removeItem('quizUser');
+        location.reload();
+      }, IDLE_LIMIT);
+    }
+
+    // பயனர் செயல்பாடுகளைக் கண்காணித்தல்
+    window.onload = resetIdleTimer;
+    document.onmousemove = resetIdleTimer;
+    document.onkeypress = resetIdleTimer;
+    document.onclick = resetIdleTimer;
+
+    // வினாப் பட்டியலை ஏற்றுதல்
+    function loadList() {
+      fetch('quiz-list.json')
+        .then(res => res.json())
+        .then(data => {
+          quizSelect.innerHTML = '<option value="">-- Choose Unit --</option>';
+          data.forEach(cat => {
+            const group = document.createElement('optgroup');
+            group.label = cat.category;
+            cat.quizzes.forEach(q => {
+              const opt = document.createElement('option');
+              opt.value = q.file;
+              opt.textContent = q.title;
+              group.appendChild(opt);
+            });
+            quizSelect.appendChild(group);
+          });
+        });
+    }
+
+    quizSelect.addEventListener('change', (e) => {
+      if (e.target.value) {
+        fetch(e.target.value)
+          .then(res => res.json())
+          .then(data => {
+            quizData = data.sort(() => Math.random() - 0.5);
+            currentIdx = 0; score = 0;
+            answeredStatus = new Array(quizData.length).fill(false);
+            calculateAndStartTimer(quizData.length);
+            document.getElementById('app-container').classList.remove('hidden');
+            document.getElementById('tv-results').classList.add('hidden');
+            document.getElementById('tv-quiz-wrap').classList.remove('hidden');
+            renderQuestion();
+            renderNavDots();
+            resetIdleTimer();
+          });
+      }
+    });
+
+    function calculateAndStartTimer(count) {
+      clearInterval(timerInterval);
+      let minutes = 10;
+      if (count <= 10) minutes = 10;
+      else if (count <= 30) minutes = 15;
+      else if (count <= 50) minutes = 30;
+      else if (count <= 100) minutes = 60;
+      else minutes = Math.ceil(count * 0.6);
+
+      timeRemaining = minutes * 60;
+      updateTimerDisplay();
+      
+      timerInterval = setInterval(() => {
+        timeRemaining--;
+        updateTimerDisplay();
+        if (timeRemaining <= 0) {
+          clearInterval(timerInterval);
+          alert("நேரம் முடிந்தது!");
+          showResults();
+        }
+      }, 1000);
+    }
+
+    function updateTimerDisplay() {
+      const m = Math.floor(timeRemaining / 60);
+      const s = timeRemaining % 60;
+      document.getElementById('tv-timer-display').textContent = 
+        `${m.toString().padStart(2, '0')}:${s.toString().padStart(2, '0')}`;
+    }
+
+    function renderQuestion() {
+      const q = quizData[currentIdx];
+      document.getElementById('tv-progress').textContent = `MISSION PROGRESS: ${Math.round((currentIdx / quizData.length) * 100)}%`;
+      document.getElementById('tv-question').innerHTML = `<h3>Q${currentIdx + 1}: ${q.question}</h3>`;
+      const optsEl = document.getElementById('tv-options');
+      optsEl.innerHTML = "";
+      document.getElementById('tv-feedback').classList.add('hidden');
+
+      q.answerOptions.forEach((opt) => {
+        const btn = document.createElement("button");
+        btn.className = "option-btn";
+        btn.textContent = opt.text;
+        if(answeredStatus[currentIdx]) btn.disabled = true;
+        btn.onclick = () => checkAnswer(opt, btn);
+        optsEl.appendChild(btn);
+      });
+      updateNavDots();
+    }
+
+    function renderNavDots() {
+      const btnArea = document.getElementById('tv-question-buttons');
+      btnArea.innerHTML = "";
+      quizData.forEach((_, i) => {
+        const btn = document.createElement('button');
+        btn.className = 'nav-dot';
+        btn.textContent = i + 1;
+        btn.onclick = () => { currentIdx = i; renderQuestion(); resetIdleTimer(); };
+        btnArea.appendChild(btn);
+      });
+    }
+
+    function updateNavDots() {
+      const dots = document.querySelectorAll('.nav-dot');
+      dots.forEach((dot, i) => {
+        dot.classList.remove('current', 'answered');
+        if (i === currentIdx) dot.classList.add('current');
+        else if (answeredStatus[i]) dot.classList.add('answered');
+      });
+    }
+
+    function checkAnswer(selected, btn) {
+      if (answeredStatus[currentIdx]) return;
+      resetIdleTimer();
+      answeredStatus[currentIdx] = true;
+      const allBtns = document.querySelectorAll('.option-btn');
+      allBtns.forEach(b => b.disabled = true);
+
+      if (selected.isCorrect) {
+        score++;
+        btn.classList.add('correct');
+      } else {
+        btn.classList.add('wrong');
+        const correctOpt = quizData[currentIdx].answerOptions.find(o => o.isCorrect);
+        allBtns.forEach(b => { if(b.textContent === correctOpt.text) b.classList.add('correct'); });
+      }
+
+      if (selected.rationale) {
+        const feedback = document.getElementById('tv-feedback');
+        feedback.innerHTML = `<strong>விளக்கம்:</strong> ${selected.rationale}`;
+        feedback.classList.remove('hidden');
+      }
+      updateNavDots();
+    }
+
+    document.getElementById('tv-next').onclick = () => {
+      resetIdleTimer();
+      if (currentIdx < quizData.length - 1) { currentIdx++; renderQuestion(); }
+      else showResults();
+    };
+    document.getElementById('tv-prev').onclick = () => {
+      resetIdleTimer();
+      if (currentIdx > 0) { currentIdx--; renderQuestion(); }
+    };
+
+    function showResults() {
+      clearInterval(timerInterval);
+      clearTimeout(idleTimer);
+      document.getElementById('tv-quiz-wrap').classList.add('hidden');
+      document.getElementById('tv-results').classList.remove('hidden');
+      const percent = Math.round((score / quizData.length) * 100);
+      const titleEl = document.getElementById('tv-result-title');
+      const scoreEl = document.getElementById('tv-result-score');
+
+      let rank = ""; let rankColor = "";
+      if (percent === 100) { titleEl.textContent = "🏆 WINNER WINNER TAMIL DINNER! 🏆"; rank = "RANK: CONQUEROR"; rankColor = "#FFD700"; }
+      else if (percent >= 80) { titleEl.textContent = "🎖️ MISSION ACCOMPLISHED! 🎖️"; rank = "RANK: ACE"; rankColor = "#FF4500"; }
+      else if (percent >= 50) { titleEl.textContent = "🔫 RELOAD & TRY AGAIN! 🔫"; rank = "RANK: PLATINUM"; rankColor = "#E5E4E2"; }
+      else { titleEl.textContent = "📦 BETTER LUCK NEXT MATCH! 📦"; rank = "RANK: SILVER"; rankColor = "#C0C0C0"; }
+
+      scoreEl.innerHTML = `<div style="font-size: 2.5rem; color: var(--pubg-orange);">${score} / ${quizData.length}</div>
+                           <div style="color: ${rankColor}; font-weight: bold; margin-top: 15px;">${rank}</div>`;
+    }
+
+    document.getElementById('login-btn').onclick = () => {
+      const name = document.getElementById('username-input').value;
+      if(name) { localStorage.setItem('quizUser', JSON.stringify({name})); location.reload(); }
+    };
+
+    window.onload = () => {
+      resetIdleTimer();
+      const user = JSON.parse(localStorage.getItem('quizUser'));
+      if(user) {
+        document.getElementById('login-container').classList.add('hidden');
+        document.getElementById('dashboard-container').classList.remove('hidden');
+        document.getElementById('welcome-msg').textContent = `WELCOME, ${user.name.toUpperCase()}!`;
+        loadList();
+      }
+    };
+    document.getElementById('logout-btn').onclick = () => { localStorage.removeItem('quizUser'); location.reload(); };
+  </script>
+</body>
+</html>

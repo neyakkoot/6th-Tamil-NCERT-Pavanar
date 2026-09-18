@@ -1,0 +1,602 @@
+[
+  {
+    "questionNumber": 1,
+    "question": "ஓர் ஆண்டில் எத்தனை மாதங்கள் இருக்கின்றன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "10", "rationale": "ஓர் ஆண்டில் 12 மாதங்கள்.", "isCorrect": false },
+      { "text": "12", "rationale": "ஓர் ஆண்டில் 12 மாதங்கள் இருக்கின்றன.", "isCorrect": true },
+      { "text": "11", "rationale": "ஓர் ஆண்டில் 12 மாதங்கள்.", "isCorrect": false },
+      { "text": "13", "rationale": "ஓர் ஆண்டில் 12 மாதங்கள்.", "isCorrect": false }
+    ],
+    "hint": "பன்னிரண்டு."
+  },
+  {
+    "questionNumber": 2,
+    "question": "தமிழ் ஆண்டின் முதல் மாதம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "சித்திரை", "rationale": "தமிழ் ஆண்டின் முதல் மாதம் சித்திரை.", "isCorrect": true },
+      { "text": "வைகாசி", "rationale": "இது இரண்டாவது மாதம்.", "isCorrect": false },
+      { "text": "ஆனி", "rationale": "இது மூன்றாவது மாதம்.", "isCorrect": false },
+      { "text": "பங்குனி", "rationale": "இது கடைசி மாதம்.", "isCorrect": false }
+    ],
+    "hint": "சித்திரை."
+  },
+  {
+    "questionNumber": 3,
+    "question": "தமிழ் ஆண்டின் கடைசி மாதம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "பங்குனி", "rationale": "தமிழ் ஆண்டின் கடைசி மாதம் பங்குனி.", "isCorrect": true },
+      { "text": "சித்திரை", "rationale": "இது முதல் மாதம்.", "isCorrect": false },
+      { "text": "மாசி", "rationale": "இது இறுதிக்கு முந்தைய மாதம்.", "isCorrect": false },
+      { "text": "மார்கழி", "rationale": "இது 9-ஆவது மாதம்.", "isCorrect": false }
+    ],
+    "hint": "பங்குனி."
+  },
+  {
+    "questionNumber": 4,
+    "question": "ஆங்கில ஆண்டின் முதல் மாதம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஜனவரி", "rationale": "ஆங்கில ஆண்டின் முதல் மாதம் ஜனவரி.", "isCorrect": true },
+      { "text": "பிப்ரவரி", "rationale": "இது இரண்டாவது மாதம்.", "isCorrect": false },
+      { "text": "டிசம்பர்", "rationale": "இது கடைசி மாதம்.", "isCorrect": false },
+      { "text": "மார்ச்", "rationale": "இது மூன்றாவது மாதம்.", "isCorrect": false }
+    ],
+    "hint": "ஜனவரி."
+  },
+  {
+    "questionNumber": 5,
+    "question": "ஆங்கில ஆண்டின் கடைசி மாதம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "டிசம்பர்", "rationale": "ஆங்கில ஆண்டின் கடைசி மாதம் டிசம்பர்.", "isCorrect": true },
+      { "text": "ஜனவரி", "rationale": "இது முதல் மாதம்.", "isCorrect": false },
+      { "text": "நவம்பர்", "rationale": "இது 11-ஆவது மாதம்.", "isCorrect": false },
+      { "text": "அக்டோபர்", "rationale": "இது 10-ஆவது மாதம்.", "isCorrect": false }
+    ],
+    "hint": "டிசம்பர்."
+  },
+  {
+    "questionNumber": 6,
+    "question": "பிப்ரவரி மாதத்தில் எத்தனை நாள்கள் இருக்கும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "28 அல்லது 29", "rationale": "பிப்ரவரி மாதத்தில் 28 அல்லது 29 நாள்கள் இருக்கும்.", "isCorrect": true },
+      { "text": "30", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "31", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "27", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "பிப்ரவரி சிறப்பு."
+  },
+  {
+    "questionNumber": 7,
+    "question": "ஆங்கில மாதங்களில் ஒவ்வொரு மாதத்திலும் எத்தனை நாள்கள் இருக்கும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "30 அல்லது 31", "rationale": "ஒவ்வொரு மாதத்திலும் 30 அல்லது 31 நாள்கள் இருக்கும்.", "isCorrect": true },
+      { "text": "28 அல்லது 29", "rationale": "இது பிப்ரவரி மட்டும்.", "isCorrect": false },
+      { "text": "25 அல்லது 26", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "32 அல்லது 33", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "30 அல்லது 31."
+  },
+  {
+    "questionNumber": 8,
+    "question": "டிசம்பருக்கு முந்தைய மாதம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "நவம்பர்", "rationale": "டிசம்பருக்கு முந்தைய மாதம் நவம்பர்.", "isCorrect": true },
+      { "text": "அக்டோபர்", "rationale": "இது நவம்பருக்கு முந்தையது.", "isCorrect": false },
+      { "text": "ஜனவரி", "rationale": "இது முதல் மாதம்.", "isCorrect": false },
+      { "text": "செப்டம்பர்", "rationale": "இது 9-ஆவது மாதம்.", "isCorrect": false }
+    ],
+    "hint": "நவம்பர்."
+  },
+  {
+    "questionNumber": 9,
+    "question": "ஞாயிற்றுக்கிழமை பள்ளி விடுமுறை - சரியா?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "சரி", "rationale": "ஞாயிற்றுக்கிழமை பள்ளி விடுமுறை - சரி.", "isCorrect": true },
+      { "text": "தவறு", "rationale": "இது சரி.", "isCorrect": false },
+      { "text": "சில நேரம்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "தெரியவில்லை", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "ஞாயிறு விடுமுறை."
+  },
+  {
+    "questionNumber": 10,
+    "question": "சூரியன் உதிக்கும் திசை எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "கிழக்கு", "rationale": "சூரியன் உதிக்கும் திசை கிழக்கு.", "isCorrect": true },
+      { "text": "மேற்கு", "rationale": "இது சூரியன் மறையும் திசை.", "isCorrect": false },
+      { "text": "வடக்கு", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "தெற்கு", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "சூரிய உதயம்."
+  },
+  {
+    "questionNumber": 11,
+    "question": "சூரியன் மறையும் திசை எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "கிழக்கு", "rationale": "இது சூரிய உதயம்.", "isCorrect": false },
+      { "text": "மேற்கு", "rationale": "சூரியன் மறையும் திசை மேற்கு.", "isCorrect": true },
+      { "text": "வடக்கு", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "தெற்கு", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "சூரிய அஸ்தமனம்."
+  },
+  {
+    "questionNumber": 12,
+    "question": "நம் இடக்கைப் பக்கம் எந்தத் திசை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "வடக்கு", "rationale": "நம் இடக்கைப் பக்கம் வடக்கு.", "isCorrect": true },
+      { "text": "தெற்கு", "rationale": "இது வலக்கைப் பக்கம்.", "isCorrect": false },
+      { "text": "கிழக்கு", "rationale": "இது சூரிய உதயம்.", "isCorrect": false },
+      { "text": "மேற்கு", "rationale": "இது சூரிய அஸ்தமனம்.", "isCorrect": false }
+    ],
+    "hint": "வடக்கு."
+  },
+  {
+    "questionNumber": 13,
+    "question": "நம் வலக்கைப் பக்கம் எந்தத் திசை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "வடக்கு", "rationale": "இது இடக்கைப் பக்கம்.", "isCorrect": false },
+      { "text": "தெற்கு", "rationale": "நம் வலக்கைப் பக்கம் தெற்கு.", "isCorrect": true },
+      { "text": "கிழக்கு", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "மேற்கு", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "தெற்கு."
+  },
+  {
+    "questionNumber": 14,
+    "question": "EAST என்பதன் தமிழ்ச் சொல் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "கிழக்கு", "rationale": "EAST = கிழக்கு.", "isCorrect": true },
+      { "text": "மேற்கு", "rationale": "இது WEST.", "isCorrect": false },
+      { "text": "வடக்கு", "rationale": "இது NORTH.", "isCorrect": false },
+      { "text": "தெற்கு", "rationale": "இது SOUTH.", "isCorrect": false }
+    ],
+    "hint": "சூரிய உதயம்."
+  },
+  {
+    "questionNumber": 15,
+    "question": "WEST என்பதன் தமிழ்ச் சொல் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "கிழக்கு", "rationale": "இது EAST.", "isCorrect": false },
+      { "text": "மேற்கு", "rationale": "WEST = மேற்கு.", "isCorrect": true },
+      { "text": "வடக்கு", "rationale": "இது NORTH.", "isCorrect": false },
+      { "text": "தெற்கு", "rationale": "இது SOUTH.", "isCorrect": false }
+    ],
+    "hint": "சூரிய அஸ்தமனம்."
+  },
+  {
+    "questionNumber": 16,
+    "question": "NORTH என்பதன் தமிழ்ச் சொல் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "கிழக்கு", "rationale": "இது EAST.", "isCorrect": false },
+      { "text": "மேற்கு", "rationale": "இது WEST.", "isCorrect": false },
+      { "text": "வடக்கு", "rationale": "NORTH = வடக்கு.", "isCorrect": true },
+      { "text": "தெற்கு", "rationale": "இது SOUTH.", "isCorrect": false }
+    ],
+    "hint": "இடக்கைப் பக்கம்."
+  },
+  {
+    "questionNumber": 17,
+    "question": "SOUTH என்பதன் தமிழ்ச் சொல் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "கிழக்கு", "rationale": "இது EAST.", "isCorrect": false },
+      { "text": "மேற்கு", "rationale": "இது WEST.", "isCorrect": false },
+      { "text": "வடக்கு", "rationale": "இது NORTH.", "isCorrect": false },
+      { "text": "தெற்கு", "rationale": "SOUTH = தெற்கு.", "isCorrect": true }
+    ],
+    "hint": "வலக்கைப் பக்கம்."
+  },
+  {
+    "questionNumber": 18,
+    "question": "NORTH EAST என்பதன் தமிழ்ச் சொல் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "வடகிழக்கு", "rationale": "NORTH EAST = வடகிழக்கு.", "isCorrect": true },
+      { "text": "தென்மேற்கு", "rationale": "இது SOUTH WEST.", "isCorrect": false },
+      { "text": "வடமேற்கு", "rationale": "இது NORTH WEST.", "isCorrect": false },
+      { "text": "தென்கிழக்கு", "rationale": "இது SOUTH EAST.", "isCorrect": false }
+    ],
+    "hint": "வட + கிழக்கு."
+  },
+  {
+    "questionNumber": 19,
+    "question": "SOUTH WEST என்பதன் தமிழ்ச் சொல் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "வடகிழக்கு", "rationale": "இது NORTH EAST.", "isCorrect": false },
+      { "text": "தென்மேற்கு", "rationale": "SOUTH WEST = தென்மேற்கு.", "isCorrect": true },
+      { "text": "வடமேற்கு", "rationale": "இது NORTH WEST.", "isCorrect": false },
+      { "text": "தென்கிழக்கு", "rationale": "இது SOUTH EAST.", "isCorrect": false }
+    ],
+    "hint": "தென் + மேற்கு."
+  },
+  {
+    "questionNumber": 20,
+    "question": "NORTH WEST என்பதன் தமிழ்ச் சொல் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "வடகிழக்கு", "rationale": "இது NORTH EAST.", "isCorrect": false },
+      { "text": "தென்மேற்கு", "rationale": "இது SOUTH WEST.", "isCorrect": false },
+      { "text": "வடமேற்கு", "rationale": "NORTH WEST = வடமேற்கு.", "isCorrect": true },
+      { "text": "தென்கிழக்கு", "rationale": "இது SOUTH EAST.", "isCorrect": false }
+    ],
+    "hint": "வட + மேற்கு."
+  },
+  {
+    "questionNumber": 21,
+    "question": "SOUTH EAST என்பதன் தமிழ்ச் சொல் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "வடகிழக்கு", "rationale": "இது NORTH EAST.", "isCorrect": false },
+      { "text": "தென்மேற்கு", "rationale": "இது SOUTH WEST.", "isCorrect": false },
+      { "text": "வடமேற்கு", "rationale": "இது NORTH WEST.", "isCorrect": false },
+      { "text": "தென்கிழக்கு", "rationale": "SOUTH EAST = தென்கிழக்கு.", "isCorrect": true }
+    ],
+    "hint": "தென் + கிழக்கு."
+  },
+  {
+    "questionNumber": 22,
+    "question": "திசைகள் மொத்தம் எத்தனை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "8", "rationale": "கிழக்கு, மேற்கு, வடக்கு, தெற்கு, வடகிழக்கு, தென்மேற்கு, வடமேற்கு, தென்கிழக்கு - 8 திசைகள்.", "isCorrect": true },
+      { "text": "4", "rationale": "8 திசைகள்.", "isCorrect": false },
+      { "text": "6", "rationale": "8 திசைகள்.", "isCorrect": false },
+      { "text": "10", "rationale": "8 திசைகள்.", "isCorrect": false }
+    ],
+    "hint": "எட்டு."
+  },
+  {
+    "questionNumber": 23,
+    "question": "ஞாயிறு, திங்கள், செவ்வாய், புதன், வியாழன், வெள்ளி, சனி - இவை என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "கிழமைகள்", "rationale": "இவை ஏழு கிழமைகள்.", "isCorrect": true },
+      { "text": "மாதங்கள்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "திசைகள்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "நாள்கள்", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "வார நாட்கள்."
+  },
+  {
+    "questionNumber": 24,
+    "question": "ஒரு வாரத்தில் எத்தனை கிழமைகள்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "7", "rationale": "ஒரு வாரத்தில் 7 கிழமைகள்.", "isCorrect": true },
+      { "text": "5", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "6", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "8", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "ஏழு."
+  },
+  {
+    "questionNumber": 25,
+    "question": "ஒரு வாரத்தின் முதல் நாள் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஞாயிறு", "rationale": "ஒரு வாரத்தின் முதல் நாள் ஞாயிறு.", "isCorrect": true },
+      { "text": "திங்கள்", "rationale": "இது இரண்டாவது நாள்.", "isCorrect": false },
+      { "text": "சனி", "rationale": "இது கடைசி நாள்.", "isCorrect": false },
+      { "text": "வெள்ளி", "rationale": "இது 6-ஆவது நாள்.", "isCorrect": false }
+    ],
+    "hint": "ஞாயிறு."
+  },
+  {
+    "questionNumber": 26,
+    "question": "ஒரு வாரத்தின் கடைசி நாள் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஞாயிறு", "rationale": "இது முதல் நாள்.", "isCorrect": false },
+      { "text": "சனி", "rationale": "ஒரு வாரத்தின் கடைசி நாள் சனி.", "isCorrect": true },
+      { "text": "வெள்ளி", "rationale": "இது 6-ஆவது நாள்.", "isCorrect": false },
+      { "text": "திங்கள்", "rationale": "இது 2-ஆவது நாள்.", "isCorrect": false }
+    ],
+    "hint": "சனி."
+  },
+  {
+    "questionNumber": 27,
+    "question": "'ஞாயிறு' என்பது என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஒரு கிழமை", "rationale": "ஞாயிறு ஒரு கிழமை.", "isCorrect": true },
+      { "text": "ஒரு மாதம்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "ஒரு திசை", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "ஒரு ஆண்டு", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "கிழமை."
+  },
+  {
+    "questionNumber": 28,
+    "question": "'திங்கள்' என்பது என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஒரு கிழமை", "rationale": "திங்கள் ஒரு கிழமை.", "isCorrect": true },
+      { "text": "ஒரு மாதம்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "ஒரு திசை", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "ஒரு ஆண்டு", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "கிழமை."
+  },
+  {
+    "questionNumber": 29,
+    "question": "'ஞாயிறு வாரத்தின் முதல் நாள்' என்று பாடலில் கூறப்பட்டுள்ளது. அது என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஞாயிறு", "rationale": "ஞாயிறு வாரத்தின் முதல் நாள்.", "isCorrect": true },
+      { "text": "திங்கள்", "rationale": "இது இரண்டாவது நாள்.", "isCorrect": false },
+      { "text": "செவ்வாய்", "rationale": "இது மூன்றாவது நாள்.", "isCorrect": false },
+      { "text": "புதன்", "rationale": "இது நான்காவது நாள்.", "isCorrect": false }
+    ],
+    "hint": "முதல் நாள்."
+  },
+  {
+    "questionNumber": 30,
+    "question": "'மகிழ்வாய் நாமும் தொடங்கிடுவோம்' - எந்த நாளில்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஞாயிறு", "rationale": "ஞாயிற்றுக்கிழமையில் மகிழ்வாய் தொடங்கிடுவோம்.", "isCorrect": true },
+      { "text": "திங்கள்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "சனி", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "வெள்ளி", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "ஞாயிறு."
+  },
+  {
+    "questionNumber": 31,
+    "question": "'திங்களன்று திட்டமிட்டு' - என்ன செய்ய வேண்டும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "திறமுடன் செயலைச் செய்திடுவோம்", "rationale": "திங்களன்று திட்டமிட்டு திறமுடன் செயலைச் செய்ய வேண்டும்.", "isCorrect": true },
+      { "text": "விளையாடுவோம்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "தூங்குவோம்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "பாடுவோம்", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "செயலைச் செய்."
+  },
+  {
+    "questionNumber": 32,
+    "question": "திருக்குறளில் உள்ள மொத்த குறட்பாக்கள் எத்தனை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "1330", "rationale": "திருக்குறளில் 1330 குறட்பாக்கள் உள்ளன.", "isCorrect": true },
+      { "text": "1000", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "1500", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "1200", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "1330."
+  },
+  {
+    "questionNumber": 33,
+    "question": "'காலத்தினாற் செய்த நன்றி' என்ற குறளின் குறள் எண் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "102", "rationale": "இக்குறளின் குறள் எண் 102.", "isCorrect": true },
+      { "text": "216", "rationale": "இது 'பயன்மரம்' குறள்.", "isCorrect": false },
+      { "text": "423", "rationale": "இது 'எப்பொருள்' குறள்.", "isCorrect": false },
+      { "text": "527", "rationale": "இது 'காக்கை' குறள்.", "isCorrect": false }
+    ],
+    "hint": "குறள் 102."
+  },
+  {
+    "questionNumber": 34,
+    "question": "ஆங்கில மாதங்களில் எத்தனை மாதங்களுக்கு 31 நாள்கள் உள்ளன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "7", "rationale": "ஜனவரி, மார்ச், மே, ஜூலை, ஆகஸ்ட், அக்டோபர், டிசம்பர் - 7 மாதங்களுக்கு 31 நாள்கள்.", "isCorrect": true },
+      { "text": "5", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "6", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "4", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "ஏழு."
+  },
+  {
+    "questionNumber": 35,
+    "question": "ஆங்கில மாதங்களில் எத்தனை மாதங்களுக்கு 30 நாள்கள் உள்ளன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "4", "rationale": "ஏப்ரல், ஜூன், செப்டம்பர், நவம்பர் - 4 மாதங்களுக்கு 30 நாள்கள்.", "isCorrect": true },
+      { "text": "5", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "6", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "7", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "நான்கு."
+  },
+  {
+    "questionNumber": 36,
+    "question": "தமிழ் மாதங்களில் எத்தனை மாதங்கள் உள்ளன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "12", "rationale": "தமிழ் மாதங்களும் 12 ஆகும்.", "isCorrect": true },
+      { "text": "10", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "11", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "13", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "பன்னிரண்டு."
+  },
+  {
+    "questionNumber": 37,
+    "question": "தமிழ் மாதங்களின் வரிசையில் இரண்டாவது மாதம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "வைகாசி", "rationale": "தமிழ் மாதங்களில் இரண்டாவது மாதம் வைகாசி.", "isCorrect": true },
+      { "text": "சித்திரை", "rationale": "இது முதல் மாதம்.", "isCorrect": false },
+      { "text": "ஆனி", "rationale": "இது மூன்றாவது மாதம்.", "isCorrect": false },
+      { "text": "ஆடி", "rationale": "இது நான்காவது மாதம்.", "isCorrect": false }
+    ],
+    "hint": "வைகாசி."
+  },
+  {
+    "questionNumber": 38,
+    "question": "தமிழ் மாதங்களின் வரிசையில் மூன்றாவது மாதம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஆனி", "rationale": "தமிழ் மாதங்களில் மூன்றாவது மாதம் ஆனி.", "isCorrect": true },
+      { "text": "வைகாசி", "rationale": "இது இரண்டாவது மாதம்.", "isCorrect": false },
+      { "text": "ஆடி", "rationale": "இது நான்காவது மாதம்.", "isCorrect": false },
+      { "text": "ஆவணி", "rationale": "இது ஐந்தாவது மாதம்.", "isCorrect": false }
+    ],
+    "hint": "ஆனி."
+  },
+  {
+    "questionNumber": 39,
+    "question": "தமிழ் மாதங்களின் வரிசையில் நான்காவது மாதம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஆடி", "rationale": "தமிழ் மாதங்களில் நான்காவது மாதம் ஆடி.", "isCorrect": true },
+      { "text": "ஆனி", "rationale": "இது மூன்றாவது மாதம்.", "isCorrect": false },
+      { "text": "ஆவணி", "rationale": "இது ஐந்தாவது மாதம்.", "isCorrect": false },
+      { "text": "புரட்டாசி", "rationale": "இது ஆறாவது மாதம்.", "isCorrect": false }
+    ],
+    "hint": "ஆடி."
+  },
+  {
+    "questionNumber": 40,
+    "question": "தமிழ் மாதங்களின் வரிசையில் ஐந்தாவது மாதம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஆவணி", "rationale": "தமிழ் மாதங்களில் ஐந்தாவது மாதம் ஆவணி.", "isCorrect": true },
+      { "text": "ஆடி", "rationale": "இது நான்காவது மாதம்.", "isCorrect": false },
+      { "text": "புரட்டாசி", "rationale": "இது ஆறாவது மாதம்.", "isCorrect": false },
+      { "text": "ஐப்பசி", "rationale": "இது ஏழாவது மாதம்.", "isCorrect": false }
+    ],
+    "hint": "ஆவணி."
+  },
+  {
+    "questionNumber": 41,
+    "question": "தமிழ் மாதங்களின் வரிசையில் ஆறாவது மாதம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "புரட்டாசி", "rationale": "தமிழ் மாதங்களில் ஆறாவது மாதம் புரட்டாசி.", "isCorrect": true },
+      { "text": "ஆவணி", "rationale": "இது ஐந்தாவது மாதம்.", "isCorrect": false },
+      { "text": "ஐப்பசி", "rationale": "இது ஏழாவது மாதம்.", "isCorrect": false },
+      { "text": "கார்த்திகை", "rationale": "இது எட்டாவது மாதம்.", "isCorrect": false }
+    ],
+    "hint": "புரட்டாசி."
+  },
+  {
+    "questionNumber": 42,
+    "question": "தமிழ் மாதங்களின் வரிசையில் ஏழாவது மாதம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஐப்பசி", "rationale": "தமிழ் மாதங்களில் ஏழாவது மாதம் ஐப்பசி.", "isCorrect": true },
+      { "text": "புரட்டாசி", "rationale": "இது ஆறாவது மாதம்.", "isCorrect": false },
+      { "text": "கார்த்திகை", "rationale": "இது எட்டாவது மாதம்.", "isCorrect": false },
+      { "text": "மார்கழி", "rationale": "இது ஒன்பதாவது மாதம்.", "isCorrect": false }
+    ],
+    "hint": "ஐப்பசி."
+  },
+  {
+    "questionNumber": 43,
+    "question": "தமிழ் மாதங்களின் வரிசையில் எட்டாவது மாதம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "கார்த்திகை", "rationale": "தமிழ் மாதங்களில் எட்டாவது மாதம் கார்த்திகை.", "isCorrect": true },
+      { "text": "ஐப்பசி", "rationale": "இது ஏழாவது மாதம்.", "isCorrect": false },
+      { "text": "மார்கழி", "rationale": "இது ஒன்பதாவது மாதம்.", "isCorrect": false },
+      { "text": "தை", "rationale": "இது பத்தாவது மாதம்.", "isCorrect": false }
+    ],
+    "hint": "கார்த்திகை."
+  },
+  {
+    "questionNumber": 44,
+    "question": "தமிழ் மாதங்களின் வரிசையில் ஒன்பதாவது மாதம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "மார்கழி", "rationale": "தமிழ் மாதங்களில் ஒன்பதாவது மாதம் மார்கழி.", "isCorrect": true },
+      { "text": "கார்த்திகை", "rationale": "இது எட்டாவது மாதம்.", "isCorrect": false },
+      { "text": "தை", "rationale": "இது பத்தாவது மாதம்.", "isCorrect": false },
+      { "text": "மாசி", "rationale": "இது பதினொன்றாவது மாதம்.", "isCorrect": false }
+    ],
+    "hint": "மார்கழி."
+  },
+  {
+    "questionNumber": 45,
+    "question": "தமிழ் மாதங்களின் வரிசையில் பத்தாவது மாதம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "தை", "rationale": "தமிழ் மாதங்களில் பத்தாவது மாதம் தை.", "isCorrect": true },
+      { "text": "மார்கழி", "rationale": "இது ஒன்பதாவது மாதம்.", "isCorrect": false },
+      { "text": "மாசி", "rationale": "இது பதினொன்றாவது மாதம்.", "isCorrect": false },
+      { "text": "பங்குனி", "rationale": "இது பன்னிரண்டாவது மாதம்.", "isCorrect": false }
+    ],
+    "hint": "தை."
+  },
+  {
+    "questionNumber": 46,
+    "question": "தமிழ் மாதங்களின் வரிசையில் பதினொன்றாவது மாதம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "மாசி", "rationale": "தமிழ் மாதங்களில் பதினொன்றாவது மாதம் மாசி.", "isCorrect": true },
+      { "text": "தை", "rationale": "இது பத்தாவது மாதம்.", "isCorrect": false },
+      { "text": "பங்குனி", "rationale": "இது பன்னிரண்டாவது மாதம்.", "isCorrect": false },
+      { "text": "மார்கழி", "rationale": "இது ஒன்பதாவது மாதம்.", "isCorrect": false }
+    ],
+    "hint": "மாசி."
+  },
+  {
+    "questionNumber": 47,
+    "question": "ஆங்கில மாதங்களின் வரிசையில் இரண்டாவது மாதம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "பிப்ரவரி", "rationale": "ஆங்கில மாதங்களில் இரண்டாவது மாதம் பிப்ரவரி.", "isCorrect": true },
+      { "text": "ஜனவரி", "rationale": "இது முதல் மாதம்.", "isCorrect": false },
+      { "text": "மார்ச்", "rationale": "இது மூன்றாவது மாதம்.", "isCorrect": false },
+      { "text": "ஏப்ரல்", "rationale": "இது நான்காவது மாதம்.", "isCorrect": false }
+    ],
+    "hint": "பிப்ரவரி."
+  },
+  {
+    "questionNumber": 48,
+    "question": "ஆங்கில மாதங்களின் வரிசையில் மூன்றாவது மாதம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "மார்ச்", "rationale": "ஆங்கில மாதங்களில் மூன்றாவது மாதம் மார்ச்.", "isCorrect": true },
+      { "text": "பிப்ரவரி", "rationale": "இது இரண்டாவது மாதம்.", "isCorrect": false },
+      { "text": "ஏப்ரல்", "rationale": "இது நான்காவது மாதம்.", "isCorrect": false },
+      { "text": "மே", "rationale": "இது ஐந்தாவது மாதம்.", "isCorrect": false }
+    ],
+    "hint": "மார்ச்."
+  },
+  {
+    "questionNumber": 49,
+    "question": "ஆங்கில மாதங்களின் வரிசையில் ஆறாவது மாதம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஜூன்", "rationale": "ஆங்கில மாதங்களில் ஆறாவது மாதம் ஜூன்.", "isCorrect": true },
+      { "text": "மே", "rationale": "இது ஐந்தாவது மாதம்.", "isCorrect": false },
+      { "text": "ஜூலை", "rationale": "இது ஏழாவது மாதம்.", "isCorrect": false },
+      { "text": "ஆகஸ்ட்", "rationale": "இது எட்டாவது மாதம்.", "isCorrect": false }
+    ],
+    "hint": "ஜூன்."
+  },
+  {
+    "questionNumber": 50,
+    "question": "ஒளவையார் அருளிய ஆத்திசூடியில் 'நூ' வரிசைக்கான வாக்கியம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "நூலைப் பகுத்துணர்", "rationale": "ஆத்திசூடியில் 'நூ' வரிசைக்கான வாக்கியம் இதுவே.", "isCorrect": true },
+      { "text": "நினைப்பது முடியும்", "rationale": "இது 'நி' வரிசைக்கானது.", "isCorrect": false },
+      { "text": "நீதிநூல் பயில்", "rationale": "இது 'நீ' வரிசைக்கானது.", "isCorrect": false },
+      { "text": "நுனியளவு செல்", "rationale": "இது 'நு' வரிசைக்கானது.", "isCorrect": false }
+    ],
+    "hint": "நூலைப் பகுத்துணர்."
+  }
+]

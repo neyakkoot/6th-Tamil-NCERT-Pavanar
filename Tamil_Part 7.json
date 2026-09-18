@@ -1,0 +1,602 @@
+[
+  {
+    "questionNumber": 1,
+    "question": "இயல் 7-இன் தலைப்பு என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "விலங்குகளும் பறவைகளும் - நம் இயற்கை நண்பர்கள்", "rationale": "இயல் 7-இன் தலைப்பு இதுவே.", "isCorrect": true },
+      { "text": "நல்ல பழக்கவழக்கங்கள்", "rationale": "இது இயல் 6.", "isCorrect": false },
+      { "text": "உயிர் எழுத்துகள்", "rationale": "இது இயல் 1.", "isCorrect": false },
+      { "text": "மெய்யெழுத்துகள்", "rationale": "இது இயல் 2.", "isCorrect": false }
+    ],
+    "hint": "விலங்குகள் + பறவைகள்."
+  },
+  {
+    "questionNumber": 2,
+    "question": "'காட் டின் ராஜா' என்று அழைக்கப்படும் விலங்கு எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "சிங்கம்", "rationale": "சிங்கம் 'காட்டின் ராஜா' எனப்படும்.", "isCorrect": true },
+      { "text": "புலி", "rationale": "புலி வேட்டையாடும் விலங்கு.", "isCorrect": false },
+      { "text": "யானை", "rationale": "யானை பெரிய விலங்கு.", "isCorrect": false },
+      { "text": "கரடி", "rationale": "கரடி காட்டு விலங்கு.", "isCorrect": false }
+    ],
+    "hint": "பாடலில் 'சிங்கம் வருது' என்று வருகிறது."
+  },
+  {
+    "questionNumber": 3,
+    "question": "வலிமையான விலங்கு எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "சிங்கம்", "rationale": "சிங்கம் வலிமையான விலங்கு.", "isCorrect": true },
+      { "text": "முயல்", "rationale": "முயல் சிறிய விலங்கு.", "isCorrect": false },
+      { "text": "மான்", "rationale": "மான் துள்ளும் விலங்கு.", "isCorrect": false },
+      { "text": "குரங்கு", "rationale": "குரங்கு மரத்தில் ஏறும்.", "isCorrect": false }
+    ],
+    "hint": "காட்டின் ராஜா."
+  },
+  {
+    "questionNumber": 4,
+    "question": "பெரிய விலங்கு எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "யானை", "rationale": "யானை பெரிய விலங்கு.", "isCorrect": true },
+      { "text": "நாய்", "rationale": "நாய் சிறிய வீட்டு விலங்கு.", "isCorrect": false },
+      { "text": "பூனை", "rationale": "பூனை சிறிய வீட்டு விலங்கு.", "isCorrect": false },
+      { "text": "எலி", "rationale": "எலி சிறிய விலங்கு.", "isCorrect": false }
+    ],
+    "hint": "பெரிய உடல், நீண்ட தும்பிக்கை."
+  },
+  {
+    "questionNumber": 5,
+    "question": "மரத்தில் ஏறும் விலங்கு எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "குரங்கு", "rationale": "குரங்கு மரத்தில் ஏறும்.", "isCorrect": true },
+      { "text": "யானை", "rationale": "யானை மரத்தில் ஏறாது.", "isCorrect": false },
+      { "text": "குதிரை", "rationale": "குதிரை மரத்தில் ஏறாது.", "isCorrect": false },
+      { "text": "பசு", "rationale": "பசு மரத்தில் ஏறாது.", "isCorrect": false }
+    ],
+    "hint": "மரத்தில் தாவி விளையாடும்."
+  },
+  {
+    "questionNumber": 6,
+    "question": "'காகா' என்று கரையும் பறவை எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "காகம்", "rationale": "காகம் 'காகா' என்று கரையும்.", "isCorrect": true },
+      { "text": "குயில்", "rationale": "குயில் கூவும்.", "isCorrect": false },
+      { "text": "கிளி", "rationale": "கிளி பேசும்.", "isCorrect": false },
+      { "text": "மயில்", "rationale": "மயில் ஆடும்.", "isCorrect": false }
+    ],
+    "hint": "கரைகுரல்."
+  },
+  {
+    "questionNumber": 7,
+    "question": "பேசும் பறவை எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "கிளி", "rationale": "கிளி பேசும்.", "isCorrect": true },
+      { "text": "காகம்", "rationale": "காகம் கரையும்.", "isCorrect": false },
+      { "text": "கோழி", "rationale": "கோழி கூவாது.", "isCorrect": false },
+      { "text": "வாத்து", "rationale": "வாத்து கத்தும்.", "isCorrect": false }
+    ],
+    "hint": "பச்சை நிறம்."
+  },
+  {
+    "questionNumber": 8,
+    "question": "அழகான பறவை எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "மயில்", "rationale": "மயில் அழகான பறவை.", "isCorrect": true },
+      { "text": "காகம்", "rationale": "காகம் கருப்பு நிறம்.", "isCorrect": false },
+      { "text": "பருந்து", "rationale": "பருந்து வேட்டையாடும்.", "isCorrect": false },
+      { "text": "ஆந்தை", "rationale": "ஆந்தை இரவில் வரும்.", "isCorrect": false }
+    ],
+    "hint": "தோகை விரித்து ஆடும்."
+  },
+  {
+    "questionNumber": 9,
+    "question": "கூவும் பறவை எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "குயில்", "rationale": "குயில் கூவும்.", "isCorrect": true },
+      { "text": "காகம்", "rationale": "காகம் கரையும்.", "isCorrect": false },
+      { "text": "கிளி", "rationale": "கிளி பேசும்.", "isCorrect": false },
+      { "text": "மயில்", "rationale": "மயில் ஆடும்.", "isCorrect": false }
+    ],
+    "hint": "இனிய குரல்."
+  },
+  {
+    "questionNumber": 10,
+    "question": "முட்டை இடும் பறவை எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "கோழி", "rationale": "கோழி முட்டை இடும்.", "isCorrect": true },
+      { "text": "காகம்", "rationale": "காகமும் முட்டை இடும், ஆனால் பாடத்தில் கோழி குறிப்பிடப்பட்டுள்ளது.", "isCorrect": false },
+      { "text": "மயில்", "rationale": "மயிலும் முட்டை இடும்.", "isCorrect": false },
+      { "text": "கிளி", "rationale": "கிளியும் முட்டை இடும்.", "isCorrect": false }
+    ],
+    "hint": "வீட்டில் வளர்க்கப்படும்."
+  },
+  {
+    "questionNumber": 11,
+    "question": "வீட்டு விலங்கு எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "நாய்", "rationale": "நாய் வீட்டு விலங்கு.", "isCorrect": true },
+      { "text": "புலி", "rationale": "புலி காட்டு விலங்கு.", "isCorrect": false },
+      { "text": "சிங்கம்", "rationale": "சிங்கம் காட்டு விலங்கு.", "isCorrect": false },
+      { "text": "யானை", "rationale": "யானை காட்டு விலங்கு.", "isCorrect": false }
+    ],
+    "hint": "வீட்டில் வளர்க்கப்படும்."
+  },
+  {
+    "questionNumber": 12,
+    "question": "காட்டு விலங்கு எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "புலி", "rationale": "புலி காட்டு விலங்கு.", "isCorrect": true },
+      { "text": "நாய்", "rationale": "நாய் வீட்டு விலங்கு.", "isCorrect": false },
+      { "text": "பசு", "rationale": "பசு வீட்டு விலங்கு.", "isCorrect": false },
+      { "text": "ஆடு", "rationale": "ஆடு வீட்டு விலங்கு.", "isCorrect": false }
+    ],
+    "hint": "காட்டில் வசிக்கும்."
+  },
+  {
+    "questionNumber": 13,
+    "question": "கீழ்க்கண்டவற்றுள் வீட்டு விலங்கு எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "பசு", "rationale": "பசு வீட்டு விலங்கு.", "isCorrect": true },
+      { "text": "கரடி", "rationale": "கரடி காட்டு விலங்கு.", "isCorrect": false },
+      { "text": "ஓநாய்", "rationale": "ஓநாய் காட்டு விலங்கு.", "isCorrect": false },
+      { "text": "சிறுத்தை", "rationale": "சிறுத்தை காட்டு விலங்கு.", "isCorrect": false }
+    ],
+    "hint": "பால் தரும் விலங்கு."
+  },
+  {
+    "questionNumber": 14,
+    "question": "கீழ்க்கண்டவற்றுள் காட்டு விலங்கு எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "கரடி", "rationale": "கரடி காட்டு விலங்கு.", "isCorrect": true },
+      { "text": "பூனை", "rationale": "பூனை வீட்டு விலங்கு.", "isCorrect": false },
+      { "text": "குதிரை", "rationale": "குதிரை வீட்டு விலங்கு.", "isCorrect": false },
+      { "text": "கழுதை", "rationale": "கழுதை வீட்டு விலங்கு.", "isCorrect": false }
+    ],
+    "hint": "காட்டில் வசிக்கும்."
+  },
+  {
+    "questionNumber": 15,
+    "question": "'பூனை' எந்த வகை விலங்கு?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "வீட்டு விலங்கு", "rationale": "பூனை வீட்டு விலங்கு.", "isCorrect": true },
+      { "text": "காட்டு விலங்கு", "rationale": "பூனை வீட்டில் வளர்க்கப்படும்.", "isCorrect": false },
+      { "text": "நீர்வாழ் விலங்கு", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "பறவை", "rationale": "பூனை பறவை அல்ல.", "isCorrect": false }
+    ],
+    "hint": "வீட்டில் வளர்க்கப்படும்."
+  },
+  {
+    "questionNumber": 16,
+    "question": "'சிறுத்தை' எந்த வகை விலங்கு?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "காட்டு விலங்கு", "rationale": "சிறுத்தை காட்டு விலங்கு.", "isCorrect": true },
+      { "text": "வீட்டு விலங்கு", "rationale": "சிறுத்தை வீட்டில் வளர்க்கப்படாது.", "isCorrect": false },
+      { "text": "பறவை", "rationale": "சிறுத்தை பறவை அல்ல.", "isCorrect": false },
+      { "text": "நீர்வாழ்", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "காட்டில் வசிக்கும்."
+  },
+  {
+    "questionNumber": 17,
+    "question": "Zoo என்பதன் தமிழ்ச் சொல் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "உயிரியல் பூங்கா", "rationale": "Zoo = உயிரியல் பூங்கா.", "isCorrect": true },
+      { "text": "பள்ளி", "rationale": "இது SCHOOL.", "isCorrect": false },
+      { "text": "கடை", "rationale": "இது SHOP.", "isCorrect": false },
+      { "text": "வீடு", "rationale": "இது HOUSE.", "isCorrect": false }
+    ],
+    "hint": "விலங்குகள் வளர்க்கப்படும் இடம்."
+  },
+  {
+    "questionNumber": 18,
+    "question": "Peacock என்பதன் தமிழ்ச் சொல் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "மயில்", "rationale": "Peacock = மயில்.", "isCorrect": true },
+      { "text": "கிளி", "rationale": "இது PARROT.", "isCorrect": false },
+      { "text": "காகம்", "rationale": "இது CROW.", "isCorrect": false },
+      { "text": "குயில்", "rationale": "இது CUCKOO.", "isCorrect": false }
+    ],
+    "hint": "தோகை விரிக்கும்."
+  },
+  {
+    "questionNumber": 19,
+    "question": "Parrot என்பதன் தமிழ்ச் சொல் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "மயில்", "rationale": "இது PEACOCK.", "isCorrect": false },
+      { "text": "கிளி", "rationale": "Parrot = கிளி.", "isCorrect": true },
+      { "text": "காகம்", "rationale": "இது CROW.", "isCorrect": false },
+      { "text": "குயில்", "rationale": "இது CUCKOO.", "isCorrect": false }
+    ],
+    "hint": "பேசும் பறவை."
+  },
+  {
+    "questionNumber": 20,
+    "question": "Lion என்பதன் தமிழ்ச் சொல் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "சிங்கம்", "rationale": "Lion = சிங்கம்.", "isCorrect": true },
+      { "text": "புலி", "rationale": "இது TIGER.", "isCorrect": false },
+      { "text": "கரடி", "rationale": "இது BEAR.", "isCorrect": false },
+      { "text": "சிறுத்தை", "rationale": "இது LEOPARD.", "isCorrect": false }
+    ],
+    "hint": "காட்டின் ராஜா."
+  },
+  {
+    "questionNumber": 21,
+    "question": "Tiger என்பதன் தமிழ்ச் சொல் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "சிங்கம்", "rationale": "இது LION.", "isCorrect": false },
+      { "text": "புலி", "rationale": "Tiger = புலி.", "isCorrect": true },
+      { "text": "கரடி", "rationale": "இது BEAR.", "isCorrect": false },
+      { "text": "சிறுத்தை", "rationale": "இது LEOPARD.", "isCorrect": false }
+    ],
+    "hint": "புள்Lி வருது டோம்."
+  },
+  {
+    "questionNumber": 22,
+    "question": "Bear என்பதன் தமிழ்ச் சொல் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "சிங்கம்", "rationale": "இது LION.", "isCorrect": false },
+      { "text": "புலி", "rationale": "இது TIGER.", "isCorrect": false },
+      { "text": "கரடி", "rationale": "Bear = கரடி.", "isCorrect": true },
+      { "text": "சிறுத்தை", "rationale": "இது LEOPARD.", "isCorrect": false }
+    ],
+    "hint": "கரடி வருது லோம்."
+  },
+  {
+    "questionNumber": 23,
+    "question": "Leopard என்பதன் தமிழ்ச் சொல் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "சிங்கம்", "rationale": "இது LION.", "isCorrect": false },
+      { "text": "புலி", "rationale": "இது TIGER.", "isCorrect": false },
+      { "text": "கரடி", "rationale": "இது BEAR.", "isCorrect": false },
+      { "text": "சிறுத்தை", "rationale": "Leopard = சிறுத்தை.", "isCorrect": true }
+    ],
+    "hint": "வேகமாக ஓடும்."
+  },
+  {
+    "questionNumber": 24,
+    "question": "Owl என்பதன் தமிழ்ச் சொல் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஆந்தை", "rationale": "Owl = ஆந்தை.", "isCorrect": true },
+      { "text": "காகம்", "rationale": "இது CROW.", "isCorrect": false },
+      { "text": "பருந்து", "rationale": "இது EAGLE.", "isCorrect": false },
+      { "text": "கோழி", "rationale": "இது HEN.", "isCorrect": false }
+    ],
+    "hint": "இரவில் கண் தெரியும்."
+  },
+  {
+    "questionNumber": 25,
+    "question": "Crow என்பதன் தமிழ்ச் சொல் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஆந்தை", "rationale": "இது OWL.", "isCorrect": false },
+      { "text": "காகம்", "rationale": "Crow = காகம்.", "isCorrect": true },
+      { "text": "பருந்து", "rationale": "இது EAGLE.", "isCorrect": false },
+      { "text": "கோழி", "rationale": "இது HEN.", "isCorrect": false }
+    ],
+    "hint": "கரைகுரல்."
+  },
+  {
+    "questionNumber": 26,
+    "question": "Eagle என்பதன் தமிழ்ச் சொல் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஆந்தை", "rationale": "இது OWL.", "isCorrect": false },
+      { "text": "காகம்", "rationale": "இது CROW.", "isCorrect": false },
+      { "text": "பருந்து", "rationale": "Eagle = பருந்து.", "isCorrect": true },
+      { "text": "கோழி", "rationale": "இது HEN.", "isCorrect": false }
+    ],
+    "hint": "உயரத்தில் பறக்கும்."
+  },
+  {
+    "questionNumber": 27,
+    "question": "Dog என்பதன் தமிழ்ச் சொல் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "நாய்", "rationale": "Dog = நாய்.", "isCorrect": true },
+      { "text": "பூனை", "rationale": "இது CAT.", "isCorrect": false },
+      { "text": "பசு", "rationale": "இது COW.", "isCorrect": false },
+      { "text": "குதிரை", "rationale": "இது HORSE.", "isCorrect": false }
+    ],
+    "hint": "வீட்டு விலங்கு."
+  },
+  {
+    "questionNumber": 28,
+    "question": "Cat என்பதன் தமிழ்ச் சொல் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "நாய்", "rationale": "இது DOG.", "isCorrect": false },
+      { "text": "பூனை", "rationale": "Cat = பூனை.", "isCorrect": true },
+      { "text": "பசு", "rationale": "இது COW.", "isCorrect": false },
+      { "text": "குதிரை", "rationale": "இது HORSE.", "isCorrect": false }
+    ],
+    "hint": "எலி பிடிக்கும்."
+  },
+  {
+    "questionNumber": 29,
+    "question": "Cow என்பதன் தமிழ்ச் சொல் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "நாய்", "rationale": "இது DOG.", "isCorrect": false },
+      { "text": "பூனை", "rationale": "இது CAT.", "isCorrect": false },
+      { "text": "பசு", "rationale": "Cow = பசு.", "isCorrect": true },
+      { "text": "குதிரை", "rationale": "இது HORSE.", "isCorrect": false }
+    ],
+    "hint": "பால் தரும்."
+  },
+  {
+    "questionNumber": 30,
+    "question": "Horse என்பதன் தமிழ்ச் சொல் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "நாய்", "rationale": "இது DOG.", "isCorrect": false },
+      { "text": "பூனை", "rationale": "இது CAT.", "isCorrect": false },
+      { "text": "பசு", "rationale": "இது COW.", "isCorrect": false },
+      { "text": "குதிரை", "rationale": "Horse = குதிரை.", "isCorrect": true }
+    ],
+    "hint": "வேகமாக ஓடும்."
+  },
+  {
+    "questionNumber": 31,
+    "question": "Donkey என்பதன் தமிழ்ச் சொல் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "கழுதை", "rationale": "Donkey = கழுதை.", "isCorrect": true },
+      { "text": "குதிரை", "rationale": "இது HORSE.", "isCorrect": false },
+      { "text": "பசு", "rationale": "இது COW.", "isCorrect": false },
+      { "text": "ஆடு", "rationale": "இது GOAT.", "isCorrect": false }
+    ],
+    "hint": "சுமை தாங்கும்."
+  },
+  {
+    "questionNumber": 32,
+    "question": "Goat என்பதன் தமிழ்ச் சொல் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "கழுதை", "rationale": "இது DONKEY.", "isCorrect": false },
+      { "text": "ஆடு", "rationale": "Goat = ஆடு.", "isCorrect": true },
+      { "text": "பசு", "rationale": "இது COW.", "isCorrect": false },
+      { "text": "குதிரை", "rationale": "இது HORSE.", "isCorrect": false }
+    ],
+    "hint": "பால் தரும்."
+  },
+  {
+    "questionNumber": 33,
+    "question": "திணை என்பது என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "வகுப்பு அல்லது பிரிவு", "rationale": "திணை என்பது வகுப்பு அல்லது பிரிவு.", "isCorrect": true },
+      { "text": "எழுத்து", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "சொல்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "எண்", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "பிரிவு."
+  },
+  {
+    "questionNumber": 34,
+    "question": "திணை எத்தனை வகைப்படும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "2", "rationale": "உயர்திணை, அஃறிணை என இரண்டு வகை.", "isCorrect": true },
+      { "text": "3", "rationale": "இரண்டு வகை மட்டுமே.", "isCorrect": false },
+      { "text": "4", "rationale": "இரண்டு வகை மட்டுமே.", "isCorrect": false },
+      { "text": "5", "rationale": "இரண்டு வகை மட்டுமே.", "isCorrect": false }
+    ],
+    "hint": "உயர்திணை, அஃறிணை."
+  },
+  {
+    "questionNumber": 35,
+    "question": "உயர்திணை என்பது என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஆறறிவு உடைய, பகுத்தறியும் திறன் பெற்றவை", "rationale": "ஆறறிவு உடைய, பகுத்தறியும் திறன் பெற்றவை உயர்திணை.", "isCorrect": true },
+      { "text": "உயிரற்றவை", "rationale": "இது அஃறிணை.", "isCorrect": false },
+      { "text": "தாவரங்கள்", "rationale": "இவை அஃறிணை.", "isCorrect": false },
+      { "text": "விலங்குகள்", "rationale": "இவை அஃறிணை.", "isCorrect": false }
+    ],
+    "hint": "மக்கள்."
+  },
+  {
+    "questionNumber": 36,
+    "question": "அஃறிணை என்பது என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "பகுத்தறியும் திறனற்ற, உயிருள்ளவை மற்றும் உயிரற்றவை", "rationale": "பகுத்தறியும் திறனற்றவை அஃறிணை.", "isCorrect": true },
+      { "text": "மக்கள்", "rationale": "இவை உயர்திணை.", "isCorrect": false },
+      { "text": "ஆறறிவு உடையவை", "rationale": "இவை உயர்திணை.", "isCorrect": false },
+      { "text": "பகுத்தறியும் திறன் பெற்றவை", "rationale": "இவை உயர்திணை.", "isCorrect": false }
+    ],
+    "hint": "மரம், செடி, விலங்கு."
+  },
+  {
+    "questionNumber": 37,
+    "question": "எண் 1-இன் தமிழ்ப் பெயர் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஒன்று", "rationale": "1 = ஒன்று.", "isCorrect": true },
+      { "text": "இரண்டு", "rationale": "இது 2.", "isCorrect": false },
+      { "text": "மூன்று", "rationale": "இது 3.", "isCorrect": false },
+      { "text": "நான்கு", "rationale": "இது 4.", "isCorrect": false }
+    ],
+    "hint": "முதல் எண்."
+  },
+  {
+    "questionNumber": 38,
+    "question": "எண் 10-இன் தமிழ்ப் பெயர் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஒன்பது", "rationale": "இது 9.", "isCorrect": false },
+      { "text": "பத்து", "rationale": "10 = பத்து.", "isCorrect": true },
+      { "text": "பதினொன்று", "rationale": "இது 11.", "isCorrect": false },
+      { "text": "இருபது", "rationale": "இது 20.", "isCorrect": false }
+    ],
+    "hint": "பத்து விரல்."
+  },
+  {
+    "questionNumber": 39,
+    "question": "எண் 20-இன் தமிழ்ப் பெயர் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "பத்து", "rationale": "இது 10.", "isCorrect": false },
+      { "text": "பதினொன்று", "rationale": "இது 11.", "isCorrect": false },
+      { "text": "இருபது", "rationale": "20 = இருபது.", "isCorrect": true },
+      { "text": "முப்பது", "rationale": "இது 30.", "isCorrect": false }
+    ],
+    "hint": "இரு பத்து."
+  },
+  {
+    "questionNumber": 40,
+    "question": "எண் 50-இன் தமிழ்ப் பெயர் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "நாற்பது", "rationale": "இது 40.", "isCorrect": false },
+      { "text": "ஐம்பது", "rationale": "50 = ஐம்பது.", "isCorrect": true },
+      { "text": "அறுபது", "rationale": "இது 60.", "isCorrect": false },
+      { "text": "எழுபது", "rationale": "இது 70.", "isCorrect": false }
+    ],
+    "hint": "ஐந்து பத்து."
+  },
+  {
+    "questionNumber": 41,
+    "question": "எண் 100-இன் தமிழ்ப் பெயர் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "தொண்ணூறு", "rationale": "இது 90.", "isCorrect": false },
+      { "text": "நூறு", "rationale": "100 = நூறு.", "isCorrect": true },
+      { "text": "எண்பது", "rationale": "இது 80.", "isCorrect": false },
+      { "text": "அறுபது", "rationale": "இது 60.", "isCorrect": false }
+    ],
+    "hint": "பத்து பத்து."
+  },
+  {
+    "questionNumber": 42,
+    "question": "எண் 13-இன் தமிழ்ப் பெயர் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "பன்னிரண்டு", "rationale": "இது 12.", "isCorrect": false },
+      { "text": "பதிமூன்று", "rationale": "13 = பதிமூன்று.", "isCorrect": true },
+      { "text": "பதினான்கு", "rationale": "இது 14.", "isCorrect": false },
+      { "text": "பதினைந்து", "rationale": "இது 15.", "isCorrect": false }
+    ],
+    "hint": "பத்து + மூன்று."
+  },
+  {
+    "questionNumber": 43,
+    "question": "எண் 25-இன் தமிழ்ப் பெயர் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "இருபத்துநான்கு", "rationale": "இது 24.", "isCorrect": false },
+      { "text": "இருபத்தைந்து", "rationale": "25 = இருபத்தைந்து.", "isCorrect": true },
+      { "text": "இருபத்தாறு", "rationale": "இது 26.", "isCorrect": false },
+      { "text": "முப்பது", "rationale": "இது 30.", "isCorrect": false }
+    ],
+    "hint": "இருபது + ஐந்து."
+  },
+  {
+    "questionNumber": 44,
+    "question": "திருக்குறளில் இடம்பெற்றுள்ள பறவைகள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "காகம், கொக்கு, அன்னம், கூகை (ஆந்தை)", "rationale": "இவையே திருக்குறளில் இடம்பெற்ற பறவைகள்.", "isCorrect": true },
+      { "text": "கிளி, மயில், குயில், வாத்து", "rationale": "இவை குறளில் இடம்பெறவில்லை.", "isCorrect": false },
+      { "text": "பருந்து, கழுகு, ஆந்தை, காகம்", "rationale": "சில மட்டுமே.", "isCorrect": false },
+      { "text": "கோழி, சேவல், வாத்து, கிளி", "rationale": "இவை குறளில் இடம்பெறவில்லை.", "isCorrect": false }
+    ],
+    "hint": "காகம், கொக்கு, அன்னம், கூகை."
+  },
+  {
+    "questionNumber": 45,
+    "question": "'காக்கை கரவா கரைந்துண்ணும்' என்ற குறளின் குறள் எண் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "527", "rationale": "இக்குறளின் குறள் எண் 527.", "isCorrect": true },
+      { "text": "392", "rationale": "இது 'எண்ணென்ப' குறள்.", "isCorrect": false },
+      { "text": "481", "rationale": "இது 'பகல்வெல்லும்' குறள்.", "isCorrect": false },
+      { "text": "948", "rationale": "இது 'நோய்நாடி' குறள்.", "isCorrect": false }
+    ],
+    "hint": "குறள் 527 — பகிர்ந்து உண்ணுதல்."
+  },
+  {
+    "questionNumber": 46,
+    "question": "'குட்டிப் பையனும் குருவிக்குஞ்சும்' கதையில் அருண் யாருடன் பறவைகள் சரணாலயத்திற்குச் சென்றான்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "தாத்தாவுடன்", "rationale": "அருண் தன் தாத்தாவுடன் சென்றான்.", "isCorrect": true },
+      { "text": "அம்மாவுடன்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "அப்பாவுடன்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "நண்பனுடன்", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "தாத்தா."
+  },
+  {
+    "questionNumber": 47,
+    "question": "கதையில் அருணும் தாத்தாவும் என்ன செய்தார்கள்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "விழுந்த குருவிக்குஞ்சுக்கு உதவினார்கள்", "rationale": "விழுந்த குருவிக்குஞ்சை மீண்டும் கூட்டில் வைத்தார்கள்.", "isCorrect": true },
+      { "text": "பறவைகளைப் பிடித்தார்கள்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "மரம் வெட்டினார்கள்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "வீட்டிற்குத் திரும்பினார்கள்", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "பிற உயிர்களுக்கு உதவு."
+  },
+  {
+    "questionNumber": 48,
+    "question": "'பிற உயிர்களுக்கு உதவுவது மிகப் பெரிய நற்செயல்' என்று கூறியவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "தாத்தா", "rationale": "தாத்தா தான் இதைக் கூறினார்.", "isCorrect": true },
+      { "text": "அருண்", "rationale": "அருண் 'நல்ல வேலை செய்தோம்' என்றான்.", "isCorrect": false },
+      { "text": "அம்மா", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "ஆசிரியர்", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "தாத்தா."
+  },
+  {
+    "questionNumber": 49,
+    "question": "'சிங்கம் வருது சிங்கம் வருது' பாடலில் சிங்கம் எவ்வாறு அழைக்கப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "காட்டின் ராஜா", "rationale": "பாடலில் சிங்கம் 'காட்டின் ராஜா' என அழைக்கப்படுகிறது.", "isCorrect": true },
+      { "text": "வனத்தின் அரசன்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "மிருகங்களின் தலைவன்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "காட்டின் தலைவன்", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "ராஜா."
+  },
+  {
+    "questionNumber": 50,
+    "question": "'உலக நீதி'யில் கூறப்பட்டுள்ள வரிகள் எத்தனை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "3", "rationale": "உலக நீதியில் மூன்று வரிகள் கூறப்பட்டுள்ளன.", "isCorrect": true },
+      { "text": "2", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "4", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "5", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "மூன்று வரிகள்."
+  }
+]

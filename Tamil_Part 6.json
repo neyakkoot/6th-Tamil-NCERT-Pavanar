@@ -1,0 +1,602 @@
+[
+  {
+    "questionNumber": 1,
+    "question": "நல்ல பழக்கவழக்கங்கள் பற்றிய இயல் 6-இன் தலைப்பு என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "நல்ல பழக்கவழக்கங்கள்! இன்று பழகிடு! நாளை உயர்ந்திடு!", "rationale": "இயல் 6-இன் தலைப்பு இதுவே.", "isCorrect": true },
+      { "text": "உயிர் எழுத்துகள்", "rationale": "இது இயல் 1.", "isCorrect": false },
+      { "text": "மெய்யெழுத்துகள்", "rationale": "இது இயல் 2.", "isCorrect": false },
+      { "text": "உயிர்மெய் எழுத்துகள்", "rationale": "இது இயல் 3, 4, 5.", "isCorrect": false }
+    ],
+    "hint": "இன்று பழகிடு! நாளை உயர்ந்திடு!"
+  },
+  {
+    "questionNumber": 2,
+    "question": "அதிகாலையில் எழுந்தவுடன் முதலில் செய்ய வேண்டியது என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "பல் துலக்குதல்", "rationale": "அதிகாலையில் எழுந்து முதலில் பல் துலக்க வேண்டும்.", "isCorrect": true },
+      { "text": "தொலைக்காட்சி பார்த்தல்", "rationale": "இது நல்ல பழக்கம் அல்ல.", "isCorrect": false },
+      { "text": "விளையாடுதல்", "rationale": "இது காலை நேரத்தில் முதலில் செய்ய வேண்டியது அல்ல.", "isCorrect": false },
+      { "text": "உணவு உண்ணுதல்", "rationale": "பல் துலக்கிய பிறகே உண்ண வேண்டும்.", "isCorrect": false }
+    ],
+    "hint": "வாய் சுத்தமாக இருக்க வேண்டும்."
+  },
+  {
+    "questionNumber": 3,
+    "question": "காலையில் எழுந்த பிறகு எதைச் செய்ய வேண்டும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "நன்னீராடுதல்", "rationale": "காலையில் நன்னீராடுவது நல்ல பழக்கம்.", "isCorrect": true },
+      { "text": "தூங்குதல்", "rationale": "இது நல்ல பழக்கம் அல்ல.", "isCorrect": false },
+      { "text": "படிக்காமல் இருத்தல்", "rationale": "இது சரியல்ல.", "isCorrect": false },
+      { "text": "வெளியே சுற்றுதல்", "rationale": "இது முதலில் செய்ய வேண்டியது அல்ல.", "isCorrect": false }
+    ],
+    "hint": "உடலைச் சுத்தமாக வைத்திரு."
+  },
+  {
+    "questionNumber": 4,
+    "question": "காலை உணவை எவ்வாறு உண்ண வேண்டும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "காலை உணவை உட்கொள்ள வேண்டும்", "rationale": "காலை உணவை உட்கொள்வது நல்ல பழக்கம்.", "isCorrect": true },
+      { "text": "காலை உணவைத் தவிர்க்க வேண்டும்", "rationale": "இது உடல்நலத்திற்கு கெடுதல்.", "isCorrect": false },
+      { "text": "வேகமாக உண்ண வேண்டும்", "rationale": "நிதானமாக உண்ண வேண்டும்.", "isCorrect": false },
+      { "text": "நின்று கொண்டு உண்ண வேண்டும்", "rationale": "உட்கார்ந்து உண்ண வேண்டும்.", "isCorrect": false }
+    ],
+    "hint": "காலை உணவு மிக முக்கியம்."
+  },
+  {
+    "questionNumber": 5,
+    "question": "பள்ளிக்குச் செல்வதற்கு முன் யாரை வணங்க வேண்டும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "பெற்றோரை", "rationale": "பள்ளிக்குச் செல்வதற்கு முன் பெற்றோரை வணங்க வேண்டும்.", "isCorrect": true },
+      { "text": "நண்பர்களை", "rationale": "நண்பர்களை வணங்க வேண்டியதில்லை.", "isCorrect": false },
+      { "text": "தெருவில் உள்ளவர்களை", "rationale": "இது அவசியமில்லை.", "isCorrect": false },
+      { "text": "கடைக்காரரை", "rationale": "இது அவசியமில்லை.", "isCorrect": false }
+    ],
+    "hint": "பெற்றோர் நமக்கு முதல் கuru."
+  },
+  {
+    "questionNumber": 6,
+    "question": "மாலை முடிந்த பிறகு எதைச் செய்ய வேண்டும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "விளையாட வேண்டும்", "rationale": "மாலை நேரத்தில் விளையாடுவது உடல்நலத்திற்கு நல்லது.", "isCorrect": true },
+      { "text": "உடனே தூங்க வேண்டும்", "rationale": "இது சரியல்ல.", "isCorrect": false },
+      { "text": "தொலைக்காட்சி மட்டும் பார்க்க வேண்டும்", "rationale": "இது நல்ல பழக்கம் அல்ல.", "isCorrect": false },
+      { "text": "படிக்காமல் இருக்க வேண்டும்", "rationale": "இது சரியல்ல.", "isCorrect": false }
+    ],
+    "hint": "உடற்பயிற்சியும் விளையாட்டும் முக்கியம்."
+  },
+  {
+    "questionNumber": 7,
+    "question": "உடற்பயிற்சி செய்வதால் என்ன பயன்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "உடல் ஆரோக்கியமாக இருக்கும்", "rationale": "உடற்பயிற்சி உடலை ஆரோக்கியமாக வைத்திருக்கும்.", "isCorrect": true },
+      { "text": "உடல் சோர்வடையும்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "நோய் வரும்", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "படிக்க முடியாது", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "உடல் உறுதி பெறும்."
+  },
+  {
+    "questionNumber": 8,
+    "question": "அன்றாடம் என்ன செய்ய வேண்டும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "பாடங்களைப் படிக்க வேண்டும்", "rationale": "அன்றாடம் பாடங்களைப் படிப்பது நல்ல பழக்கம்.", "isCorrect": true },
+      { "text": "விளையாட மட்டும் வேண்டும்", "rationale": "இது சரியல்ல.", "isCorrect": false },
+      { "text": "தூங்க மட்டும் வேண்டும்", "rationale": "இது சரியல்ல.", "isCorrect": false },
+      { "text": "எதுவும் செய்ய வேண்டாம்", "rationale": "இது சரியல்ல.", "isCorrect": false }
+    ],
+    "hint": "கல்வி முக்கியம்."
+  },
+  {
+    "questionNumber": 9,
+    "question": "எப்போது உறங்கச் செல்ல வேண்டும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "நேரத்தில் உறங்கச் செல்ல வேண்டும்", "rationale": "நேரத்தில் உறங்குவது நல்ல பழக்கம்.", "isCorrect": true },
+      { "text": "நள்ளிரவில் உறங்க வேண்டும்", "rationale": "இது உடல்நலத்திற்கு கெடுதல்.", "isCorrect": false },
+      { "text": "அதிகாலையில் உறங்க வேண்டும்", "rationale": "இது சரியல்ல.", "isCorrect": false },
+      { "text": "உறங்கவே கூடாது", "rationale": "இது சரியல்ல.", "isCorrect": false }
+    ],
+    "hint": "உடலுக்கு ஓய்வு தேவை."
+  },
+  {
+    "questionNumber": 10,
+    "question": "நல்ல உடல்நலத்திற்கு எது தேவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "உடற்பயிற்சி, சுத்தம், சத்தான உணவு", "rationale": "இவை அனைத்தும் நல்ல உடல்நலத்திற்குத் தேவை.", "isCorrect": true },
+      { "text": "வெறும் உணவு மட்டும்", "rationale": "இது மட்டும் போதாது.", "isCorrect": false },
+      { "text": "வெறும் தூக்கம் மட்டும்", "rationale": "இது மட்டும் போதாது.", "isCorrect": false },
+      { "text": "வெறும் விளையாட்டு மட்டும்", "rationale": "இது மட்டும் போதாது.", "isCorrect": false }
+    ],
+    "hint": "பல காரணிகள் தேவை."
+  },
+  {
+    "questionNumber": 11,
+    "question": "'சுத்தம் சோறு போடும்' என்பது என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "பழமொழி", "rationale": "'சுத்தம் சோறு போடும்' ஒரு பழமொழி.", "isCorrect": true },
+      { "text": "குறள்", "rationale": "இது குறள் அல்ல.", "isCorrect": false },
+      { "text": "பாடல்", "rationale": "இது பாடல் அல்ல.", "isCorrect": false },
+      { "text": "கதை", "rationale": "இது கதை அல்ல.", "isCorrect": false }
+    ],
+    "hint": "முன்னோர் கூற்று."
+  },
+  {
+    "questionNumber": 12,
+    "question": "'நோயற்ற வாழ்வே குறைவற்ற செல்வம்' என்பது என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "பழமொழி", "rationale": "இது ஒரு பழமொழி.", "isCorrect": true },
+      { "text": "குறள்", "rationale": "இது குறள் அல்ல.", "isCorrect": false },
+      { "text": "பாடல்", "rationale": "இது பாடல் அல்ல.", "isCorrect": false },
+      { "text": "கதை", "rationale": "இது கதை அல்ல.", "isCorrect": false }
+    ],
+    "hint": "ஆரோக்கியம் மிக முக்கியம்."
+  },
+  {
+    "questionNumber": 13,
+    "question": "'நொறுங்கத் தின்றால் நூறு வயது' என்பது என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "பழமொழி", "rationale": "இது ஒரு பழமொழி.", "isCorrect": true },
+      { "text": "குறள்", "rationale": "இது குறள் அல்ல.", "isCorrect": false },
+      { "text": "பாடல்", "rationale": "இது பாடல் அல்ல.", "isCorrect": false },
+      { "text": "கதை", "rationale": "இது கதை அல்ல.", "isCorrect": false }
+    ],
+    "hint": "நிதானமாக உண்ண வேண்டும்."
+  },
+  {
+    "questionNumber": 14,
+    "question": "'சிறு துளி பெரு வெள்ளம்' என்பது என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "பழமொழி", "rationale": "இது ஒரு பழமொழி.", "isCorrect": true },
+      { "text": "குறள்", "rationale": "இது குறள் அல்ல.", "isCorrect": false },
+      { "text": "பாடல்", "rationale": "இது பாடல் அல்ல.", "isCorrect": false },
+      { "text": "கதை", "rationale": "இது கதை அல்ல.", "isCorrect": false }
+    ],
+    "hint": "சிறிய முயற்சி பெரிய பயன்."
+  },
+  {
+    "questionNumber": 15,
+    "question": "'முயற்சி திருவினையாக்கும்' என்பது என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "பழமொழி", "rationale": "இது ஒரு பழமொழி.", "isCorrect": true },
+      { "text": "குறள்", "rationale": "இது குறள் அல்ல.", "isCorrect": false },
+      { "text": "பாடல்", "rationale": "இது பாடல் அல்ல.", "isCorrect": false },
+      { "text": "கதை", "rationale": "இது கதை அல்ல.", "isCorrect": false }
+    ],
+    "hint": "முயற்சி திருவினையாக்கும்."
+  },
+  {
+    "questionNumber": 16,
+    "question": "'காலம் பொன் போன்றது' என்பது என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "பழமொழி", "rationale": "இது ஒரு பழமொழி.", "isCorrect": true },
+      { "text": "குறள்", "rationale": "இது குறள் அல்ல.", "isCorrect": false },
+      { "text": "பாடல்", "rationale": "இது பாடல் அல்ல.", "isCorrect": false },
+      { "text": "கதை", "rationale": "இது கதை அல்ல.", "isCorrect": false }
+    ],
+    "hint": "நேரத்தை வீணாக்காதே."
+  },
+  {
+    "questionNumber": 17,
+    "question": "'ஒழுக்கம்' என்பதன் ஆங்கிலச் சொல் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Discipline", "rationale": "ஒழுக்கம் = Discipline.", "isCorrect": true },
+      { "text": "Truth", "rationale": "இது உண்மை.", "isCorrect": false },
+      { "text": "Respect", "rationale": "இது மரியாதை.", "isCorrect": false },
+      { "text": "Helping", "rationale": "இது உதவுதல்.", "isCorrect": false }
+    ],
+    "hint": "நல்ல நடத்தை."
+  },
+  {
+    "questionNumber": 18,
+    "question": "'உண்மை' என்பதன் ஆங்கிலச் சொல் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Discipline", "rationale": "இது ஒழுக்கம்.", "isCorrect": false },
+      { "text": "Truth", "rationale": "உண்மை = Truth.", "isCorrect": true },
+      { "text": "Respect", "rationale": "இது மரியாதை.", "isCorrect": false },
+      { "text": "Helping", "rationale": "இது உதவுதல்.", "isCorrect": false }
+    ],
+    "hint": "பொய் சொல்லாதே."
+  },
+  {
+    "questionNumber": 19,
+    "question": "'மரியாதை' என்பதன் ஆங்கிலச் சொல் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Discipline", "rationale": "இது ஒழுக்கம்.", "isCorrect": false },
+      { "text": "Truth", "rationale": "இது உண்மை.", "isCorrect": false },
+      { "text": "Respect", "rationale": "மரியாதை = Respect.", "isCorrect": true },
+      { "text": "Helping", "rationale": "இது உதவுதல்.", "isCorrect": false }
+    ],
+    "hint": "பெரியவர்களை மதி."
+  },
+  {
+    "questionNumber": 20,
+    "question": "'உதவுதல்' என்பதன் ஆங்கிலச் சொல் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Discipline", "rationale": "இது ஒழுக்கம்.", "isCorrect": false },
+      { "text": "Truth", "rationale": "இது உண்மை.", "isCorrect": false },
+      { "text": "Respect", "rationale": "இது மரியாதை.", "isCorrect": false },
+      { "text": "Helping", "rationale": "உதவுதல் = Helping.", "isCorrect": true }
+    ],
+    "hint": "பிறருக்கு உதவு."
+  },
+  {
+    "questionNumber": 21,
+    "question": "'தூய்மை' என்பதன் ஆங்கிலச் சொல் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Discipline", "rationale": "இது ஒழுக்கம்.", "isCorrect": false },
+      { "text": "Truth", "rationale": "இது உண்மை.", "isCorrect": false },
+      { "text": "Cleanliness", "rationale": "தூய்மை = Cleanliness.", "isCorrect": true },
+      { "text": "Helping", "rationale": "இது உதவுதல்.", "isCorrect": false }
+    ],
+    "hint": "சுத்தமாக இரு."
+  },
+  {
+    "questionNumber": 22,
+    "question": "'மலர்' என்பது ஒருமையா, பன்மையா?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஒருமை", "rationale": "'மலர்' ஒரு பொருளைக் குறிக்கும், எனவே ஒருமை.", "isCorrect": true },
+      { "text": "பன்மை", "rationale": "இது ஒரு பொருளைக் குறிக்கிறது.", "isCorrect": false },
+      { "text": "இரண்டும்", "rationale": "இது ஒருமை மட்டுமே.", "isCorrect": false },
+      { "text": "எதுவும் இல்லை", "rationale": "இது ஒருமை.", "isCorrect": false }
+    ],
+    "hint": "ஒரு மலர்."
+  },
+  {
+    "questionNumber": 23,
+    "question": "'மலர்கள்' என்பது ஒருமையா, பன்மையா?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஒருமை", "rationale": "இது பல பொருள்களைக் குறிக்கிறது.", "isCorrect": false },
+      { "text": "பன்மை", "rationale": "'மலர்கள்' பல பொருள்களைக் குறிக்கும், எனவே பன்மை.", "isCorrect": true },
+      { "text": "இரண்டும்", "rationale": "இது பன்மை மட்டுமே.", "isCorrect": false },
+      { "text": "எதுவும் இல்லை", "rationale": "இது பன்மை.", "isCorrect": false }
+    ],
+    "hint": "பல மலர்கள்."
+  },
+  {
+    "questionNumber": 24,
+    "question": "'நாய்' என்பதன் பன்மை வடிவம் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "நாய்கள்", "rationale": "'நாய்' என்பதன் பன்மை 'நாய்கள்'.", "isCorrect": true },
+      { "text": "நாய்", "rationale": "இது ஒருமை.", "isCorrect": false },
+      { "text": "நாய்க", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "நாயிகள்", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "கள் விகுதி சேர்."
+  },
+  {
+    "questionNumber": 25,
+    "question": "'பறவை' என்பதன் பன்மை வடிவம் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "பறவைகள்", "rationale": "'பறவை' என்பதன் பன்மை 'பறவைகள்'.", "isCorrect": true },
+      { "text": "பறவை", "rationale": "இது ஒருமை.", "isCorrect": false },
+      { "text": "பறவைக", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "பறவைகள்", "rationale": "இது சரியே, ஆனால் இது தான் சரியான விடை.", "isCorrect": false }
+    ],
+    "hint": "கள் விகுதி சேர்."
+  },
+  {
+    "questionNumber": 26,
+    "question": "'குடை' என்பதன் பன்மை வடிவம் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "குடைகள்", "rationale": "'குடை' என்பதன் பன்மை 'குடைகள்'.", "isCorrect": true },
+      { "text": "குடை", "rationale": "இது ஒருமை.", "isCorrect": false },
+      { "text": "குடைக", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "குடையின்", "rationale": "இது வேற்றுமை வடிவம்.", "isCorrect": false }
+    ],
+    "hint": "கள் விகுதி சேர்."
+  },
+  {
+    "questionNumber": 27,
+    "question": "'மீன்' என்பதன் பன்மை வடிவம் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "மீன்கள்", "rationale": "'மீன்' என்பதன் பன்மை 'மீன்கள்'.", "isCorrect": true },
+      { "text": "மீன்", "rationale": "இது ஒருமை.", "isCorrect": false },
+      { "text": "மீன்க", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "மீனின்", "rationale": "இது வேற்றுமை வடிவம்.", "isCorrect": false }
+    ],
+    "hint": "கள் விகுதி சேர்."
+  },
+  {
+    "questionNumber": 28,
+    "question": "'மலை' என்பதன் பன்மை வடிவம் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "மலைகள்", "rationale": "'மலை' என்பதன் பன்மை 'மலைகள்'.", "isCorrect": true },
+      { "text": "மலை", "rationale": "இது ஒருமை.", "isCorrect": false },
+      { "text": "மலைக", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "மலையின்", "rationale": "இது வேற்றுமை வடிவம்.", "isCorrect": false }
+    ],
+    "hint": "கள் விகுதி சேர்."
+  },
+  {
+    "questionNumber": 29,
+    "question": "'பூனை' என்பதன் பன்மை வடிவம் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "பூனைகள்", "rationale": "'பூனை' என்பதன் பன்மை 'பூனைகள்'.", "isCorrect": true },
+      { "text": "பூனை", "rationale": "இது ஒருமை.", "isCorrect": false },
+      { "text": "பூனைக", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "பூனையின்", "rationale": "இது வேற்றுமை வடிவம்.", "isCorrect": false }
+    ],
+    "hint": "கள் விகுதி சேர்."
+  },
+  {
+    "questionNumber": 30,
+    "question": "'முட்டை' என்பதன் பன்மை வடிவம் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "முட்டைகள்", "rationale": "'முட்டை' என்பதன் பன்மை 'முட்டைகள்'.", "isCorrect": true },
+      { "text": "முட்டை", "rationale": "இது ஒருமை.", "isCorrect": false },
+      { "text": "முட்டைக", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "முட்டையின்", "rationale": "இது வேற்றுமை வடிவம்.", "isCorrect": false }
+    ],
+    "hint": "கள் விகுதி சேர்."
+  },
+  {
+    "questionNumber": 31,
+    "question": "'கிளி' என்பதன் பன்மை வடிவம் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "கிளிகள்", "rationale": "'கிளி' என்பதன் பன்மை 'கிளிகள்'.", "isCorrect": true },
+      { "text": "கிளி", "rationale": "இது ஒருமை.", "isCorrect": false },
+      { "text": "கிளிக", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "கிளியின்", "rationale": "இது வேற்றுமை வடிவம்.", "isCorrect": false }
+    ],
+    "hint": "கள் விகுதி சேர்."
+  },
+  {
+    "questionNumber": 32,
+    "question": "'வீடு' என்பதன் பன்மை வடிவம் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "வீடுகள்", "rationale": "'வீடு' என்பதன் பன்மை 'வீடுகள்'.", "isCorrect": true },
+      { "text": "வீடு", "rationale": "இது ஒருமை.", "isCorrect": false },
+      { "text": "வீடுக", "rationale": "இது தவறு.", "isCorrect": false },
+      { "text": "வீட்டின்", "rationale": "இது வேற்றுமை வடிவம்.", "isCorrect": false }
+    ],
+    "hint": "கள் விகுதி சேர்."
+  },
+  {
+    "questionNumber": 33,
+    "question": "ஒருமை என்பது என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஒன்றைக் குறிப்பது", "rationale": "ஒன்றைக் குறிப்பது ஒருமை.", "isCorrect": true },
+      { "text": "பலவற்றைக் குறிப்பது", "rationale": "இது பன்மை.", "isCorrect": false },
+      { "text": "இரண்டைக் குறிப்பது", "rationale": "இது இரட்டை.", "isCorrect": false },
+      { "text": "எதையும் குறிப்பதில்லை", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "ஒரு பொருள்."
+  },
+  {
+    "questionNumber": 34,
+    "question": "பன்மை என்பது என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஒன்றைக் குறிப்பது", "rationale": "இது ஒருமை.", "isCorrect": false },
+      { "text": "ஒன்றுக்கு மேற்பட்டவற்றைக் குறிப்பது", "rationale": "ஒன்றுக்கு மேற்பட்டவற்றைக் குறிப்பது பன்மை.", "isCorrect": true },
+      { "text": "இரண்டைக் குறிப்பது", "rationale": "இது இரட்டை.", "isCorrect": false },
+      { "text": "எதையும் குறிப்பதில்லை", "rationale": "இது தவறு.", "isCorrect": false }
+    ],
+    "hint": "பல பொருள்கள்."
+  },
+  {
+    "questionNumber": 35,
+    "question": "'நல்ல பழக்கவழக்கங்கள்' என்ற இயலில் கூறப்படும் முதல் பழக்கம் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "அதிகாலையில் எழுதல்", "rationale": "அதிகாலையில் எழுவது முதல் நல்ல பழக்கம்.", "isCorrect": true },
+      { "text": "தொலைக்காட்சி பார்த்தல்", "rationale": "இது நல்ல பழக்கம் அல்ல.", "isCorrect": false },
+      { "text": "தூங்குதல்", "rationale": "இது சரியல்ல.", "isCorrect": false },
+      { "text": "விளையாடுதல்", "rationale": "இது சரியல்ல.", "isCorrect": false }
+    ],
+    "hint": "காலையில் எழுந்து."
+  },
+  {
+    "questionNumber": 36,
+    "question": "பள்ளிக்குச் செல்லும் முன் பெற்றோரை வணங்குவது ஏன்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "பெற்றோர் நமக்கு முதல் guru", "rationale": "பெற்றோர் நமக்கு முதல் guru என்பதால் வணங்க வேண்டும்.", "isCorrect": true },
+      { "text": "அவர்கள் கட்டளையால்", "rationale": "இது சரியல்ல.", "isCorrect": false },
+      { "text": "பள்ளிக்கு நேரமாகும் என்பதால்", "rationale": "இது சரியல்ல.", "isCorrect": false },
+      { "text": "நண்பர்கள் கேட்டதால்", "rationale": "இது சரியல்ல.", "isCorrect": false }
+    ],
+    "hint": "பெற்றோர் முதல் guru."
+  },
+  {
+    "questionNumber": 37,
+    "question": "நல்ல உடல்நலத்திற்கு எது தேவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "உடற்பயிற்சி", "rationale": "உடற்பயிற்சி உடல்நலத்திற்குத் தேவை.", "isCorrect": true },
+      { "text": "அதிக நேரம் தூக்கம்", "rationale": "இது மட்டும் போதாது.", "isCorrect": false },
+      { "text": "அதிக நேரம் விளையாட்டு", "rationale": "இது மட்டும் போதாது.", "isCorrect": false },
+      { "text": "அதிக நேரம் தொலைக்காட்சி", "rationale": "இது நல்லதல்ல.", "isCorrect": false }
+    ],
+    "hint": "உடலை வலுவாக்கு."
+  },
+  {
+    "questionNumber": 38,
+    "question": "'பிறருக்குக் கொடுத்து மகிழ்வோம்' என்ற பகுதியில் கண்மணி என்ன செய்தாள்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "பழைய பொம்மைகளை ஏழைக் குழந்தைகளுக்குக் கொடுத்தாள்", "rationale": "கண்மணி தன் பழைய பொம்மைகளை ஏழைக் குழந்தைகளுக்குக் கொடுத்தாள்.", "isCorrect": true },
+      { "text": "புதிய பொம்மைகளை வாங்கினாள்", "rationale": "இது சரியல்ல.", "isCorrect": false },
+      { "text": "பொம்மைகளை வீசி எறிந்தாள்", "rationale": "இது சரியல்ல.", "isCorrect": false },
+      { "text": "பொம்மைகளை விற்றாள்", "rationale": "இது சரியல்ல.", "isCorrect": false }
+    ],
+    "hint": "பிறருக்குக் கொடுப்பதில் மகிழ்ச்சி."
+  },
+  {
+    "questionNumber": 39,
+    "question": "'பிறருக்குக் கொடுப்பதில் தான் மகிழ்ச்சி' என்று கண்மணிக்குச் சொன்னவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஆசிரியர்", "rationale": "ஆசிரியர் தான் இதைச் சொன்னார்.", "isCorrect": true },
+      { "text": "அம்மா", "rationale": "அம்மா கண்மணியைப் பாராட்டினார்.", "isCorrect": false },
+      { "text": "அப்பா", "rationale": "அப்பா பற்றிக் குறிப்பில்லை.", "isCorrect": false },
+      { "text": "நண்பி", "rationale": "நண்பி பற்றிக் குறிப்பில்லை.", "isCorrect": false }
+    ],
+    "hint": "பள்ளியில் சொன்னவர்."
+  },
+  {
+    "questionNumber": 40,
+    "question": "ஆசிரியர் எதற்காகப் பொம்மைகள், புத்தங்களைச் சேகரித்தார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஏழைக் குழந்தைகளுக்குக் கொடுக்க", "rationale": "ஏழைக் குழந்தைகளுக்குக் கொடுக்கவே சேகரித்தார்.", "isCorrect": true },
+      { "text": "பள்ளிக்கூடத்திற்கு விற்க", "rationale": "இது சரியல்ல.", "isCorrect": false },
+      { "text": "தான் வைத்துக்கொள்ள", "rationale": "இது சரியல்ல.", "isCorrect": false },
+      { "text": "வீசி எறிய", "rationale": "இது சரியல்ல.", "isCorrect": false }
+    ],
+    "hint": "ஏழைக் குழந்தைகள்."
+  },
+  {
+    "questionNumber": 41,
+    "question": "ஒளவையார் அருளிய ஆத்திசூடியில் 'ஞ' வரிசைக்கான வாக்கியம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஞாயம் பட உணர்", "rationale": "ஆத்திசூடியில் 'ஞ' வரிசைக்கான வாக்கியம் இதுவே.", "isCorrect": true },
+      { "text": "நன்றி மறவேல்", "rationale": "இது 'ந' வரிசைக்கானது.", "isCorrect": false },
+      { "text": "நேர்பட ஒழுக", "rationale": "இது 'நே' வரிசைக்கானது.", "isCorrect": false },
+      { "text": "மேன்மக்கள் சொல் கேள்", "rationale": "இது 'மே' வரிசைக்கானது.", "isCorrect": false }
+    ],
+    "hint": "நீதி வழுவாதே."
+  },
+  {
+    "questionNumber": 42,
+    "question": "ஒளவையார் அருளிய ஆத்திசூடியில் 'ந' வரிசைக்கான வாக்கியம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஞாயம் பட உணர்", "rationale": "இது 'ஞ' வரிசைக்கானது.", "isCorrect": false },
+      { "text": "நன்றி மறவேல்", "rationale": "ஆத்திசூடியில் 'ந' வரிசைக்கான வாக்கியம் இதுவே.", "isCorrect": true },
+      { "text": "நேர்பட ஒழுக", "rationale": "இது 'நே' வரிசைக்கானது.", "isCorrect": false },
+      { "text": "அறனை மறவேல்", "rationale": "இது 'அ' வரிசைக்கானது.", "isCorrect": false }
+    ],
+    "hint": "நன்றியை மறவாதே."
+  },
+  {
+    "questionNumber": 43,
+    "question": "ஒளவையார் அருளிய ஆத்திசூடியில் 'நே' வரிசைக்கான வாக்கியம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஞாயம் பட உணர்", "rationale": "இது 'ஞ' வரிசைக்கானது.", "isCorrect": false },
+      { "text": "நன்றி மறவேல்", "rationale": "இது 'ந' வரிசைக்கானது.", "isCorrect": false },
+      { "text": "நேர்பட ஒழுக", "rationale": "ஆத்திசூடியில் 'நே' வரிசைக்கான வாக்கியம் இதுவே.", "isCorrect": true },
+      { "text": "அறனை மறவேல்", "rationale": "இது 'அ' வரிசைக்கானது.", "isCorrect": false }
+    ],
+    "hint": "நேர்மையாக நட."
+  },
+  {
+    "questionNumber": 44,
+    "question": "ஒளவையார் அருளிய ஆத்திசூடியில் 'மே' வரிசைக்கான வாக்கியம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஞாயம் பட உணர்", "rationale": "இது 'ஞ' வரிசைக்கானது.", "isCorrect": false },
+      { "text": "நன்றி மறவேல்", "rationale": "இது 'ந' வரிசைக்கானது.", "isCorrect": false },
+      { "text": "நேர்பட ஒழுக", "rationale": "இது 'நே' வரிசைக்கானது.", "isCorrect": false },
+      { "text": "மேன்மக்கள் சொல் கேள்", "rationale": "ஆத்திசூடியில் 'மே' வரிசைக்கான வாக்கியம் இதுவே.", "isCorrect": true }
+    ],
+    "hint": "நல்லவர் சொல் கேள்."
+  },
+  {
+    "questionNumber": 45,
+    "question": "திருக்குறளை முதன் முதலில் ஆங்கிலத்தில் மொழிபெயர்த்தவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஜி.யு. போப்", "rationale": "திருக்குறளை முதன் முதலில் ஆங்கிலத்தில் மொழிபெயர்த்தவர் ஜி.யு. போப்.", "isCorrect": true },
+      { "text": "ஒளவையார்", "rationale": "இவர் ஆத்திசூடி அருளியவர்.", "isCorrect": false },
+      { "text": "திருவள்ளுவர்", "rationale": "இவர் திருக்குறளை இயற்றியவர்.", "isCorrect": false },
+      { "text": "பாரதியார்", "rationale": "இவர் நவீன கவிஞர்.", "isCorrect": false }
+    ],
+    "hint": "ஜி.யு. போப்."
+  },
+  {
+    "questionNumber": 46,
+    "question": "'நோய்நாடி நோய்முதல் நாடி' என்ற குறளின் குறள் எண் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "948", "rationale": "இக்குறளின் குறள் எண் 948.", "isCorrect": true },
+      { "text": "392", "rationale": "இது 'எண்ணென்ப' குறள்.", "isCorrect": false },
+      { "text": "391", "rationale": "இது 'கற்க கசடற' குறள்.", "isCorrect": false },
+      { "text": "411", "rationale": "இது 'செல்வத்துள் செல்வம்' குறள்.", "isCorrect": false }
+    ],
+    "hint": "குறள் 948 — மருத்துவம்."
+  },
+  {
+    "questionNumber": 47,
+    "question": "நல்ல பழக்கவழக்கங்களில் ஒன்று எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "சுத்தமாக இருத்தல்", "rationale": "சுத்தமாக இருப்பது நல்ல பழக்கம்.", "isCorrect": true },
+      { "text": "அதிக நேரம் தொலைக்காட்சி பார்த்தல்", "rationale": "இது நல்ல பழக்கம் அல்ல.", "isCorrect": false },
+      { "text": "பொய் சொல்லுதல்", "rationale": "இது நல்ல பழக்கம் அல்ல.", "isCorrect": false },
+      { "text": "பிறரை இகழ்தல்", "rationale": "இது நல்ல பழக்கம் அல்ல.", "isCorrect": false }
+    ],
+    "hint": "சுத்தம் சோறு போடும்."
+  },
+  {
+    "questionNumber": 48,
+    "question": "'உணவை வீணாக்காமல் சாப்பிடுதல்' என்பது எந்த வகைப் பழக்கம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "நல்ல பழக்கம்", "rationale": "உணவை வீணாக்காமல் சாப்பிடுவது நல்ல பழக்கம்.", "isCorrect": true },
+      { "text": "கெட்ட பழக்கம்", "rationale": "இது நல்ல பழக்கம்.", "isCorrect": false },
+      { "text": "பொது பழக்கம்", "rationale": "இது நல்ல பழக்கம்.", "isCorrect": false },
+      { "text": "எதுவும் இல்லை", "rationale": "இது நல்ல பழக்கம்.", "isCorrect": false }
+    ],
+    "hint": "உணவை மதி."
+  },
+  {
+    "questionNumber": 49,
+    "question": "'உண்மையைப் பேசுதல்' என்பது எந்த வகைப் பழக்கம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "நல்ல பழக்கம்", "rationale": "உண்மையைப் பேசுவது நல்ல பழக்கம்.", "isCorrect": true },
+      { "text": "கெட்ட பழக்கம்", "rationale": "இது நல்ல பழக்கம்.", "isCorrect": false },
+      { "text": "பொது பழக்கம்", "rationale": "இது நல்ல பழக்கம்.", "isCorrect": false },
+      { "text": "எதுவும் இல்லை", "rationale": "இது நல்ல பழக்கம்.", "isCorrect": false }
+    ],
+    "hint": "உண்மையே உயிர்."
+  },
+  {
+    "questionNumber": 50,
+    "question": "'பெரியவர்களிடம் பணிவாகப் பேசுதல்' என்பது எந்த வகைப் பழக்கம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "நல்ல பழக்கம்", "rationale": "பெரியவர்களிடம் பணிவாகப் பேசுவது நல்ல பழக்கம்.", "isCorrect": true },
+      { "text": "கெட்ட பழக்கம்", "rationale": "இது நல்ல பழக்கம்.", "isCorrect": false },
+      { "text": "பொது பழக்கம்", "rationale": "இது நல்ல பழக்கம்.", "isCorrect": false },
+      { "text": "எதுவும் இல்லை", "rationale": "இது நல்ல பழக்கம்.", "isCorrect": false }
+    ],
+    "hint": "மரியாதை காட்டு."
+  }
+]
